@@ -35,7 +35,7 @@
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
     <metaTag name="arranger"></metaTag>
-    <metaTag name="composer">Wq I17/12</metaTag>
+    <metaTag name="composer">Carl Philipp Emanuel Bach</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2017-10-08</metaTag>
     <metaTag name="lyricist">IOO</metaTag>
@@ -47,7 +47,7 @@
     <metaTag name="poet"></metaTag>
     <metaTag name="source">/tmp/lg-540424174.tmp.pdf</metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
+    <metaTag name="workNumber">Wq.117/12</metaTag>
     <metaTag name="workTitle">Fantasia in D Minor</metaTag>
     <Part>
       <Staff id="1">
@@ -80,7 +80,7 @@
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Composer</style>
-          <text><font size="11"/><font face="serif"/>Wq 117/12</text>
+          <text><font size="11"></font><font face="serif"></font>Wq 117/12</text>
           </Text>
         <Text>
           <style>Title</style>
