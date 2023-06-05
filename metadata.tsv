@@ -1,13 +1,46 @@
-<<<<<<< HEAD
 rel_paths	fnames	last_mc	last_mn	length_qb	length_qb_unfolded	all_notes_qb	n_onsets	TimeSig	KeySig	label_count	composer	workTitle	movementNumber	movementTitle	workNumber	poet	lyricist	arranger	copyright	creationDate	mscVersion	platform	source	translator	musescore	ambitus	originalFormat	staff_1_ambitus	staff_1_instrument	staff_2_ambitus	staff_2_instrument
-MS3	wq117n12	14	14	56.0	56.0	95.5	212		1: -1	0	Carl Philipp Emanuel Bach	Fantasia in D Minor			Wq.117/12		IOO			2017-10-08	3.02	Linux	/tmp/lg-540424174.tmp.pdf		3.6.2	38-86 (D2-D6)	xml	61-86 (C#4-D6)	Acoustic Grand Piano	38-62 (D2-D4)	Acoustic Grand Piano
-MS3	wq117n15	7	7	28.0	56.0	50.0	194		1: -1	0	Carl Philipp Emanuel Bach	Fantasia in D minor			Wq.117/15				Public Domain (PianoXML Typeset)	2020-01-03	3.02	Linux			3.6.2	38-88 (D2-E6)		52-88 (E3-E6)	Piano	38-62 (D2-D4)	Piano
-MS3	wq55n04a	130	130	520.0	996.0	979.5	2349		1: 3	0	Carl Philipp Emanuel Bach	Sonata in A Major, W.55/4	1.0	Allegro assai	Wq.55/4					2021-03-24		Microsoft Windows	http://musescore.com/user/30662474/scores/6682611		3.6.2	33-88 (A1-E6)		47-88 (B2-E6)	Piano vertical	33-72 (A1-B#4)	Piano vertical
-MS3	wq55n04b	32	32	128.0	128.0	258.12	797		1: 0	0	Carl Philipp Emanuel Bach	Sonata in A Major, W.55/4	2.0	Poco adagio	Wq.55/4					2021-03-24		Microsoft Windows	http://musescore.com/user/30662474/scores/6682611		3.6.2	35-88 (B1-E6)		49-88 (C#3-E6)	Piano vertical	35-65 (B1-E#4)	Piano vertical
-MS3	wq55n04c	137	137	274.0	540.0	478.92	1507		1: 0	0	Carl Philipp Emanuel Bach	Sonata in A Major, W.55/4	3.0	Allegro	Wq.55/4					2021-03-24		Microsoft Windows	http://musescore.com/user/30662474/scores/6682611		3.6.2	40-88 (E2-E6)		52-88 (E3-E6)	Piano vertical	40-80 (E2-G#5)	Piano vertical
-=======
-fname	TimeSig	KeySig	last_mc	last_mn	length_qb	last_mc_unfolded	last_mn_unfolded	length_qb_unfolded	volta_mcs	all_notes_qb	n_onsets	n_onset_positions	guitar_chord_count	form_label_count	label_count	composer	workTitle	movementNumber	movementTitle	workNumber	poet	lyricist	arranger	copyright	creationDate	mscVersion	platform	source	translator	title_text	subtitle_text	composer_text	musescore	ms3_version	subdirectory	rel_path	has_drumset	ambitus	originalFormat	staff_1_ambitus	staff_1_instrument	staff_2_ambitus	staff_2_instrument
-wq117n12	1: 4/4	1: -1	14	14	56.0	14	14	56.0		95.5	212	161	0	0	0	Wq I17/12	Fantasia in D Minor					IOO			2017-10-08	3.02	Linux	/tmp/lg-540424174.tmp.pdf		"<font size=""15""/><font face=""serif""/>Fantasia in D Minor"		"<font size=""11""/><font face=""serif""/>Wq 117/12"	3.6.2	1.2.9	MS3	MS3/wq117n12.mscx	False	38-86 (D2-D6)	xml	61-86 (C#4-D6)	Acoustic Grand Piano	38-62 (D2-D4)	Acoustic Grand Piano
-wq117n15	1: 4/4	1: -1	7	7	28.0	14	14	56.0		50.0	194	163	0	0	0	Carl Philipp Emanuel Bach	Fantasia in D minor							Public Domain (PianoXML Typeset)	2020-01-03	3.02	Linux			Fantasia in D minor	H.195 (Wq.117/15)	Carl Philipp Emanuel Bach	3.6.2	1.2.9	MS3	MS3/wq117n15.mscx	False	38-88 (D2-E6)		52-88 (E3-E6)	Piano	38-62 (D2-D4)	Piano
-wq55n04	1: 4/4	1: 3	130	130	520.0	249	249	996.0	(((42,), (43,)), ((122,), (123,)))	979.5	2349	1580	0	0	0	C. P. E. Bach	Sonata in A Major, W.55/4								2021-03-24		Microsoft Windows	http://musescore.com/user/30662474/scores/6682611		"<font face=""Bodoni MT""/>Sonata in A Major, W.55/4"		"<font face=""Bodoni MT""/>C. P. E. Bach (ca.1771)"	3.6.2	1.2.9	MS3	MS3/wq55n04a.mscx	False	33-88 (A1-E6)		47-88 (B2-E6)	Piano vertical	33-72 (A1-B#4)	Piano vertical
->>>>>>> 5e0961dcf449099f5fc311bb7a0e6ef64afb6be4
+MS3	wq117n12	14	14	56	56	95.5	212		1: -1	0	Carl Philipp Emanuel Bach	Fantasia in D Minor			Wq.117/12					2017-10-08	3.02	Linux	/tmp/lg-540424174.tmp.pdf		3.6.2	38-86 (D2-D6)	xml	61-86 (C#4-D6)	Acoustic Grand Piano	38-62 (D2-D4)	Acoustic Grand Piano
+MS3	wq117n15	7	7	28	56	50	194		1: -1	0	Carl Philipp Emanuel Bach	Fantasia in D minor			Wq.117/15					2020-01-03	3.02	Linux			3.6.2	38-88 (D2-E6)		52-88 (E3-E6)	Piano	38-62 (D2-D4)	Piano
+MS3	wq50n01a										Carl Philipp Emanuel Bach	Sonata in F Major	1	Allegretto	Wq.50/1																
+MS3	wq50n01b										Carl Philipp Emanuel Bach	Sonata in F Major	2	Largo	Wq.50/1																
+MS3	wq50n01c										Carl Philipp Emanuel Bach	Sonata in F Major	3	Vivace	Wq.50/1																
+MS3	wq50n02a										Carl Philipp Emanuel Bach	Sonata in G Major	1	Allegretto	Wq.50/2																
+MS3	wq50n02b										Carl Philipp Emanuel Bach	Sonata in G Major	2	Poco adagio	Wq.50/2																
+MS3	wq50n02c										Carl Philipp Emanuel Bach	Sonata in G Major	3	Allegro assai	Wq.50/2																
+MS3	wq50n03a										Carl Philipp Emanuel Bach	Sonata in A Minor	1	Presto	Wq.50/3																
+MS3	wq50n03b										Carl Philipp Emanuel Bach	Sonata in A Minor	2	Largo	Wq.50/3																
+MS3	wq50n03c										Carl Philipp Emanuel Bach	Sonata in A Minor	3	Allegro moderato ma innocentemente	Wq.50/3																
+MS3	wq50n04a										Carl Philipp Emanuel Bach	Sonata in D Minor	1	Allegretto grazioso	Wq.50/4																
+MS3	wq50n04b										Carl Philipp Emanuel Bach	Sonata in D Minor	2	Adagio sostenuto	Wq.50/4																
+MS3	wq50n04c										Carl Philipp Emanuel Bach	Sonata in D Minor	3	Allegro	Wq.50/4																
+MS3	wq50n05a										Carl Philipp Emanuel Bach	Sonata in B-flat Major	1	Poco allegro	Wq.50/5																
+MS3	wq50n05b										Carl Philipp Emanuel Bach	Sonata in B-flat Major	2	Larghetto	Wq.50/5																
+MS3	wq50n05c										Carl Philipp Emanuel Bach	Sonata in B-flat Major	3	Tempo di minuetto	Wq.50/5																
+MS3	wq50n06										Carl Philipp Emanuel Bach	Sonata in C Minor	1	Allegro moderato	Wq.50/6																
+MS3	wq55n01a										Carl Philipp Emanuel Bach	Sonata in C Major	1	Prestissimo	Wq.55/1																
+MS3	wq55n01b										Carl Philipp Emanuel Bach	Sonata in C Major	2	Andante	Wq.55/1																
+MS3	wq55n01c										Carl Philipp Emanuel Bach	Sonata in C Major	3	Allegretto	Wq.55/1																
+MS3	wq55n02a										Carl Philipp Emanuel Bach	Sonata in F Major	1	Andante	Wq.55/2																
+MS3	wq55n02b										Carl Philipp Emanuel Bach	Sonata in F Major	2	Larghetto	Wq.55/2																
+MS3	wq55n02c										Carl Philipp Emanuel Bach	Sonata in F Major	3	Allegro assai	Wq.55/2																
+MS3	wq55n03a										Carl Philipp Emanuel Bach	Sonata in B Minor	1	Allegretto	Wq.55/3																
+MS3	wq55n03b										Carl Philipp Emanuel Bach	Sonata in B Minor	2	Andante	Wq.55/3																
+MS3	wq55n03c										Carl Philipp Emanuel Bach	Sonata in B Minor	3	Cantabile	Wq.55/3																
+MS3	wq55n04a	130	130	520	996	979.5	2349		1: 3	0	Carl Philipp Emanuel Bach	Sonata in A Major	1	Allegro assai	Wq.55/4					2021-03-24		Microsoft Windows	http://musescore.com/user/30662474/scores/6682611		3.6.2	33-88 (A1-E6)		47-88 (B2-E6)	Piano vertical	33-72 (A1-B#4)	Piano vertical
+MS3	wq55n04b	32	32	128	128	258.12	797		1: 0	0	Carl Philipp Emanuel Bach	Sonata in A Major	2	Poco adagio	Wq.55/4					2021-03-24		Microsoft Windows	http://musescore.com/user/30662474/scores/6682611		3.6.2	35-88 (B1-E6)		49-88 (C#3-E6)	Piano vertical	35-65 (B1-E#4)	Piano vertical
+MS3	wq55n04c	137	137	274	540	478.92	1507		1: 0	0	Carl Philipp Emanuel Bach	Sonata in A Major	3	Allegro	Wq.55/4					2021-03-24		Microsoft Windows	http://musescore.com/user/30662474/scores/6682611		3.6.2	40-88 (E2-E6)		52-88 (E3-E6)	Piano vertical	40-80 (E2-G#5)	Piano vertical
+MS3	wq55n05a										Carl Philipp Emanuel Bach	Sonata in F Major	1	Allegro	Wq.55/5																
+MS3	wq55n05b										Carl Philipp Emanuel Bach	Sonata in F Major	2	Adagio maestoso	Wq.55/5																
+MS3	wq55n05c										Carl Philipp Emanuel Bach	Sonata in F Major	3	Allegretto	Wq.55/5																
+MS3	wq55n06a										Carl Philipp Emanuel Bach	Sonata in G Major	1	Allegretto moderato	Wq.55/6																
+MS3	wq55n06b										Carl Philipp Emanuel Bach	Sonata in G Major	2	Andante	Wq.55/6																
+MS3	wq55n06c										Carl Philipp Emanuel Bach	Sonata in G Major	3	Allegro di molto	Wq.55/6																
+MS3	wq56n01										Carl Philipp Emanuel Bach	Rondo in C Major	1		Wq.56/1																
+MS3	wq56n02a										Carl Philipp Emanuel Bach	Sonata in G Major	1	Allegretto	Wq.56/2																
+MS3	wq56n02b										Carl Philipp Emanuel Bach	Sonata in G Major	2	Larghetto	Wq.56/2																
+MS3	wq56n02c										Carl Philipp Emanuel Bach	Sonata in G Major	3	Allegro	Wq.56/2																
+MS3	wq56n03										Carl Philipp Emanuel Bach	Rondo in D Major	1		Wq.56/3																
+MS3	wq56n04a										Carl Philipp Emanuel Bach	Sonata in F Major	1	Andantino	Wq.56/4																
+MS3	wq56n04b										Carl Philipp Emanuel Bach	Sonata in F Major	2	Presto	Wq.56/5																
+MS3	wq56n05										Carl Philipp Emanuel Bach	Rondo in A Minor	1		Wq.56/5																
+MS3	wq56n06										Carl Philipp Emanuel Bach	Sonata in A Major	1	Allegretto	Wq.56/6																
