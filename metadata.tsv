@@ -1,6 +1,15 @@
 rel_paths	fnames	last_mc	last_mn	length_qb	length_qb_unfolded	all_notes_qb	n_onsets	TimeSig	KeySig	label_count	composer	workTitle	movementNumber	movementTitle	workNumber	poet	lyricist	arranger	copyright	creationDate	mscVersion	platform	source	translator	musescore	ambitus	originalFormat	staff_1_ambitus	staff_1_instrument	staff_2_ambitus	staff_2_instrument
-MS3	wq117n12	14	14	56	56	95.5	212		1: -1	0	Carl Philipp Emanuel Bach	Fantasia in D Minor			Wq.117/12					2017-10-08	3.02	Linux	/tmp/lg-540424174.tmp.pdf		3.6.2	38-86 (D2-D6)	xml	61-86 (C#4-D6)	Acoustic Grand Piano	38-62 (D2-D4)	Acoustic Grand Piano
-MS3	wq117n15	7	7	28	56	50	194		1: -1	0	Carl Philipp Emanuel Bach	Fantasia in D minor			Wq.117/15					2020-01-03	3.02	Linux			3.6.2	38-88 (D2-E6)		52-88 (E3-E6)	Piano	38-62 (D2-D4)	Piano
+MS3	wq112n02										Carl Philipp Emanuel Bach	Fantasia in D Major	1		Wq.112/2																
+MS3	wq112n08										Carl Philipp Emanuel Bach	Fantasia in B-flat Major	1		Wq.112/8																
+MS3	wq112n15										Carl Philipp Emanuel Bach	Fantasia in F Major	1		Wq.112/15																
+MS3	wq113n03										Carl Philipp Emanuel Bach	Fantasia in D Minor	1		Wq.113/3																
+MS3	wq114n07										Carl Philipp Emanuel Bach	Fantasia in D Minor	1																		
+MS3	wq117n11										Carl Philipp Emanuel Bach	Fantasia in G Major	1		Wq.117/11																
+MS3	wq117n12	14	14	56	56	95.5	212		1: -1	0	Carl Philipp Emanuel Bach	Fantasia in D Minor	1		Wq.117/12					2017-10-08	3.02	Linux	/tmp/lg-540424174.tmp.pdf		3.6.2	38-86 (D2-D6)	xml	61-86 (C#4-D6)	Acoustic Grand Piano	38-62 (D2-D4)	Acoustic Grand Piano
+MS3	wq117n13										Carl Philipp Emanuel Bach	Fantasia in G Minor	1		Wq.117/13																
+MS3	wq117n14										Carl Philipp Emanuel Bach	Fantasia in D Major	1		Wq.117/14																
+MS3	wq117n15	7	7	28	56	50	194		1: -1	0	Carl Philipp Emanuel Bach	Fantasia in D Minor	1		Wq.117/15					2020-01-03	3.02	Linux			3.6.2	38-88 (D2-E6)		52-88 (E3-E6)	Piano	38-62 (D2-D4)	Piano
+MS3	wq119n07										Carl Philipp Emanuel Bach	Fantasia and Fugue in C Minor	1																		
 MS3	wq50n01a										Carl Philipp Emanuel Bach	Sonata in F Major	1	Allegretto	Wq.50/1																
 MS3	wq50n01b										Carl Philipp Emanuel Bach	Sonata in F Major	2	Largo	Wq.50/1																
 MS3	wq50n01c										Carl Philipp Emanuel Bach	Sonata in F Major	3	Vivace	Wq.50/1																
@@ -44,3 +53,15 @@ MS3	wq56n04a										Carl Philipp Emanuel Bach	Sonata in F Major	1	Andantino	Wq
 MS3	wq56n04b										Carl Philipp Emanuel Bach	Sonata in F Major	2	Presto	Wq.56/5																
 MS3	wq56n05										Carl Philipp Emanuel Bach	Rondo in A Minor	1		Wq.56/5																
 MS3	wq56n06										Carl Philipp Emanuel Bach	Sonata in A Major	1	Allegretto	Wq.56/6																
+MS3	wq57n01										Carl Philipp Emanuel Bach	Rondo in E Major	1		Wq.57/1																
+MS3	wq57n02a										Carl Philipp Emanuel Bach	Sonata in A Minor	1	Allegro	Wq.57/2																
+MS3	wq57n02b										Carl Philipp Emanuel Bach	Sonata in A Minor	2	Andante	Wq.57/2																
+MS3	wq57n02c										Carl Philipp Emanuel Bach	Sonata in A Minor	3	Allegro di molto	Wq.57/2																
+MS3	wq57n03										Carl Philipp Emanuel Bach	Rondo in G Major	1		Wq.57/3																
+MS3	wq57n04a										Carl Philipp Emanuel Bach	Sonata in D Minor	1	Allegro moderato	Wq.57/4																
+MS3	wq57n04b										Carl Philipp Emanuel Bach	Sonata in D Minor	2	Cantabile e mesto	Wq.57/4																
+MS3	wq57n04c										Carl Philipp Emanuel Bach	Sonata in D Minor	3	Allegro	Wq.57/4																
+MS3	wq57n05										Carl Philipp Emanuel Bach	Rondo in F Major	1		Wq.57/5																
+MS3	wq57n06a										Carl Philipp Emanuel Bach	Sonata in F Minor	1	Allegro assai	Wq.57/6																
+MS3	wq57n06b										Carl Philipp Emanuel Bach	Sonata in F Minor	2	Andante	Wq.57/6																
+MS3	wq57n06c										Carl Philipp Emanuel Bach	Sonata in F Minor	3	Andantino grazioso	Wq.57/6																
