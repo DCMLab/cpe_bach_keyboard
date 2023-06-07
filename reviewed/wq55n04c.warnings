@@ -1,0 +1,7 @@
+Warnings encountered during the last execution of ms3 review (v1.2.9)
+=====================================================================
+
+INCORRECT_VOLTA_MN_WARNING (2, 47) ms3.Parse.cpe_bach_keyboard.wq55n04c
+	MC 47, the 1st measure of a 2nd volta, should have MN 46, not MN 47.
+INCORRECT_VOLTA_MN_WARNING (2, 137) ms3.Parse.cpe_bach_keyboard.wq55n04c
+	MC 137, the 1st measure of a 2nd volta, should have MN 136, not MN 137.
