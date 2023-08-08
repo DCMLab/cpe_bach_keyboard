@@ -4644,6 +4644,10 @@ Wq 117 /13 </text>
           </voice>
         </Measure>
       <Measure>
+        <MeasureNumber>
+          <visible>0</visible>
+          <text>5</text>
+          </MeasureNumber>
         <voice>
           <TimeSig>
             <visible>0</visible>
@@ -4845,6 +4849,10 @@ Wq 117 /13 </text>
           </voice>
         </Measure>
       <Measure>
+        <MeasureNumber>
+          <visible>0</visible>
+          <text>6</text>
+          </MeasureNumber>
         <voice>
           <TimeSig>
             <visible>0</visible>
@@ -5223,6 +5231,10 @@ Wq 117 /13 </text>
           </voice>
         </Measure>
       <Measure>
+        <MeasureNumber>
+          <visible>0</visible>
+          <text>7</text>
+          </MeasureNumber>
         <voice>
           <TimeSig>
             <visible>0</visible>
@@ -5529,6 +5541,10 @@ Wq 117 /13 </text>
           </voice>
         </Measure>
       <Measure>
+        <MeasureNumber>
+          <visible>0</visible>
+          <text>8</text>
+          </MeasureNumber>
         <voice>
           <TimeSig>
             <visible>0</visible>
