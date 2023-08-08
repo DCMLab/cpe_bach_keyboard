@@ -15298,6 +15298,9 @@ Wq 119 / 7 </text>
             <visible>0</visible>
             <durationType>eighth</durationType>
             </Rest>
+          <BarLine>
+            <visible>0</visible>
+            </BarLine>
           <TimeSig>
             <visible>0</visible>
             <sigN>11</sigN>
@@ -15456,6 +15459,9 @@ Wq 119 / 7 </text>
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <BarLine>
+            <visible>0</visible>
+            </BarLine>
           <TimeSig>
             <visible>0</visible>
             <sigN>29</sigN>
