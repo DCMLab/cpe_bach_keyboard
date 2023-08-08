@@ -2361,10 +2361,7 @@ Wq 117 /13 </text>
         <voice/>
         <voice>
           <location>
-            <fractions>9/4</fractions>
-            </location>
-          <location>
-            <fractions>1/2</fractions>
+            <fractions>11/4</fractions>
             </location>
           <Chord>
             <durationType>quarter</durationType>
@@ -2850,10 +2847,7 @@ Wq 117 /13 </text>
           </voice>
         <voice>
           <location>
-            <fractions>1/1</fractions>
-            </location>
-          <location>
-            <fractions>1/8</fractions>
+            <fractions>9/8</fractions>
             </location>
           <Chord>
             <durationType>quarter</durationType>
@@ -4581,6 +4575,14 @@ Wq 117 /13 </text>
             <visible>0</visible>
             <durationType>16th</durationType>
             </Rest>
+          <BarLine>
+            <visible>0</visible>
+            </BarLine>
+          <TimeSig>
+            <visible>0</visible>
+            <sigN>3</sigN>
+            <sigD>4</sigD>
+            </TimeSig>
           </voice>
         <voice>
           <Beam>
@@ -4639,26 +4641,21 @@ Wq 117 /13 </text>
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>7/4</fractions>
-            </location>
           </voice>
         </Measure>
-      <Measure len="3/4">
-        <irregular>1</irregular>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
+      <Measure>
         <voice>
+          <TimeSig>
+            <visible>0</visible>
+            <sigN>3</sigN>
+            <sigD>4</sigD>
+            </TimeSig>
           <RehearsalMark>
             <text><font size="10.7"></font><b>3e</b></text>
             </RehearsalMark>
           <Rest>
             <durationType>32nd</durationType>
             </Rest>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>32nd</durationType>
@@ -4782,9 +4779,6 @@ Wq 117 /13 </text>
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>32nd</durationType>
@@ -4838,23 +4832,25 @@ Wq 117 /13 </text>
             </Chord>
           <Rest>
             <visible>0</visible>
-            <durationType>32nd</durationType>
-            </Rest>
-          <Rest>
-            <visible>0</visible>
-            <durationType>32nd</durationType>
+            <durationType>16th</durationType>
             </Rest>
           <BarLine>
             <visible>0</visible>
             </BarLine>
+          <TimeSig>
+            <visible>0</visible>
+            <sigN>20</sigN>
+            <sigD>4</sigD>
+            </TimeSig>
           </voice>
         </Measure>
-      <Measure len="20/4">
-        <irregular>1</irregular>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
+      <Measure>
         <voice>
+          <TimeSig>
+            <visible>0</visible>
+            <sigN>20</sigN>
+            <sigD>4</sigD>
+            </TimeSig>
           <RehearsalMark>
             <text><font size="10.7"></font><b>3f</b></text>
             </RehearsalMark>
@@ -4999,6 +4995,11 @@ Wq 117 /13 </text>
           <BarLine>
             <visible>0</visible>
             </BarLine>
+          <TimeSig>
+            <visible>0</visible>
+            <sigN>6</sigN>
+            <sigD>4</sigD>
+            </TimeSig>
           </voice>
         <voice>
           <location>
@@ -5221,13 +5222,13 @@ Wq 117 /13 </text>
             </Chord>
           </voice>
         </Measure>
-      <Measure len="6/4">
-        <irregular>1</irregular>
-        <measureNumberMode>2</measureNumberMode>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
+      <Measure>
         <voice>
+          <TimeSig>
+            <visible>0</visible>
+            <sigN>6</sigN>
+            <sigD>4</sigD>
+            </TimeSig>
           <Rest>
             <visible>0</visible>
             <durationType>half</durationType>
@@ -5236,9 +5237,6 @@ Wq 117 /13 </text>
             <visible>0</visible>
             <durationType>16th</durationType>
             </Rest>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>64th</durationType>
@@ -5341,13 +5339,6 @@ Wq 117 /13 </text>
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            <Fragment>
-              <y1>4.75</y1>
-              <y2>4.52353</y2>
-              </Fragment>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>32nd</durationType>
@@ -5402,9 +5393,6 @@ Wq 117 /13 </text>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>32nd</durationType>
@@ -5518,30 +5506,43 @@ Wq 117 /13 </text>
             </Chord>
           <Rest>
             <visible>0</visible>
-            <dots>2</dots>
             <durationType>eighth</durationType>
-            <duration>11/64</duration>
-            <NoteDot>
-              <visible>0</visible>
-              </NoteDot>
-            <NoteDot>
-              <visible>0</visible>
-              </NoteDot>
+            </Rest>
+          <Rest>
+            <offset x="-5" y="0"/>
+            <visible>0</visible>
+            <durationType>32nd</durationType>
+            </Rest>
+          <Rest>
+            <offset x="-5" y="-0.547779"/>
+            <visible>0</visible>
+            <durationType>64th</durationType>
             </Rest>
           <BarLine>
             <visible>0</visible>
             </BarLine>
+          <TimeSig>
+            <visible>0</visible>
+            <sigN>5</sigN>
+            <sigD>4</sigD>
+            </TimeSig>
           </voice>
         </Measure>
-      <Measure len="5/4">
-        <irregular>1</irregular>
+      <Measure>
         <voice>
+          <TimeSig>
+            <visible>0</visible>
+            <sigN>5</sigN>
+            <sigD>4</sigD>
+            </TimeSig>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
           <Rest>
-            <dots>1</dots>
             <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <durationType>16th</durationType>
             </Rest>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -6377,10 +6378,7 @@ Wq 117 /13 </text>
               </Note>
             </Chord>
           <location>
-            <fractions>1/16</fractions>
-            </location>
-          <location>
-            <fractions>3/16</fractions>
+            <fractions>1/4</fractions>
             </location>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -6403,10 +6401,7 @@ Wq 117 /13 </text>
               </Note>
             </Chord>
           <location>
-            <fractions>1/16</fractions>
-            </location>
-          <location>
-            <fractions>3/16</fractions>
+            <fractions>1/4</fractions>
             </location>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -6985,12 +6980,6 @@ Wq 117 /13 </text>
               <tpc>10</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>9/2</fractions>
-            </location>
-          <location>
-            <fractions>1/4</fractions>
-            </location>
           </voice>
         <voice>
           <location>
@@ -7032,12 +7021,6 @@ Wq 117 /13 </text>
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>13/4</fractions>
-            </location>
-          <location>
-            <fractions>3/2</fractions>
-            </location>
           </voice>
         </Measure>
       <Measure len="12/4">
@@ -7926,10 +7909,23 @@ Wq 117 /13 </text>
             <visible>0</visible>
             <durationType>16th</durationType>
             </Rest>
+          <BarLine>
+            <visible>0</visible>
+            </BarLine>
+          <TimeSig>
+            <visible>0</visible>
+            <sigN>3</sigN>
+            <sigD>4</sigD>
+            </TimeSig>
           </voice>
         </Measure>
-      <Measure len="3/4">
+      <Measure>
         <voice>
+          <TimeSig>
+            <visible>0</visible>
+            <sigN>3</sigN>
+            <sigD>4</sigD>
+            </TimeSig>
           <Chord>
             <durationType>half</durationType>
             <StemDirection>up</StemDirection>
@@ -7953,13 +7949,6 @@ Wq 117 /13 </text>
           <Rest>
             <durationType>16th</durationType>
             </Rest>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            <Fragment>
-              <y1>7.21555</y1>
-              <y2>7.30252</y2>
-              </Fragment>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>32nd</durationType>
@@ -7979,10 +7968,20 @@ Wq 117 /13 </text>
           <BarLine>
             <visible>0</visible>
             </BarLine>
+          <TimeSig>
+            <visible>0</visible>
+            <sigN>20</sigN>
+            <sigD>4</sigD>
+            </TimeSig>
           </voice>
         </Measure>
-      <Measure len="20/4">
+      <Measure>
         <voice>
+          <TimeSig>
+            <visible>0</visible>
+            <sigN>20</sigN>
+            <sigD>4</sigD>
+            </TimeSig>
           <Chord>
             <durationType>half</durationType>
             <StemDirection>up</StemDirection>
@@ -8323,13 +8322,20 @@ Wq 117 /13 </text>
             <visible>0</visible>
             <durationType>quarter</durationType>
             </Rest>
-          <BarLine>
+          <TimeSig>
             <visible>0</visible>
-            </BarLine>
+            <sigN>6</sigN>
+            <sigD>4</sigD>
+            </TimeSig>
           </voice>
         </Measure>
-      <Measure len="6/4">
+      <Measure>
         <voice>
+          <TimeSig>
+            <visible>0</visible>
+            <sigN>6</sigN>
+            <sigD>4</sigD>
+            </TimeSig>
           <Chord>
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
@@ -8347,13 +8353,6 @@ Wq 117 /13 </text>
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            <Fragment>
-              <y1>9.75</y1>
-              <y2>9.52353</y2>
-              </Fragment>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>64th</durationType>
@@ -8395,7 +8394,11 @@ Wq 117 /13 </text>
             </Chord>
           <Rest>
             <visible>0</visible>
-            <durationType>16th</durationType>
+            <durationType>half</durationType>
+            </Rest>
+          <Rest>
+            <visible>0</visible>
+            <durationType>quarter</durationType>
             </Rest>
           <Rest>
             <visible>0</visible>
@@ -8403,19 +8406,25 @@ Wq 117 /13 </text>
             </Rest>
           <Rest>
             <visible>0</visible>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <NoteDot>
-              <visible>0</visible>
-              </NoteDot>
+            <durationType>16th</durationType>
             </Rest>
           <BarLine>
             <visible>0</visible>
             </BarLine>
+          <TimeSig>
+            <visible>0</visible>
+            <sigN>5</sigN>
+            <sigD>4</sigD>
+            </TimeSig>
           </voice>
         </Measure>
-      <Measure len="5/4">
+      <Measure>
         <voice>
+          <TimeSig>
+            <visible>0</visible>
+            <sigN>5</sigN>
+            <sigD>4</sigD>
+            </TimeSig>
           <Rest>
             <offset x="0" y="-3"/>
             <visible>0</visible>
@@ -8424,11 +8433,12 @@ Wq 117 /13 </text>
           <Rest>
             <offset x="0" y="-3"/>
             <visible>0</visible>
-            <dots>1</dots>
             <durationType>eighth</durationType>
-            <NoteDot>
-              <visible>0</visible>
-              </NoteDot>
+            </Rest>
+          <Rest>
+            <offset x="0" y="-3"/>
+            <visible>0</visible>
+            <durationType>16th</durationType>
             </Rest>
           <Chord>
             <BeamMode>no</BeamMode>
