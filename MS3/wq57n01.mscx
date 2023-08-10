@@ -18386,6 +18386,7 @@ Wq 57 / 1</text>
           </voice>
         </Measure>
       <Measure>
+        <irregular>1</irregular>
         <voice>
           <TimeSig>
             <visible>0</visible>
