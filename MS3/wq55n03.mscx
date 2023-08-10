@@ -132,7 +132,7 @@ Wq 55 / 3</text>
           <Tempo>
             <tempo>1.1916666666666667</tempo>
             <followText>1</followText>
-            <text><font size="10.7"/><b>Allegretto</b></text>
+            <text><font size="10.7"></font><b>Allegretto</b></text>
             </Tempo>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -2730,6 +2730,11 @@ Wq 55 / 3</text>
         </Measure>
       <Measure>
         <startRepeat/>
+        <Marker>
+          <style>Repeat Text Left</style>
+          <text><sym>segno</sym></text>
+          <label>segno</label>
+          </Marker>
         <voice>
           <TimeSig>
             <visible>0</visible>
@@ -5377,13 +5382,20 @@ Wq 55 / 3</text>
           <autoplace>0</autoplace>
           <style>Repeat Text Right</style>
           <placement>below</placement>
-          <offset x="-8.10276" y="16.1819"/>
+          <offset x="-7.27137" y="16.0433"/>
           <text>Fine</text>
           <label>fine</label>
           </Marker>
         <LayoutBreak>
           <subtype>section</subtype>
           </LayoutBreak>
+        <Jump>
+          <style>Repeat Text Right</style>
+          <text>D.S.</text>
+          <jumpTo>segno</jumpTo>
+          <playUntil>end</playUntil>
+          <continueAt></continueAt>
+          </Jump>
         <voice>
           <Rest>
             <visible>0</visible>
@@ -5463,7 +5475,7 @@ Wq 55 / 3</text>
             <tempo>1.3666666666666667</tempo>
             <followText>1</followText>
             <offset x="0.102261" y="-3.3294"/>
-            <text><font size="10.7"/><b>Andante</b></text>
+            <text><font size="10.7"></font><b>Andante</b></text>
             </Tempo>
           <Dynamic>
             <subtype>p</subtype>
@@ -8092,7 +8104,7 @@ Wq 55 / 3</text>
           <Tempo>
             <tempo>1.2333333333333334</tempo>
             <followText>1</followText>
-            <text><font size="10.7"/><b>Cantabile</b></text>
+            <text><font size="10.7"></font><b>Cantabile</b></text>
             </Tempo>
           <Dynamic>
             <subtype>f</subtype>
