@@ -133,7 +133,7 @@ Wq 56 / 3</text>
           <Tempo>
             <tempo>1.8666666666666667</tempo>
             <followText>1</followText>
-            <text><font size="10.7"/><b>Аllegretto</b></text>
+            <text><font size="10.7"></font><b>Аllegretto</b></text>
             </Tempo>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -10785,7 +10785,7 @@ Wq 56 / 3</text>
           <StaffText>
             <minDistance>0.227303</minDistance>
             <offset x="-2.72697" y="-3.02306"/>
-            <text><font size="10.7"/><b>poco adagio</b></text>
+            <text><font size="10.7"></font><b>poco adagio</b></text>
             </StaffText>
           <Dynamic>
             <subtype>p</subtype>
@@ -10813,10 +10813,7 @@ Wq 56 / 3</text>
           </voice>
         <voice>
           <location>
-            <fractions>1/4</fractions>
-            </location>
-          <location>
-            <fractions>1/4</fractions>
+            <fractions>1/2</fractions>
             </location>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -10949,7 +10946,7 @@ Wq 56 / 3</text>
           <Tempo>
             <tempo>1.8666666666666667</tempo>
             <followText>1</followText>
-            <text><font size="10.7"/>allegretto</text>
+            <text><font size="10.7"></font>allegretto</text>
             </Tempo>
           <Chord>
             <durationType>quarter</durationType>
@@ -13084,7 +13081,7 @@ Wq 56 / 3</text>
             <followText>1</followText>
             <autoplace>0</autoplace>
             <offset x="81.4905" y="-4.14583"/>
-            <text><font size="10.7"/>allegretto</text>
+            <text><font size="10.7"></font>allegretto</text>
             </Tempo>
           <Chord>
             <durationType>quarter</durationType>
@@ -13556,10 +13553,7 @@ Wq 56 / 3</text>
           </voice>
         <voice>
           <location>
-            <fractions>1/1</fractions>
-            </location>
-          <location>
-            <fractions>5/4</fractions>
+            <fractions>9/4</fractions>
             </location>
           <Chord>
             <durationType>quarter</durationType>
@@ -13580,9 +13574,6 @@ Wq 56 / 3</text>
               <tpc>20</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>1/2</fractions>
-            </location>
           </voice>
         <voice>
           <location>
@@ -13599,9 +13590,6 @@ Wq 56 / 3</text>
               <tpc>22</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>3/4</fractions>
-            </location>
           </voice>
         </Measure>
       <Measure>
@@ -15042,7 +15030,6 @@ Wq 56 / 3</text>
             <baseNote>16th</baseNote>
             <numberType>2</numberType>
             <bracketType>2</bracketType>
-            <minDistance>0.5</minDistance>
             </Tuplet>
           <Rest>
             <durationType>16th</durationType>
@@ -15078,7 +15065,6 @@ Wq 56 / 3</text>
             <baseNote>16th</baseNote>
             <numberType>2</numberType>
             <bracketType>2</bracketType>
-            <minDistance>0.5</minDistance>
             </Tuplet>
           <Rest>
             <durationType>16th</durationType>
@@ -15669,13 +15655,13 @@ Wq 56 / 3</text>
       <Measure len="14/4">
         <voice>
           <StaffText>
-            <text><font size="10.7"/><b>poco adagio</b></text>
+            <text><font size="10.7"></font><b>poco adagio</b></text>
             </StaffText>
           <Tempo>
             <tempo>1.1333333333333333</tempo>
             <followText>1</followText>
             <offset x="45" y="-2"/>
-            <text><font size="10.7"/>adagio</text>
+            <text><font size="10.7"></font>adagio</text>
             </Tempo>
           <Chord>
             <durationType>half</durationType>
@@ -18231,9 +18217,6 @@ Wq 56 / 3</text>
               <tpc>19</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>1/4</fractions>
-            </location>
           </voice>
         </Measure>
       <Measure>
@@ -23339,23 +23322,21 @@ Wq 56 / 3</text>
         <voice>
           <Rest>
             <visible>0</visible>
-            <dots>2</dots>
-            <durationType>breve</durationType>
-            <NoteDot>
-              <visible>0</visible>
-              </NoteDot>
-            <NoteDot>
-              <visible>0</visible>
-              </NoteDot>
+            <durationType>whole</durationType>
             </Rest>
-          <location>
-            <fractions>-1/4</fractions>
-            </location>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            </Beam>
+          <Rest>
+            <visible>0</visible>
+            <durationType>whole</durationType>
+            </Rest>
+          <Rest>
+            <visible>0</visible>
+            <durationType>whole</durationType>
+            </Rest>
+          <Rest>
+            <visible>0</visible>
+            <durationType>quarter</durationType>
+            </Rest>
           <Chord>
-            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>57</pitch>
@@ -23363,7 +23344,6 @@ Wq 56 / 3</text>
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>57</pitch>
