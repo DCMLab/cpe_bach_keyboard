@@ -7418,6 +7418,7 @@ Wq 55 / 1 </text>
           </voice>
         </Measure>
       <Measure>
+        <irregular>1</irregular>
         <LayoutBreak>
           <subtype>section</subtype>
           </LayoutBreak>
