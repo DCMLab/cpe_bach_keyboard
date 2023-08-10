@@ -2641,7 +2641,7 @@ Wq 55 / 3</text>
             </Chord>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <endRepeat>2</endRepeat>
         <LayoutBreak>
           <subtype>line</subtype>
@@ -2659,10 +2659,6 @@ Wq 55 / 3</text>
           <Rest>
             <offset x="0" y="-4"/>
             <staffMove>1</staffMove>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Rest>
-            <visible>0</visible>
             <durationType>eighth</durationType>
             </Rest>
           <TimeSig>
@@ -2738,7 +2734,6 @@ Wq 55 / 3</text>
           </voice>
         </Measure>
       <Measure>
-        <startRepeat/>
         <Marker>
           <style>Repeat Text Left</style>
           <text><sym>segno</sym></text>
@@ -5386,7 +5381,6 @@ Wq 55 / 3</text>
           </voice>
         </Measure>
       <Measure>
-        <endRepeat>2</endRepeat>
         <Marker>
           <autoplace>0</autoplace>
           <style>Repeat Text Right</style>
@@ -5468,6 +5462,9 @@ Wq 55 / 3</text>
               </Note>
             </Chord>
           <endTuplet/>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
           </voice>
         </Measure>
       <Measure>
@@ -16402,7 +16399,7 @@ Wq 55 / 3</text>
             </Chord>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -16441,10 +16438,6 @@ Wq 55 / 3</text>
               <tpc>20</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <visible>0</visible>
-            <durationType>eighth</durationType>
-            </Rest>
           <TimeSig>
             <visible>0</visible>
             <sigN>1</sigN>
@@ -17421,6 +17414,9 @@ Wq 55 / 3</text>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
           </voice>
         <voice>
           <Beam>
