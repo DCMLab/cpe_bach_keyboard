@@ -15547,7 +15547,7 @@ Wq 55 / 3</text>
             </Chord>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="1/4">
         <LayoutBreak>
           <subtype>page</subtype>
           </LayoutBreak>
@@ -15566,12 +15566,6 @@ Wq 55 / 3</text>
               <tpc>19</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
-          <BarLine>
-            <subtype>end</subtype>
-            </BarLine>
           </voice>
         </Measure>
       </Staff>
@@ -20062,7 +20056,7 @@ Wq 55 / 3</text>
             </Chord>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="1/4">
         <voice>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -20087,9 +20081,6 @@ Wq 55 / 3</text>
               <tpc>19</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
           </voice>
         </Measure>
       </Staff>
