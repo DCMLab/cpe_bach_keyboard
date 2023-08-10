@@ -7885,6 +7885,7 @@ Wq 56 / 2</text>
           </voice>
         </Measure>
       <Measure>
+        <irregular>1</irregular>
         <LayoutBreak>
           <subtype>line</subtype>
           </LayoutBreak>
@@ -7958,6 +7959,10 @@ Wq 56 / 2</text>
         </Measure>
       <Measure>
         <noOffset>-72</noOffset>
+        <MeasureNumber>
+          <visible>0</visible>
+          <text>0</text>
+          </MeasureNumber>
         <voice>
           <KeySig>
             <accidental>3</accidental>
