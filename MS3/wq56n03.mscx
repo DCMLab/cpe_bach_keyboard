@@ -10822,10 +10822,7 @@ Wq 56 / 3</text>
           </voice>
         <voice>
           <location>
-            <fractions>1/4</fractions>
-            </location>
-          <location>
-            <fractions>1/4</fractions>
+            <fractions>1/2</fractions>
             </location>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -13565,10 +13562,7 @@ Wq 56 / 3</text>
           </voice>
         <voice>
           <location>
-            <fractions>1/1</fractions>
-            </location>
-          <location>
-            <fractions>5/4</fractions>
+            <fractions>9/4</fractions>
             </location>
           <Chord>
             <durationType>quarter</durationType>
@@ -13589,9 +13583,6 @@ Wq 56 / 3</text>
               <tpc>20</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>1/2</fractions>
-            </location>
           </voice>
         <voice>
           <location>
@@ -13608,9 +13599,6 @@ Wq 56 / 3</text>
               <tpc>22</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>3/4</fractions>
-            </location>
           </voice>
         </Measure>
       <Measure>
@@ -15051,7 +15039,6 @@ Wq 56 / 3</text>
             <baseNote>16th</baseNote>
             <numberType>2</numberType>
             <bracketType>2</bracketType>
-            <minDistance>0.5</minDistance>
             </Tuplet>
           <Rest>
             <durationType>16th</durationType>
@@ -15087,7 +15074,6 @@ Wq 56 / 3</text>
             <baseNote>16th</baseNote>
             <numberType>2</numberType>
             <bracketType>2</bracketType>
-            <minDistance>0.5</minDistance>
             </Tuplet>
           <Rest>
             <durationType>16th</durationType>
@@ -18240,9 +18226,6 @@ Wq 56 / 3</text>
               <tpc>19</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>1/4</fractions>
-            </location>
           </voice>
         </Measure>
       <Measure>
@@ -23348,23 +23331,21 @@ Wq 56 / 3</text>
         <voice>
           <Rest>
             <visible>0</visible>
-            <dots>2</dots>
-            <durationType>breve</durationType>
-            <NoteDot>
-              <visible>0</visible>
-              </NoteDot>
-            <NoteDot>
-              <visible>0</visible>
-              </NoteDot>
+            <durationType>whole</durationType>
             </Rest>
-          <location>
-            <fractions>-1/4</fractions>
-            </location>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            </Beam>
+          <Rest>
+            <visible>0</visible>
+            <durationType>whole</durationType>
+            </Rest>
+          <Rest>
+            <visible>0</visible>
+            <durationType>whole</durationType>
+            </Rest>
+          <Rest>
+            <visible>0</visible>
+            <durationType>quarter</durationType>
+            </Rest>
           <Chord>
-            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>57</pitch>
@@ -23372,7 +23353,6 @@ Wq 56 / 3</text>
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>57</pitch>
