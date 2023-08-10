@@ -11606,6 +11606,7 @@
           </voice>
         </Measure>
       <Measure>
+        <endRepeat>2</endRepeat>
         <voice>
           <Rest>
             <durationType>quarter</durationType>
@@ -11632,9 +11633,6 @@
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
-          <BarLine>
-            <subtype>end</subtype>
-            </BarLine>
           </voice>
         </Measure>
       </Staff>
