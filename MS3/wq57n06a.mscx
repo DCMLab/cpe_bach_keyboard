@@ -3895,7 +3895,6 @@ Wq 57 / 6</text>
           </voice>
         </Measure>
       <Measure>
-        <startRepeat/>
         <irregular>1</irregular>
         <LayoutBreak>
           <subtype>page</subtype>
