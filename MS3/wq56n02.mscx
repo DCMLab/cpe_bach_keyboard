@@ -133,7 +133,7 @@ Wq 56 / 2</text>
           <Tempo>
             <tempo>1.8666666666666667</tempo>
             <followText>1</followText>
-            <text><font size="11.9"/><b>Аllegretto</b></text>
+            <text><font size="11.9"></font><b>Аllegretto</b></text>
             </Tempo>
           <StaffText>
             <text>ten.</text>
@@ -7970,7 +7970,7 @@ Wq 56 / 2</text>
           <Tempo>
             <tempo>1</tempo>
             <followText>1</followText>
-            <text><font size="11.9"/><b>Larghetto</b></text>
+            <text><font size="11.9"></font><b>Larghetto</b></text>
             </Tempo>
           <Dynamic>
             <subtype>f</subtype>
@@ -10456,6 +10456,7 @@ Wq 56 / 2</text>
           </voice>
         </Measure>
       <Measure>
+        <startRepeat/>
         <noOffset>-24</noOffset>
         <vspacerDown>9.53846</vspacerDown>
         <voice>
@@ -10470,7 +10471,7 @@ Wq 56 / 2</text>
           <Tempo>
             <tempo>2.1000000000000001</tempo>
             <followText>1</followText>
-            <text><font size="11.9"/><b>Allegro</b></text>
+            <text><font size="11.9"></font><b>Allegro</b></text>
             </Tempo>
           <Dynamic>
             <subtype>f</subtype>
@@ -21095,11 +21096,11 @@ Wq 56 / 2</text>
             </Chord>
           <Rest>
             <visible>0</visible>
-            <dots>1</dots>
+            <durationType>16th</durationType>
+            </Rest>
+          <Rest>
+            <visible>0</visible>
             <durationType>quarter</durationType>
-            <NoteDot>
-              <visible>0</visible>
-              </NoteDot>
             </Rest>
           </voice>
         <voice>
@@ -21126,9 +21127,12 @@ Wq 56 / 2</text>
       <Measure>
         <voice>
           <Rest>
-            <visible>0</visible>
-            <durationType>measure</durationType>
-            <duration>3/8</duration>
+            <durationType>16th</durationType>
+            </Rest>
+          <Rest>
+            <dots>1</dots>
+            <durationType>quarter</durationType>
+            <duration>5/16</duration>
             </Rest>
           </voice>
         <voice>
@@ -21478,6 +21482,9 @@ Wq 56 / 2</text>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
           </voice>
         </Measure>
       <Measure>
