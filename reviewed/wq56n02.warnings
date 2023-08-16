@@ -1,7 +1,0 @@
-Warnings encountered during the last execution of ms3 review
-============================================================
-
-ERROR    ms3.Parse.cpe_bach_keyboard.wq56n02 --
-	No starting point for the repeatEnd in MC 121 could be determined. It is being ignored.
-INCORRECT_VOLTA_MN_WARNING (2, 73) ms3.Parse.cpe_bach_keyboard.wq56n02 --
-	MC 73, the 1st measure of a 2nd volta, should have MN 71, not MN 72.
