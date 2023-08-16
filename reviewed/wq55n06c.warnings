@@ -1,0 +1,6 @@
+Warnings encountered during the last execution of ms3 review
+============================================================
+
+WARNING  ms3.Parse.cpe_bach_keyboard.wq55n06c --
+	The startRepeat in MC 47 is missing its endRepeat.
+	For correction, MC 122 is interpreted as such because it is the last bar of the piece..

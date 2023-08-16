@@ -1,0 +1,6 @@
+Warnings encountered during the last execution of ms3 review
+============================================================
+
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 12) ms3.Parse.cpe_bach_keyboard.wq117n13 --
+	The incomplete MC 12 (timesig 1, act_dur 3/4) is completed by 1 incorrect duration (expected: 1/4):
+	{13: Fraction(5, 1)}

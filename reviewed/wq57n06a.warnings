@@ -1,0 +1,8 @@
+Warnings encountered during the last execution of ms3 review
+============================================================
+
+MISSING_END_REPEAT_WARNING (5, 35) ms3.Parse.cpe_bach_keyboard.wq57n06a --
+	The startRepeat in MC 35 is missing its endRepeat.
+	For correction, MC 35 is interpreted as such because it precedes the next startRepeat.
+INCORRECT_VOLTA_MN_WARNING (2, 92) ms3.Parse.cpe_bach_keyboard.wq57n06a --
+	MC 92, the 1st measure of a 2nd volta, should have MN 90, not MN 91.
