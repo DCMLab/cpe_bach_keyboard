@@ -68,19 +68,28 @@
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
     <metaTag name="arranger"></metaTag>
-    <metaTag name="composer">Композитор / аранжировщик</metaTag>
+    <metaTag name="composed_end">1766</metaTag>
+    <metaTag name="composed_source">Packard Humanities Institute (cpebach.org)</metaTag>
+    <metaTag name="composed_start">1766</metaTag>
+    <metaTag name="composer">Carl Philipp Emanuel Bach</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2023-07-20</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/Petites_Pieces_per_il_Cembalo_Solo_(Bach%2C_Carl_Philipp_Emanuel)</metaTag>
     <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber"></metaTag>
+    <metaTag name="movementNumber">1</metaTag>
     <metaTag name="movementTitle">Безымянная партитура</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/ae2ab94b-21d8-4def-b0e5-f326e21d6455</metaTag>
     <metaTag name="originalFormat">mxl</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/396484</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
+    <metaTag name="score_integrity">Amelia Brey</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle"></metaTag>
+    <metaTag name="typesetter">Anna Yuferova</metaTag>
+    <metaTag name="viaf">https://viaf.org/viaf/293023088</metaTag>
+    <metaTag name="workNumber">Wq.117/13</metaTag>
+    <metaTag name="workTitle">Fantasia in G Minor</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
@@ -161,13 +170,13 @@
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
-          <text><font size="24"/>Fantasia in G Minor</text>
+          <text><font size="24"></font>Fantasia in G Minor</text>
           </Text>
         <Text>
           <style>Composer</style>
           <align>right,top</align>
           <offset x="0.178935" y="13.3717"/>
-          <text><font size="12"/>Carl Philipp Emanuel Bach
+          <text><font size="12"></font>Carl Philipp Emanuel Bach
 Wq 117 /13 </text>
           </Text>
         </VBox>
@@ -193,7 +202,7 @@ Wq 117 /13 </text>
           <Tempo>
             <tempo>1.8666666666666667</tempo>
             <followText>1</followText>
-            <text><font size="10.7"/>Аllegro moderato</text>
+            <text><font size="10.7"></font>Аllegro moderato</text>
             </Tempo>
           <Rest>
             <visible>0</visible>
@@ -212,7 +221,7 @@ Wq 117 /13 </text>
           </LayoutBreak>
         <voice>
           <RehearsalMark>
-            <text><font size="10.7"/><b>1b</b></text>
+            <text><font size="10.7"></font><b>1b</b></text>
             </RehearsalMark>
           <Rest>
             <durationType>eighth</durationType>
@@ -887,7 +896,7 @@ Wq 117 /13 </text>
           </LayoutBreak>
         <voice>
           <RehearsalMark>
-            <text><font size="10.7"/><b>1c</b></text>
+            <text><font size="10.7"></font><b>1c</b></text>
             </RehearsalMark>
           <Beam>
             <Fragment>
@@ -1349,7 +1358,7 @@ Wq 117 /13 </text>
           </LayoutBreak>
         <voice>
           <RehearsalMark>
-            <text><font size="10.7"/><b>1d</b></text>
+            <text><font size="10.7"></font><b>1d</b></text>
             </RehearsalMark>
           <Rest>
             <dots>1</dots>
@@ -2006,7 +2015,7 @@ Wq 117 /13 </text>
           </LayoutBreak>
         <voice>
           <RehearsalMark>
-            <text><font size="10.7"/><b>2b</b></text>
+            <text><font size="10.7"></font><b>2b</b></text>
             </RehearsalMark>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -2588,7 +2597,7 @@ Wq 117 /13 </text>
         <stretch>0.9</stretch>
         <voice>
           <RehearsalMark>
-            <text><font size="10.7"/><b>2c</b></text>
+            <text><font size="10.7"></font><b>2c</b></text>
             </RehearsalMark>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -3072,7 +3081,7 @@ Wq 117 /13 </text>
           </LayoutBreak>
         <voice>
           <RehearsalMark>
-            <text><font size="10.7"/><b>3b</b></text>
+            <text><font size="10.7"></font><b>3b</b></text>
             </RehearsalMark>
           <Rest>
             <durationType>eighth</durationType>
@@ -3563,7 +3572,7 @@ Wq 117 /13 </text>
         <vspacerDown>8.30599</vspacerDown>
         <voice>
           <RehearsalMark>
-            <text><font size="10.7"/><b>3c</b></text>
+            <text><font size="10.7"></font><b>3c</b></text>
             </RehearsalMark>
           <Dynamic>
             <subtype>p</subtype>
@@ -4642,7 +4651,7 @@ Wq 117 /13 </text>
           </LayoutBreak>
         <voice>
           <RehearsalMark>
-            <text><font size="10.7"/><b>3e</b></text>
+            <text><font size="10.7"></font><b>3e</b></text>
             </RehearsalMark>
           <Rest>
             <durationType>32nd</durationType>
@@ -4847,7 +4856,7 @@ Wq 117 /13 </text>
           </LayoutBreak>
         <voice>
           <RehearsalMark>
-            <text><font size="10.7"/><b>3f</b></text>
+            <text><font size="10.7"></font><b>3f</b></text>
             </RehearsalMark>
           <Chord>
             <durationType>half</durationType>

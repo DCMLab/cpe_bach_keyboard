@@ -15,19 +15,28 @@
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
     <metaTag name="arranger"></metaTag>
-    <metaTag name="composer">Композитор / аранжировщик</metaTag>
+    <metaTag name="composed_end">1773</metaTag>
+    <metaTag name="composed_source">Packard Humanities Institute (cpebach.org)</metaTag>
+    <metaTag name="composed_start">1773</metaTag>
+    <metaTag name="composer">Carl Philipp Emanuel Bach</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2023-07-24</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/Keyboard_Sonata_in_C_major,_H.244_(Bach,_Carl_Philipp_Emanuel)</metaTag>
     <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber"></metaTag>
-    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="movementNumber">1</metaTag>
+    <metaTag name="movementTitle">Prestissimo</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/a06a3be3-f3ab-45f8-ad8e-25fceaf11106</metaTag>
     <metaTag name="originalFormat">mxl</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/24509</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
+    <metaTag name="score_integrity">Amelia Brey</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle">Безымянная партитура</metaTag>
+    <metaTag name="typesetter">Anna Yuferova</metaTag>
+    <metaTag name="viaf">https://viaf.org/viaf/900165271619510690003</metaTag>
+    <metaTag name="workNumber">Wq.55/1</metaTag>
+    <metaTag name="workTitle">Sonata in C Major</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">

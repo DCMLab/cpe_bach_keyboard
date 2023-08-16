@@ -46,18 +46,27 @@
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
     <metaTag name="arranger"></metaTag>
+    <metaTag name="composed_end">1765</metaTag>
+    <metaTag name="composed_source">Packard Humanities Institute (cpebach.org)</metaTag>
+    <metaTag name="composed_start">1765</metaTag>
     <metaTag name="composer">Carl Philipp Emanuel Bach</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2021-03-24</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/Keyboard_Sonata_in_A_major,_H.186_(Bach,_Carl_Philipp_Emanuel)</metaTag>
     <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber">3.0</metaTag>
+    <metaTag name="movementNumber">3</metaTag>
     <metaTag name="movementTitle">Allegro</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/f5e13fb9-e8fb-4ef1-8ef8-82f61a8853c4</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/23905</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
+    <metaTag name="score_integrity">Amelia Brey</metaTag>
     <metaTag name="source">http://musescore.com/user/30662474/scores/6682611</metaTag>
     <metaTag name="translator"></metaTag>
+    <metaTag name="typesetter">https://musescore.com/user/30662474</metaTag>
+    <metaTag name="viaf">https://viaf.org/viaf/6983165272416510690007</metaTag>
     <metaTag name="workNumber">Wq.55/4</metaTag>
-    <metaTag name="workTitle">Sonata in A Major, W.55/4</metaTag>
+    <metaTag name="workTitle">Sonata in A Major</metaTag>
     <Order id="orchestral" customized="1">
       <name>Orquestal</name>
       <instrument id="upright-piano">

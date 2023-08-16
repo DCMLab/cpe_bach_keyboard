@@ -15,19 +15,28 @@
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
     <metaTag name="arranger"></metaTag>
-    <metaTag name="composer">Композитор / аранжировщик</metaTag>
+    <metaTag name="composed_end">1778</metaTag>
+    <metaTag name="composed_source">Packard Humanities Institute (cpebach.org)</metaTag>
+    <metaTag name="composed_start">1778</metaTag>
+    <metaTag name="composer">Carl Philipp Emanuel Bach</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2023-07-25</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/Rondo_in_C_major,_H.260_(Bach,_Carl_Philipp_Emanuel)</metaTag>
     <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber"></metaTag>
+    <metaTag name="movementNumber">1</metaTag>
     <metaTag name="movementTitle">Безымянная партитура</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/b232dada-efee-421a-97eb-3d7e89bddb06</metaTag>
     <metaTag name="originalFormat">mxl</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/106185</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
+    <metaTag name="score_integrity">Amelia Brey</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle"></metaTag>
+    <metaTag name="typesetter">Anna Yuferova</metaTag>
+    <metaTag name="viaf">https://viaf.org/viaf/9348165272312110690001</metaTag>
+    <metaTag name="workNumber">Wq.56/1</metaTag>
+    <metaTag name="workTitle">Rondo in C Major</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
@@ -127,7 +136,7 @@ Wq 56 / 1</text>
           <Tempo>
             <tempo>1.8666666666666667</tempo>
             <followText>1</followText>
-            <text><font size="11.9"/><b>Allegretto</b></text>
+            <text><font size="11.9"></font><b>Allegretto</b></text>
             </Tempo>
           <Dynamic>
             <subtype>p</subtype>
@@ -16143,7 +16152,7 @@ Wq 56 / 1</text>
           <Tempo>
             <tempo>1.2333333333333334</tempo>
             <followText>1</followText>
-            <text><font size="11.9"/><b>poco adagio</b></text>
+            <text><font size="11.9"></font><b>poco adagio</b></text>
             </Tempo>
           <Rest>
             <durationType>eighth</durationType>
@@ -16271,7 +16280,7 @@ Wq 56 / 1</text>
           <Tempo>
             <tempo>1.8666666666666667</tempo>
             <followText>1</followText>
-            <text><font size="11.9"/><b>allegretto</b></text>
+            <text><font size="11.9"></font><b>allegretto</b></text>
             </Tempo>
           <Rest>
             <durationType>16th</durationType>

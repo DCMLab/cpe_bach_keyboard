@@ -68,19 +68,28 @@
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
     <metaTag name="arranger"></metaTag>
-    <metaTag name="composer">Композитор / аранжировщик</metaTag>
+    <metaTag name="composed_end">1779</metaTag>
+    <metaTag name="composed_source">Packard Humanities Institute (cpebach.org)</metaTag>
+    <metaTag name="composed_start">1779</metaTag>
+    <metaTag name="composer">Carl Philipp Emanuel Bach</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2023-07-21</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/Rondo_in_E_major,_H.265_(Bach,_Carl_Philipp_Emanuel)</metaTag>
     <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber"></metaTag>
+    <metaTag name="movementNumber">1</metaTag>
     <metaTag name="movementTitle">Безымянная партитура</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/49764e5b-f7ae-4968-8537-f8cca7296050</metaTag>
     <metaTag name="originalFormat">mxl</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/705590</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
+    <metaTag name="score_integrity">Amelia Brey</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle"></metaTag>
+    <metaTag name="typesetter">Anna Yuferova</metaTag>
+    <metaTag name="viaf">https://viaf.org/viaf/180933154/</metaTag>
+    <metaTag name="workNumber">Wq.57/1</metaTag>
+    <metaTag name="workTitle">Rondo in E Major</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
@@ -167,7 +176,7 @@
           <style>Composer</style>
           <align>right,top</align>
           <offset x="0.35787" y="11.5824"/>
-          <text><font size="12"/>Carl Philipp Emanuel Bach
+          <text><font size="12"></font>Carl Philipp Emanuel Bach
 Wq 57 / 1</text>
           </Text>
         </VBox>

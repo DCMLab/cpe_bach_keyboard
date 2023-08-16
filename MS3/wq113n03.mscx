@@ -69,19 +69,28 @@
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
     <metaTag name="arranger"></metaTag>
-    <metaTag name="composer">Композитор / аранжировщик</metaTag>
+    <metaTag name="composed_end">1765</metaTag>
+    <metaTag name="composed_source">Packard Humanities Institute (cpebach.org)</metaTag>
+    <metaTag name="composed_start">1765</metaTag>
+    <metaTag name="composer">Carl Philipp Emanuel Bach</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2023-07-22</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/Kurze_und_leichte_Klavierst%C3%BCcke%2C_Wq.113_(Bach%2C_Carl_Philipp_Emanuel)</metaTag>
     <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber"></metaTag>
+    <metaTag name="movementNumber">1</metaTag>
     <metaTag name="movementTitle">Безымянная партитура</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/a3421fbb-f998-4f44-90c0-31e8f4f6e18d</metaTag>
     <metaTag name="originalFormat">mxl</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/96257</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
+    <metaTag name="score_integrity">Amelia Brey</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle"></metaTag>
+    <metaTag name="typesetter">Anna Yuferova</metaTag>
+    <metaTag name="viaf">https://viaf.org/viaf/294403473</metaTag>
+    <metaTag name="workNumber">Wq.113/3</metaTag>
+    <metaTag name="workTitle">Fantasia in D Minor</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
@@ -162,13 +171,13 @@
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
-          <text><font size="24"/>Fantasia in D Minor</text>
+          <text><font size="24"></font>Fantasia in D Minor</text>
           </Text>
         <Text>
           <style>Composer</style>
           <align>right,top</align>
           <offset x="-0.35787" y="12.656"/>
-          <text><font size="12"/>Carl Philipp Emanuel Bach
+          <text><font size="12"></font>Carl Philipp Emanuel Bach
 Wq 113 / 3</text>
           </Text>
         </VBox>
@@ -190,7 +199,7 @@ Wq 113 / 3</text>
           <Tempo>
             <tempo>2.1000000000000001</tempo>
             <followText>1</followText>
-            <text><font size="10.7"/><b>Allegro assai</b></text>
+            <text><font size="10.7"></font><b>Allegro assai</b></text>
             </Tempo>
           <Tuplet>
             <normalNotes>2</normalNotes>

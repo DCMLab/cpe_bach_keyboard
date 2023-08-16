@@ -14,19 +14,28 @@
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
     <metaTag name="arranger"></metaTag>
-    <metaTag name="composer">Композитор / аранжировщик</metaTag>
+    <metaTag name="composed_end">1754</metaTag>
+    <metaTag name="composed_source">Packard Humanities Institute (cpebach.org)</metaTag>
+    <metaTag name="composed_start">1754</metaTag>
+    <metaTag name="composer">Carl Philipp Emanuel Bach</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2023-07-20</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/6_Fugues%2C_Wq.119%2F2-7_(Bach%2C_Carl_Philipp_Emanuel)</metaTag>
     <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber"></metaTag>
+    <metaTag name="movementNumber">1</metaTag>
     <metaTag name="movementTitle">Безымянная партитура</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/68a2f679-ab64-4aa5-8132-af24307c80a1</metaTag>
     <metaTag name="originalFormat">mxl</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/509777</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
+    <metaTag name="score_integrity">Amelia Brey</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle"></metaTag>
+    <metaTag name="typesetter">Anna Yuferova</metaTag>
+    <metaTag name="viaf">https://viaf.org/viaf/3457167867509623060008/</metaTag>
+    <metaTag name="workNumber">Wq.119/7</metaTag>
+    <metaTag name="workTitle">Fantasia and Fugue in C Minor</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
@@ -132,7 +141,7 @@ Wq 119 / 7 </text>
           <Tempo>
             <tempo>1.8666666666666667</tempo>
             <followText>1</followText>
-            <text><font size="10.7"/><b>Allegretto</b></text>
+            <text><font size="10.7"></font><b>Allegretto</b></text>
             </Tempo>
           <Rest>
             <durationType>eighth</durationType>
@@ -2328,7 +2337,7 @@ Wq 119 / 7 </text>
             <tempo>2.1000000000000001</tempo>
             <followText>1</followText>
             <offset x="10" y="-2.5"/>
-            <text><font size="10.7"/><b>Allegro</b></text>
+            <text><font size="10.7"></font><b>Allegro</b></text>
             </Tempo>
           <Chord>
             <durationType>quarter</durationType>

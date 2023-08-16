@@ -15,19 +15,28 @@
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
     <metaTag name="arranger"></metaTag>
-    <metaTag name="composer">Композитор / аранжировщик</metaTag>
+    <metaTag name="composed_end">1774</metaTag>
+    <metaTag name="composed_source">Packard Humanities Institute (cpebach.org)</metaTag>
+    <metaTag name="composed_start">1774</metaTag>
+    <metaTag name="composer">Carl Philipp Emanuel Bach</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2023-07-25</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/Keyboard_Sonata_in_B_minor,_H.245_(Bach,_Carl_Philipp_Emanuel)</metaTag>
     <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber"></metaTag>
-    <metaTag name="movementTitle">Безымянная партитура</metaTag>
+    <metaTag name="movementNumber">1</metaTag>
+    <metaTag name="movementTitle">Allegretto – Andante – Cantabile</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/fb5d6c26-84ca-42ad-9880-1f75c7402e38</metaTag>
     <metaTag name="originalFormat">mxl</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/54216</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
+    <metaTag name="score_integrity">Amelia Brey</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle"></metaTag>
+    <metaTag name="typesetter">Anna Yuferova</metaTag>
+    <metaTag name="viaf">https://viaf.org/viaf/185916830</metaTag>
+    <metaTag name="workNumber">Wq.55/3</metaTag>
+    <metaTag name="workTitle">Sonata in B Minor</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
@@ -132,7 +141,7 @@ Wq 55 / 3</text>
           <Tempo>
             <tempo>1.1916666666666667</tempo>
             <followText>1</followText>
-            <text><font size="10.7"/><b>Allegretto</b></text>
+            <text><font size="10.7"></font><b>Allegretto</b></text>
             </Tempo>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -5463,7 +5472,7 @@ Wq 55 / 3</text>
             <tempo>1.3666666666666667</tempo>
             <followText>1</followText>
             <offset x="0.102261" y="-3.3294"/>
-            <text><font size="10.7"/><b>Andante</b></text>
+            <text><font size="10.7"></font><b>Andante</b></text>
             </Tempo>
           <Dynamic>
             <subtype>p</subtype>
@@ -8092,7 +8101,7 @@ Wq 55 / 3</text>
           <Tempo>
             <tempo>1.2333333333333334</tempo>
             <followText>1</followText>
-            <text><font size="10.7"/><b>Cantabile</b></text>
+            <text><font size="10.7"></font><b>Cantabile</b></text>
             </Tempo>
           <Dynamic>
             <subtype>f</subtype>

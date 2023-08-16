@@ -14,19 +14,28 @@
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
     <metaTag name="arranger"></metaTag>
-    <metaTag name="composer">Композитор / аранжировщик</metaTag>
+    <metaTag name="composed_end">1778</metaTag>
+    <metaTag name="composed_source">Packard Humanities Institute (cpebach.org)</metaTag>
+    <metaTag name="composed_start">1778</metaTag>
+    <metaTag name="composer">Carl Philipp Emanuel Bach</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2023-07-20</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/Rondo_in_D_major,_H.261_(Bach,_Carl_Philipp_Emanuel)</metaTag>
     <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber"></metaTag>
+    <metaTag name="movementNumber">1</metaTag>
     <metaTag name="movementTitle">Безымянная партитура</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/c28d0d6d-bb52-40f4-a79d-9bff87fc0f5b</metaTag>
     <metaTag name="originalFormat">mxl</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/106186</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
+    <metaTag name="score_integrity">Amelia Brey</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle"></metaTag>
+    <metaTag name="typesetter">Anna Yuferova</metaTag>
+    <metaTag name="viaf">https://viaf.org/viaf/181338981</metaTag>
+    <metaTag name="workNumber">Wq.56/3</metaTag>
+    <metaTag name="workTitle">Rondo in D Major</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
@@ -133,7 +142,7 @@ Wq 56 / 3</text>
           <Tempo>
             <tempo>1.8666666666666667</tempo>
             <followText>1</followText>
-            <text><font size="10.7"/><b>Аllegretto</b></text>
+            <text><font size="10.7"></font><b>Аllegretto</b></text>
             </Tempo>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -10785,7 +10794,7 @@ Wq 56 / 3</text>
           <StaffText>
             <minDistance>0.227303</minDistance>
             <offset x="-2.72697" y="-3.02306"/>
-            <text><font size="10.7"/><b>poco adagio</b></text>
+            <text><font size="10.7"></font><b>poco adagio</b></text>
             </StaffText>
           <Dynamic>
             <subtype>p</subtype>
@@ -10949,7 +10958,7 @@ Wq 56 / 3</text>
           <Tempo>
             <tempo>1.8666666666666667</tempo>
             <followText>1</followText>
-            <text><font size="10.7"/>allegretto</text>
+            <text><font size="10.7"></font>allegretto</text>
             </Tempo>
           <Chord>
             <durationType>quarter</durationType>
@@ -13084,7 +13093,7 @@ Wq 56 / 3</text>
             <followText>1</followText>
             <autoplace>0</autoplace>
             <offset x="81.4905" y="-4.14583"/>
-            <text><font size="10.7"/>allegretto</text>
+            <text><font size="10.7"></font>allegretto</text>
             </Tempo>
           <Chord>
             <durationType>quarter</durationType>
@@ -15669,13 +15678,13 @@ Wq 56 / 3</text>
       <Measure len="14/4">
         <voice>
           <StaffText>
-            <text><font size="10.7"/><b>poco adagio</b></text>
+            <text><font size="10.7"></font><b>poco adagio</b></text>
             </StaffText>
           <Tempo>
             <tempo>1.1333333333333333</tempo>
             <followText>1</followText>
             <offset x="45" y="-2"/>
-            <text><font size="10.7"/>adagio</text>
+            <text><font size="10.7"></font>adagio</text>
             </Tempo>
           <Chord>
             <durationType>half</durationType>

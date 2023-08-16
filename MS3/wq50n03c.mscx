@@ -15,19 +15,27 @@
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
     <metaTag name="arranger"></metaTag>
-    <metaTag name="composer">Композитор / аранжировщик</metaTag>
+    <metaTag name="composed_end">1759</metaTag>
+    <metaTag name="composed_source">Packard Humanities Institute (cpebach.org)</metaTag>
+    <metaTag name="composed_start">1759</metaTag>
+    <metaTag name="composer">Carl Philipp Emanuel Bach</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2023-07-23</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/6_Keyboard_Sonatas%2C_Wq.50_(Bach%2C_Carl_Philipp_Emanuel)</metaTag>
     <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber"></metaTag>
-    <metaTag name="movementTitle">Безымянная партитура</metaTag>
+    <metaTag name="movementNumber">3</metaTag>
+    <metaTag name="movementTitle">Allegro moderato ma innocentemente</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/49f63436-0c7d-4fc2-9375-0e8b0b8ed289</metaTag>
     <metaTag name="originalFormat">mxl</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/384268</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
+    <metaTag name="score_integrity">Amelia Brey</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle"></metaTag>
+    <metaTag name="typesetter">Anna Yuferova</metaTag>
+    <metaTag name="workNumber">Wq.50/3</metaTag>
+    <metaTag name="workTitle">Sonata in A Minor</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
@@ -101,6 +109,7 @@
         </Instrument>
       </Part>
     <Staff id="1">
+      <VBox/>
       <Measure>
         <voice>
           <TimeSig>

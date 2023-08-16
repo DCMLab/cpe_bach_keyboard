@@ -14,19 +14,28 @@
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
     <metaTag name="arranger"></metaTag>
-    <metaTag name="composer">Композитор / аранжировщик</metaTag>
+    <metaTag name="composed_end">1780</metaTag>
+    <metaTag name="composed_source">Packard Humanities Institute (cpebach.org)</metaTag>
+    <metaTag name="composed_start">1780</metaTag>
+    <metaTag name="composer">Carl Philipp Emanuel Bach</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2023-07-20</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/Keyboard_Sonata_in_F_major,_H.269_(Bach,_Carl_Philipp_Emanuel)</metaTag>
     <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber"></metaTag>
-    <metaTag name="movementTitle">Безымянная партитура</metaTag>
+    <metaTag name="movementNumber">1</metaTag>
+    <metaTag name="movementTitle">Andantino – Presto</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/b7ec95af-7502-4607-91ac-cd9a7a8385ca</metaTag>
     <metaTag name="originalFormat">mxl</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/54293</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
+    <metaTag name="score_integrity">Amelia Brey</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle"></metaTag>
+    <metaTag name="typesetter">Anna Yuferova</metaTag>
+    <metaTag name="viaf">https://viaf.org/viaf/35165271931010690003</metaTag>
+    <metaTag name="workNumber">Wq.56/4</metaTag>
+    <metaTag name="workTitle">Sonata in F Major</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
@@ -132,7 +141,7 @@ Wq 56 / 4</text>
           <Tempo>
             <tempo>1.5</tempo>
             <followText>1</followText>
-            <text><font size="10.7"/><b>Andantino</b></text>
+            <text><font size="10.7"></font><b>Andantino</b></text>
             </Tempo>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -7718,7 +7727,7 @@ Wq 56 / 4</text>
           <Tempo>
             <tempo>2.9333333333333331</tempo>
             <followText>1</followText>
-            <text><font size="10.7"/><b>Presto</b></text>
+            <text><font size="10.7"></font><b>Presto</b></text>
             </Tempo>
           <Dynamic>
             <subtype>f</subtype>
