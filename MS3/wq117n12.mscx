@@ -159,11 +159,8 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            </Beam>
           <Chord>
-            <BeamMode>begin</BeamMode>
+            <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <pitch>76</pitch>
@@ -232,11 +229,8 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            </Beam>
           <Chord>
-            <BeamMode>begin</BeamMode>
+            <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <pitch>76</pitch>
@@ -489,11 +483,8 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
-            <BeamMode>begin</BeamMode>
+            <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <pitch>65</pitch>
@@ -518,9 +509,6 @@
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
-            <Articulation>
-              <subtype>articMarcatoAbove</subtype>
-              </Articulation>
             <Note>
               <pitch>65</pitch>
               <tpc>13</tpc>
@@ -610,11 +598,8 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            </Beam>
           <Chord>
-            <BeamMode>begin</BeamMode>
+            <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <pitch>77</pitch>
@@ -648,11 +633,8 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            </Beam>
           <Chord>
-            <BeamMode>begin</BeamMode>
+            <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <pitch>76</pitch>
@@ -693,11 +675,8 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            </Beam>
           <Chord>
-            <BeamMode>begin</BeamMode>
+            <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <pitch>76</pitch>
@@ -731,11 +710,8 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            </Beam>
           <Chord>
-            <BeamMode>begin</BeamMode>
+            <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <pitch>76</pitch>
@@ -892,11 +868,8 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
-            <BeamMode>begin</BeamMode>
+            <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <pitch>65</pitch>
@@ -957,11 +930,8 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            </Beam>
           <Chord>
-            <BeamMode>begin</BeamMode>
+            <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <pitch>74</pitch>
@@ -986,9 +956,6 @@
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
-            <Articulation>
-              <subtype>articStaccatissimoAbove</subtype>
-              </Articulation>
             <Note>
               <pitch>70</pitch>
               <tpc>12</tpc>
@@ -1029,11 +996,8 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
-            <BeamMode>begin</BeamMode>
+            <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <pitch>67</pitch>
@@ -1097,11 +1061,8 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            </Beam>
           <Chord>
-            <BeamMode>begin</BeamMode>
+            <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <pitch>72</pitch>
@@ -1126,6 +1087,9 @@
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
+            <Articulation>
+              <subtype>articStaccatissimoAbove</subtype>
+              </Articulation>
             <Note>
               <pitch>69</pitch>
               <tpc>17</tpc>
@@ -1166,11 +1130,8 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
-            <BeamMode>begin</BeamMode>
+            <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <pitch>65</pitch>
@@ -1263,6 +1224,9 @@
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
+            <Articulation>
+              <subtype>articStaccatissimoBelow</subtype>
+              </Articulation>
             <Note>
               <pitch>67</pitch>
               <tpc>15</tpc>
@@ -1303,11 +1267,8 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
-            <BeamMode>begin</BeamMode>
+            <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <pitch>64</pitch>
@@ -1385,9 +1346,6 @@
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
-            <Articulation>
-              <subtype>articStaccatissimoAbove</subtype>
-              </Articulation>
             <Note>
               <pitch>65</pitch>
               <tpc>13</tpc>
@@ -1461,6 +1419,9 @@
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
+            <Articulation>
+              <subtype>articStaccatissimoAbove</subtype>
+              </Articulation>
             <Note>
               <pitch>79</pitch>
               <tpc>15</tpc>
@@ -1469,6 +1430,9 @@
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
+            <Articulation>
+              <subtype>articStaccatissimoAbove</subtype>
+              </Articulation>
             <Note>
               <pitch>76</pitch>
               <tpc>18</tpc>
@@ -1541,11 +1505,8 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            </Beam>
           <Chord>
-            <BeamMode>begin</BeamMode>
+            <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <pitch>74</pitch>
@@ -1563,6 +1524,9 @@
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articStaccatissimoAbove</subtype>
+              </Articulation>
             <StemDirection>down</StemDirection>
             <Note>
               <pitch>70</pitch>
@@ -1737,6 +1701,9 @@
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articStaccatissimoAbove</subtype>
+              </Articulation>
             <StemDirection>down</StemDirection>
             <Note>
               <pitch>50</pitch>
@@ -1746,6 +1713,9 @@
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articStaccatissimoAbove</subtype>
+              </Articulation>
             <StemDirection>down</StemDirection>
             <Note>
               <pitch>62</pitch>
@@ -1758,6 +1728,9 @@
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articStaccatissimoAbove</subtype>
+              </Articulation>
             <StemDirection>down</StemDirection>
             <Note>
               <pitch>50</pitch>
@@ -1827,9 +1800,6 @@
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
-            <Articulation>
-              <subtype>articStaccatissimoBelow</subtype>
-              </Articulation>
             <StemDirection>up</StemDirection>
             <Note>
               <pitch>45</pitch>
@@ -1839,9 +1809,6 @@
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
-            <Articulation>
-              <subtype>articStaccatissimoBelow</subtype>
-              </Articulation>
             <StemDirection>up</StemDirection>
             <Note>
               <Accidental>
@@ -1854,9 +1821,6 @@
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
-            <Articulation>
-              <subtype>articStaccatissimoBelow</subtype>
-              </Articulation>
             <StemDirection>up</StemDirection>
             <Note>
               <Accidental>
@@ -1873,6 +1837,9 @@
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articStaccatissimoAbove</subtype>
+              </Articulation>
             <StemDirection>down</StemDirection>
             <Note>
               <pitch>50</pitch>
@@ -1916,6 +1883,9 @@
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articStaccatissimoAbove</subtype>
+              </Articulation>
             <StemDirection>down</StemDirection>
             <Note>
               <pitch>57</pitch>
@@ -1957,11 +1927,8 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            </Beam>
           <Chord>
-            <BeamMode>begin</BeamMode>
+            <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <pitch>60</pitch>
@@ -1995,11 +1962,8 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            </Beam>
           <Chord>
-            <BeamMode>begin</BeamMode>
+            <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <pitch>53</pitch>
@@ -2029,20 +1993,6 @@
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
-          </voice>
-        <voice>
-          <location>
-            <fractions>1/2</fractions>
-            </location>
-          <Chord>
-            <BeamMode>no</BeamMode>
-            <durationType>quarter</durationType>
-            <StemDirection>down</StemDirection>
-            <Note>
-              <pitch>50</pitch>
-              <tpc>16</tpc>
-              </Note>
-            </Chord>
           </voice>
         </Measure>
       <Measure>
@@ -2088,11 +2038,8 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            </Beam>
           <Chord>
-            <BeamMode>begin</BeamMode>
+            <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <pitch>52</pitch>
@@ -2110,6 +2057,9 @@
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
+            <Articulation>
+              <subtype>articStaccatissimoBelow</subtype>
+              </Articulation>
             <StemDirection>up</StemDirection>
             <Note>
               <pitch>48</pitch>
@@ -2378,23 +2328,11 @@
         </Measure>
       <Measure>
         <voice>
-          <Chord>
-            <BeamMode>no</BeamMode>
-            <durationType>whole</durationType>
-            <Note>
-              <pitch>45</pitch>
-              <tpc>17</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        <voice>
-          <location>
-            <fractions>1/2</fractions>
-            </location>
-          <Chord>
-            <BeamMode>no</BeamMode>
+          <Rest>
             <durationType>half</durationType>
-            <StemDirection>up</StemDirection>
+            </Rest>
+          <Chord>
+            <durationType>half</durationType>
             <Note>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
@@ -2409,6 +2347,22 @@
             <Note>
               <pitch>55</pitch>
               <tpc>15</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        <voice>
+          <Chord>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>45</pitch>
+              <tpc>17</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>45</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           </voice>
