@@ -13,8 +13,8 @@ Please note that the `meta_ corpora` branch should be used with collections of c
 |wq112n15 |       3|     0|
 |wq113n03 |       7|     0|
 |wq114n07 |       4|     0|
-|wq117n12 |      14|     0|
 |wq117n11 |      14|     0|
+|wq117n12 |      14|     0|
 |wq117n13 |       8|     0|
 |wq117n14 |      18|     0|
 |wq119n07 |     125|     0|
@@ -41,6 +41,8 @@ Please note that the `meta_ corpora` branch should be used with collections of c
 |wq55n02b |      49|     0|
 |wq55n02c |     160|     0|
 |wq55n03  |     110|     0|
+|wq55n03a |      42|     0|
+|wq55n03b |      68|     0|
 |wq55n04a |     128|     0|
 |wq55n04b |      32|     0|
 |wq55n04c |     135|     0|
