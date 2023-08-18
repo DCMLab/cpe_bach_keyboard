@@ -62,7 +62,7 @@
         <defaultClef>F</defaultClef>
         </Staff>
       <trackName>Part_1</trackName>
-      <Instrument>
+      <Instrument id="piano">
         <longName>Part_1</longName>
         <trackName>Acoustic Grand Piano</trackName>
         <instrumentId>keyboard.piano</instrumentId>
@@ -80,7 +80,7 @@
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Composer</style>
-          <text><font size="11"/><font face="serif"/>Wq 117/12</text>
+          <text><font size="11"></font><font face="serif"></font>Wq 117/12</text>
           </Text>
         <Text>
           <style>Title</style>
@@ -1379,9 +1379,6 @@
         </Measure>
       <Measure>
         <voice>
-          <StaffText>
-            <text><font size="8"></font><font face="serif"></font>10</text>
-            </StaffText>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -2278,11 +2275,10 @@
             <Note>
               <Spanner type="Tie">
                 <Tie>
-                  <up>down</up>
                   </Tie>
                 <next>
                   <location>
-                    <measures>2</measures>
+                    <measures>1</measures>
                     <fractions>-1/2</fractions>
                     </location>
                   </next>
@@ -2295,25 +2291,41 @@
         </Measure>
       <Measure>
         <voice>
-          <Rest>
-            <visible>0</visible>
-            <durationType>measure</durationType>
-            <duration>1/1</duration>
-            </Rest>
+          <Chord>
+            <durationType>whole</durationType>
+            <Note>
+              <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <measures>1</measures>
+                    </location>
+                  </next>
+                </Spanner>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <measures>-1</measures>
+                    <fractions>1/2</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
+              <pitch>45</pitch>
+              <tpc>17</tpc>
+              </Note>
+            </Chord>
           </voice>
         </Measure>
       <Measure>
         <voice>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>half</durationType>
-            <StemDirection>up</StemDirection>
             <Note>
               <Spanner type="Tie">
                 <prev>
                   <location>
-                    <measures>-2</measures>
-                    <fractions>1/2</fractions>
+                    <measures>-1</measures>
                     </location>
                   </prev>
                 </Spanner>
