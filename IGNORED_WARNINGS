@@ -1,0 +1,4 @@
+VOLTAS_WITH_DIFFERING_LENGTHS_WARNING (4, 29) ms3.Parse.cpe_bach_keyboard.wq55n02a
+	Volta group of MC 29 contains voltas with different lengths: [3, 1]
+    As discussed in https://github.com/DCMLab/cpe_bach_keyboard/pull/4#issuecomment-1680592532 we apply the measure numbers
+    [29a|30a|31a][29b] and accept that the subsequent section begins with measures 30b and 31b.
