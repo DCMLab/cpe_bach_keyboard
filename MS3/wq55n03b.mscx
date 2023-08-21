@@ -2644,7 +2644,7 @@
         </Measure>
       <Measure>
         <LayoutBreak>
-          <subtype>line</subtype>
+          <subtype>section</subtype>
           </LayoutBreak>
         <voice>
           <Dynamic>
@@ -2736,7 +2736,7 @@
           </voice>
         </Measure>
       <Measure len="1/4">
-        <noOffset>-26</noOffset>
+        <irregular>1</irregular>
         <measureNumberMode>2</measureNumberMode>
         <voice>
           <KeySig>
