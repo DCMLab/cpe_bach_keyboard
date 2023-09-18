@@ -6764,6 +6764,7 @@
           </voice>
         </Measure>
       <Measure>
+        <irregular>1</irregular>
         <LayoutBreak>
           <subtype>page</subtype>
           </LayoutBreak>

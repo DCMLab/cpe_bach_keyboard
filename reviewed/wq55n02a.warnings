@@ -1,5 +1,0 @@
-Warnings encountered during the last execution of ms3 review
-============================================================
-
-VOLTAS_WITH_DIFFERING_LENGTHS_WARNING (4, 29) ms3.Parse.cpe_bach_keyboard.wq55n02a --
-	Volta group of MC 29 contains voltas with different lengths: [3, 1] Check for correct computation of MNs and copy this message into an IGNORED_WARNINGS file to make the warning disappear.

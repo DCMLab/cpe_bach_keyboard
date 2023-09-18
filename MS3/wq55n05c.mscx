@@ -1828,7 +1828,7 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <endRepeat>2</endRepeat>
         <LayoutBreak>
           <subtype>line</subtype>
@@ -1875,9 +1875,6 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
           </voice>
         </Measure>
       <Measure len="1/8">
@@ -3906,7 +3903,7 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <endRepeat>2</endRepeat>
         <voice>
           <Dynamic>
@@ -3950,9 +3947,6 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
           </voice>
         </Measure>
       </Staff>
@@ -4474,7 +4468,7 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>quarter</durationType>
@@ -4495,16 +4489,12 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
           </voice>
         </Measure>
       <Measure len="1/8">
         <voice>
           <Rest>
-            <durationType>measure</durationType>
-            <duration>1/8</duration>
+            <durationType>eighth</durationType>
             </Rest>
           </voice>
         </Measure>
@@ -5307,7 +5297,7 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/8">
         <voice>
           <Rest>
             <durationType>quarter</durationType>
@@ -5321,9 +5311,6 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
           </voice>
         <voice/>
         <voice>

@@ -69,4 +69,4 @@ mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	keysig	timesig	act_dur	m
 68	67	198	201	3.0	0	3/4	3/4	0					line		69
 69	68	201	204	3.0	0	3/4	3/4	0							70, 71
 70	69		207	3.0	0	3/4	3/4	0	1					end	30
-71	70	204	210	3.0	0	3/4	3/4	0	2			end	section	lastMeasure	-1
+71	69	204	210	3.0	0	3/4	3/4	0	2		1	end	section	lastMeasure	-1

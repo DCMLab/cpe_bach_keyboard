@@ -6856,7 +6856,6 @@ Wq 55 / 6</text>
           </LayoutBreak>
         <voice>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatissimoAbove</subtype>
@@ -6877,9 +6876,7 @@ Wq 55 / 6</text>
             <velocity>49</velocity>
             </Dynamic>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>32nd</durationType>
-            <StemDirection>up</StemDirection>
             <Note>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
@@ -6892,23 +6889,51 @@ Wq 55 / 6</text>
             <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>eighth</durationType>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>75</pitch>
               <tpc>23</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <visible>0</visible>
-            <dots>1</dots>
-            <durationType>32nd</durationType>
-            <NoteDot>
-              <visible>0</visible>
-              </NoteDot>
-            </Rest>
-          <location>
-            <fractions>-1/128</fractions>
-            </location>
+          <Beam>
+            <StemDirection>down</StemDirection>
+            <Fragment>
+              <y1>17.0413</y1>
+              <y2>17.0413</y2>
+              </Fragment>
+            </Beam>
+          <Chord>
+            <staffMove>1</staffMove>
+            <durationType>64th</durationType>
+            <Note>
+              <pitch>52</pitch>
+              <tpc>18</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <staffMove>1</staffMove>
+            <durationType>128th</durationType>
+            <Note>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>128th</durationType>
+            <Note>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>128th</durationType>
+            <Note>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              </Note>
+            </Chord>
+          <Beam>
+            <StemDirection>up</StemDirection>
+            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>128th</durationType>
@@ -6917,15 +6942,14 @@ Wq 55 / 6</text>
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <durationType>half</durationType>
-            <duration>33/64</duration>
-            </Rest>
-          <location>
-            <fractions>-65/128</fractions>
-            </location>
           <Chord>
-            <BeamMode>mid</BeamMode>
+            <durationType>128th</durationType>
+            <Note>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
+          <Chord>
             <durationType>128th</durationType>
             <Note>
               <pitch>76</pitch>
@@ -6933,7 +6957,6 @@ Wq 55 / 6</text>
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatissimoAbove</subtype>
@@ -6952,12 +6975,9 @@ Wq 55 / 6</text>
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <offset x="0" y="3.88486"/>
             </Dynamic>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>32nd</durationType>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>60</pitch>
               <tpc>14</tpc>
@@ -6967,11 +6987,7 @@ Wq 55 / 6</text>
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
-            <BeamMode>begin</BeamMode>
             <dots>2</dots>
             <durationType>eighth</durationType>
             <Note>
@@ -6984,7 +7000,6 @@ Wq 55 / 6</text>
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>mid</BeamMode>
             <durationType>32nd</durationType>
             <Note>
               <pitch>57</pitch>
@@ -6996,31 +7011,46 @@ Wq 55 / 6</text>
               </Note>
             </Chord>
           </voice>
-        <voice/>
-        <voice/>
         <voice>
-          <location>
-            <fractions>7/32</fractions>
-            </location>
+          <Rest>
+            <visible>0</visible>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <visible>0</visible>
+            <dots>1</dots>
+            <durationType>16th</durationType>
+            <NoteDot>
+              <visible>0</visible>
+              </NoteDot>
+            </Rest>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>32nd</durationType>
-            <StemDirection>down</StemDirection>
             <Note>
               <pitch>69</pitch>
               <tpc>17</tpc>
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>eighth</durationType>
-            <StemDirection>down</StemDirection>
             <Note>
               <pitch>69</pitch>
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Dynamic>
+            <subtype>f</subtype>
+            <velocity>96</velocity>
+            </Dynamic>
+          <Rest>
+            <visible>0</visible>
+            <durationType>16th</durationType>
+            </Rest>
+          <Rest>
+            <visible>0</visible>
+            <durationType>half</durationType>
+            </Rest>
           </voice>
         </Measure>
       <Measure>
@@ -7028,11 +7058,7 @@ Wq 55 / 6</text>
           <subtype>line</subtype>
           </LayoutBreak>
         <voice>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
-            <BeamMode>begin</BeamMode>
             <dots>1</dots>
             <durationType>eighth</durationType>
             <Note>
@@ -7045,7 +7071,6 @@ Wq 55 / 6</text>
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>mid</BeamMode>
             <durationType>32nd</durationType>
             <Note>
               <pitch>60</pitch>
@@ -7057,7 +7082,6 @@ Wq 55 / 6</text>
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>mid</BeamMode>
             <durationType>32nd</durationType>
             <Note>
               <pitch>59</pitch>
@@ -7068,22 +7092,8 @@ Wq 55 / 6</text>
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
-            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
-            <Spanner type="Slur">
-              <Slur>
-                <up>down</up>
-                </Slur>
-              <next>
-                <location>
-                  <fractions>1/8</fractions>
-                  </location>
-                </next>
-              </Spanner>
             <Note>
               <pitch>57</pitch>
               <tpc>17</tpc>
@@ -7094,23 +7104,12 @@ Wq 55 / 6</text>
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <fractions>-1/8</fractions>
-                  </location>
-                </prev>
-              </Spanner>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
-              <minDistance>-999</minDistance>
-              <offset x="0" y="1.4"/>
               </Articulation>
             <Articulation>
               <subtype>ornamentTurn</subtype>
-              <offset x="0" y="1.2"/>
               </Articulation>
             <Note>
               <pitch>59</pitch>
@@ -7119,7 +7118,7 @@ Wq 55 / 6</text>
             </Chord>
           <Dynamic>
             <subtype>f</subtype>
-            <velocity>88</velocity>
+            <velocity>96</velocity>
             </Dynamic>
           <Tuplet>
             <normalNotes>8</normalNotes>
@@ -7130,11 +7129,7 @@ Wq 55 / 6</text>
               <text>13</text>
               </Number>
             </Tuplet>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
-            <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <pitch>57</pitch>
@@ -7142,7 +7137,6 @@ Wq 55 / 6</text>
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <pitch>60</pitch>
@@ -7150,7 +7144,6 @@ Wq 55 / 6</text>
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <Accidental>
@@ -7161,7 +7154,6 @@ Wq 55 / 6</text>
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <pitch>64</pitch>
@@ -7169,7 +7161,6 @@ Wq 55 / 6</text>
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <Accidental>
@@ -7181,7 +7172,6 @@ Wq 55 / 6</text>
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <Accidental>
@@ -7192,7 +7182,6 @@ Wq 55 / 6</text>
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <pitch>69</pitch>
@@ -7200,7 +7189,6 @@ Wq 55 / 6</text>
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <pitch>71</pitch>
@@ -7208,7 +7196,6 @@ Wq 55 / 6</text>
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <Accidental>
@@ -7220,7 +7207,6 @@ Wq 55 / 6</text>
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <pitch>72</pitch>
@@ -7228,7 +7214,6 @@ Wq 55 / 6</text>
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <pitch>71</pitch>
@@ -7236,7 +7221,6 @@ Wq 55 / 6</text>
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <pitch>69</pitch>
@@ -7244,7 +7228,6 @@ Wq 55 / 6</text>
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <pitch>76</pitch>
@@ -11132,6 +11115,10 @@ Wq 55 / 6</text>
             <durationType>32nd</durationType>
             <StemDirection>up</StemDirection>
             <Note>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              </Note>
+            <Note>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
                 </Accidental>
@@ -11143,7 +11130,10 @@ Wq 55 / 6</text>
             <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>eighth</durationType>
-            <StemDirection>up</StemDirection>
+            <Note>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              </Note>
             <Note>
               <pitch>73</pitch>
               <tpc>21</tpc>
@@ -11151,19 +11141,46 @@ Wq 55 / 6</text>
             </Chord>
           <Dynamic>
             <subtype>f</subtype>
-            <velocity>88</velocity>
+            <velocity>96</velocity>
             </Dynamic>
-          <Rest>
-            <visible>0</visible>
-            <dots>1</dots>
-            <durationType>32nd</durationType>
-            <NoteDot>
-              <visible>0</visible>
-              </NoteDot>
-            </Rest>
-          <location>
-            <fractions>-1/128</fractions>
-            </location>
+          <Beam>
+            <StemDirection>down</StemDirection>
+            <Fragment>
+              <y1>17.7027</y1>
+              <y2>17.7027</y2>
+              </Fragment>
+            </Beam>
+          <Chord>
+            <staffMove>1</staffMove>
+            <durationType>64th</durationType>
+            <Note>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <staffMove>1</staffMove>
+            <durationType>128th</durationType>
+            <Note>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <staffMove>1</staffMove>
+            <durationType>128th</durationType>
+            <Note>
+              <pitch>59</pitch>
+              <tpc>19</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>128th</durationType>
+            <Note>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
+              </Note>
+            </Chord>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>128th</durationType>
@@ -11172,15 +11189,14 @@ Wq 55 / 6</text>
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <durationType>half</durationType>
-            <duration>33/64</duration>
-            </Rest>
-          <location>
-            <fractions>-65/128</fractions>
-            </location>
           <Chord>
-            <BeamMode>mid</BeamMode>
+            <durationType>128th</durationType>
+            <Note>
+              <pitch>71</pitch>
+              <tpc>19</tpc>
+              </Note>
+            </Chord>
+          <Chord>
             <durationType>128th</durationType>
             <Note>
               <pitch>74</pitch>
@@ -11188,13 +11204,11 @@ Wq 55 / 6</text>
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatissimoAbove</subtype>
               <anchor>3</anchor>
               </Articulation>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>79</pitch>
               <tpc>15</tpc>
@@ -11209,9 +11223,7 @@ Wq 55 / 6</text>
             <velocity>49</velocity>
             </Dynamic>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>32nd</durationType>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>59</pitch>
               <tpc>19</tpc>
@@ -11221,11 +11233,7 @@ Wq 55 / 6</text>
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
-            <BeamMode>begin</BeamMode>
             <dots>2</dots>
             <durationType>eighth</durationType>
             <Note>
@@ -11238,7 +11246,6 @@ Wq 55 / 6</text>
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>mid</BeamMode>
             <durationType>32nd</durationType>
             <Note>
               <pitch>55</pitch>
@@ -11247,32 +11254,6 @@ Wq 55 / 6</text>
             <Note>
               <pitch>59</pitch>
               <tpc>19</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        <voice/>
-        <voice/>
-        <voice>
-          <location>
-            <fractions>7/32</fractions>
-            </location>
-          <Chord>
-            <BeamMode>no</BeamMode>
-            <durationType>32nd</durationType>
-            <StemDirection>down</StemDirection>
-            <Note>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <BeamMode>no</BeamMode>
-            <dots>1</dots>
-            <durationType>eighth</durationType>
-            <StemDirection>down</StemDirection>
-            <Note>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
               </Note>
             </Chord>
           </voice>
@@ -11292,16 +11273,11 @@ Wq 55 / 6</text>
                 </location>
               </next>
             </Spanner>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
-            <BeamMode>begin</BeamMode>
             <dots>1</dots>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <up>down</up>
                 </Slur>
               <next>
                 <location>
@@ -11319,7 +11295,6 @@ Wq 55 / 6</text>
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>mid</BeamMode>
             <durationType>32nd</durationType>
             <Note>
               <pitch>59</pitch>
@@ -11331,7 +11306,6 @@ Wq 55 / 6</text>
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>mid</BeamMode>
             <durationType>32nd</durationType>
             <Spanner type="Slur">
               <prev>
@@ -11349,15 +11323,10 @@ Wq 55 / 6</text>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
-            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <up>down</up>
                 </Slur>
               <next>
                 <location>
@@ -11375,7 +11344,6 @@ Wq 55 / 6</text>
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <prev>
@@ -11386,12 +11354,9 @@ Wq 55 / 6</text>
               </Spanner>
             <Articulation>
               <subtype>ornamentShortTrill</subtype>
-              <minDistance>-999</minDistance>
-              <offset x="0" y="1.4"/>
               </Articulation>
             <Articulation>
               <subtype>ornamentTurn</subtype>
-              <offset x="0" y="1.1"/>
               </Articulation>
             <Note>
               <pitch>54</pitch>
@@ -11403,9 +11368,7 @@ Wq 55 / 6</text>
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>55</pitch>
               <tpc>15</tpc>
@@ -11413,19 +11376,9 @@ Wq 55 / 6</text>
             </Chord>
           <Rest>
             <visible>0</visible>
-            <durationType>eighth</durationType>
+            <durationType>16th</durationType>
             </Rest>
-          <Tuplet>
-            <normalNotes>16</normalNotes>
-            <actualNotes>12</actualNotes>
-            <baseNote>64th</baseNote>
-            <numberType>2</numberType>
-            </Tuplet>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
-            <BeamMode>begin</BeamMode>
             <durationType>64th</durationType>
             <Note>
               <pitch>57</pitch>
@@ -11433,7 +11386,6 @@ Wq 55 / 6</text>
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>mid</BeamMode>
             <durationType>64th</durationType>
             <Note>
               <pitch>59</pitch>
@@ -11441,7 +11393,6 @@ Wq 55 / 6</text>
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>mid</BeamMode>
             <durationType>64th</durationType>
             <Note>
               <Accidental>
@@ -11452,7 +11403,6 @@ Wq 55 / 6</text>
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>mid</BeamMode>
             <durationType>64th</durationType>
             <Note>
               <pitch>62</pitch>
@@ -11460,7 +11410,6 @@ Wq 55 / 6</text>
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>mid</BeamMode>
             <durationType>64th</durationType>
             <Note>
               <pitch>64</pitch>
@@ -11468,7 +11417,6 @@ Wq 55 / 6</text>
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>mid</BeamMode>
             <durationType>64th</durationType>
             <Note>
               <pitch>66</pitch>
@@ -11476,7 +11424,6 @@ Wq 55 / 6</text>
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>mid</BeamMode>
             <durationType>64th</durationType>
             <Note>
               <pitch>67</pitch>
@@ -11484,7 +11431,6 @@ Wq 55 / 6</text>
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>mid</BeamMode>
             <durationType>64th</durationType>
             <Note>
               <pitch>69</pitch>
@@ -11492,7 +11438,6 @@ Wq 55 / 6</text>
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>mid</BeamMode>
             <durationType>64th</durationType>
             <Note>
               <pitch>71</pitch>
@@ -11500,7 +11445,6 @@ Wq 55 / 6</text>
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>mid</BeamMode>
             <durationType>64th</durationType>
             <Note>
               <Accidental>
@@ -11511,7 +11455,6 @@ Wq 55 / 6</text>
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>mid</BeamMode>
             <durationType>64th</durationType>
             <Note>
               <pitch>74</pitch>
@@ -11519,17 +11462,20 @@ Wq 55 / 6</text>
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>mid</BeamMode>
             <durationType>64th</durationType>
             <Note>
               <pitch>76</pitch>
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <endTuplet/>
+          <Rest>
+            <visible>0</visible>
+            <durationType>eighth</durationType>
+            </Rest>
           </voice>
         </Measure>
       <Measure>
+        <irregular>1</irregular>
         <LayoutBreak>
           <subtype>section</subtype>
           </LayoutBreak>
@@ -15482,84 +15428,18 @@ Wq 55 / 6</text>
       <Measure>
         <voice>
           <Rest>
+            <visible>0</visible>
+            <durationType>half</durationType>
+            </Rest>
+          <Rest>
+            <visible>0</visible>
             <durationType>quarter</durationType>
             </Rest>
           <Rest>
-            <visible>0</visible>
-            <durationType>16th</durationType>
-            </Rest>
-          <Rest>
-            <visible>0</visible>
             <durationType>eighth</durationType>
             </Rest>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            <Fragment>
-              <y1>6.27286</y1>
-              <y2>6.27286</y2>
-              </Fragment>
-            </Beam>
           <Chord>
-            <BeamMode>begin</BeamMode>
-            <durationType>64th</durationType>
-            <Note>
-              <pitch>52</pitch>
-              <tpc>18</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <BeamMode>mid</BeamMode>
-            <durationType>128th</durationType>
-            <Note>
-              <pitch>57</pitch>
-              <tpc>17</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <BeamMode>mid</BeamMode>
-            <durationType>128th</durationType>
-            <Note>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <BeamMode>mid</BeamMode>
-            <durationType>128th</durationType>
-            <Note>
-              <pitch>64</pitch>
-              <tpc>18</tpc>
-              </Note>
-            </Chord>
-          <Rest>
-            <visible>0</visible>
-            <dots>1</dots>
-            <durationType>quarter</durationType>
-            <NoteDot>
-              <visible>0</visible>
-              </NoteDot>
-            </Rest>
-          <location>
-            <fractions>-13/128</fractions>
-            </location>
-          <Rest>
             <durationType>eighth</durationType>
-            </Rest>
-          <location>
-            <fractions>-3/128</fractions>
-            </location>
-          <Rest>
-            <dots>2</dots>
-            <durationType>eighth</durationType>
-            <duration>19/128</duration>
-            </Rest>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
-          <Chord>
-            <BeamMode>no</BeamMode>
-            <durationType>eighth</durationType>
-            <StemDirection>up</StemDirection>
             <Note>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
@@ -15583,9 +15463,7 @@ Wq 55 / 6</text>
       <Measure>
         <voice>
           <Chord>
-            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
-            <StemDirection>up</StemDirection>
             <Note>
               <Spanner type="Tie">
                 <prev>
@@ -15600,9 +15478,7 @@ Wq 55 / 6</text>
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
-            <StemDirection>up</StemDirection>
             <Note>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
@@ -15615,9 +15491,7 @@ Wq 55 / 6</text>
             <durationType>eighth</durationType>
             </Rest>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
-            <StemDirection>up</StemDirection>
             <Note>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
@@ -15630,15 +15504,7 @@ Wq 55 / 6</text>
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            <Fragment>
-              <y1>6.25</y1>
-              <y2>5.53417</y2>
-              </Fragment>
-            </Beam>
           <Chord>
-            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>45</pitch>
@@ -15650,7 +15516,6 @@ Wq 55 / 6</text>
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>57</pitch>
@@ -15661,29 +15526,29 @@ Wq 55 / 6</text>
             <durationType>eighth</durationType>
             </Rest>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>45</pitch>
               <tpc>17</tpc>
               </Note>
             </Chord>
           </voice>
-        <voice/>
-        <voice/>
         <voice>
-          <location>
-            <fractions>1/4</fractions>
-            </location>
+          <Rest>
+            <visible>0</visible>
+            <durationType>quarter</durationType>
+            </Rest>
           <Chord>
             <durationType>quarter</durationType>
-            <StemDirection>down</StemDirection>
             <Note>
               <pitch>40</pitch>
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <Rest>
+            <visible>0</visible>
+            <durationType>half</durationType>
+            </Rest>
           </voice>
         </Measure>
       <Measure>
@@ -17763,81 +17628,18 @@ Wq 55 / 6</text>
       <Measure>
         <voice>
           <Rest>
-            <dots>1</dots>
-            <durationType>quarter</durationType>
+            <visible>0</visible>
+            <durationType>half</durationType>
             </Rest>
           <Rest>
             <visible>0</visible>
-            <durationType>16th</durationType>
-            </Rest>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            <Fragment>
-              <y1>7.18191</y1>
-              <y2>7.18191</y2>
-              </Fragment>
-            </Beam>
-          <Chord>
-            <BeamMode>begin</BeamMode>
-            <durationType>64th</durationType>
-            <Note>
-              <pitch>50</pitch>
-              <tpc>16</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <BeamMode>mid</BeamMode>
-            <durationType>128th</durationType>
-            <Note>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <BeamMode>mid</BeamMode>
-            <durationType>128th</durationType>
-            <Note>
-              <pitch>59</pitch>
-              <tpc>19</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <BeamMode>mid</BeamMode>
-            <durationType>128th</durationType>
-            <Note>
-              <pitch>62</pitch>
-              <tpc>16</tpc>
-              </Note>
-            </Chord>
-          <Rest>
-            <visible>0</visible>
-            <dots>1</dots>
             <durationType>quarter</durationType>
-            <NoteDot>
-              <visible>0</visible>
-              </NoteDot>
             </Rest>
-          <location>
-            <fractions>-13/128</fractions>
-            </location>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <location>
-            <fractions>-3/128</fractions>
-            </location>
-          <Rest>
-            <dots>2</dots>
-            <durationType>eighth</durationType>
-            <duration>19/128</duration>
-            </Rest>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
-            <StemDirection>up</StemDirection>
             <Note>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
@@ -17862,9 +17664,7 @@ Wq 55 / 6</text>
         <vspacerFixed>14.1735</vspacerFixed>
         <voice>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
-            <StemDirection>up</StemDirection>
             <Note>
               <Spanner type="Tie">
                 <prev>
@@ -17879,9 +17679,7 @@ Wq 55 / 6</text>
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
-            <StemDirection>up</StemDirection>
             <Note>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
@@ -17891,13 +17689,10 @@ Wq 55 / 6</text>
               </Note>
             </Chord>
           <Rest>
-            <offset x="0" y="1"/>
             <durationType>eighth</durationType>
             </Rest>
           <Chord>
-            <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
-            <StemDirection>up</StemDirection>
             <Note>
               <Accidental>
                 <role>1</role>
@@ -17907,11 +17702,7 @@ Wq 55 / 6</text>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
-            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <Spanner type="Tie">
@@ -17932,7 +17723,6 @@ Wq 55 / 6</text>
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>mid</BeamMode>
             <durationType>64th</durationType>
             <Note>
               <Spanner type="Tie">
@@ -17947,7 +17737,6 @@ Wq 55 / 6</text>
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>mid</BeamMode>
             <durationType>64th</durationType>
             <Note>
               <pitch>47</pitch>
@@ -17955,7 +17744,6 @@ Wq 55 / 6</text>
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>mid</BeamMode>
             <durationType>64th</durationType>
             <Note>
               <pitch>50</pitch>
@@ -17963,7 +17751,6 @@ Wq 55 / 6</text>
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>mid</BeamMode>
             <durationType>64th</durationType>
             <Note>
               <pitch>55</pitch>
@@ -17972,34 +17759,33 @@ Wq 55 / 6</text>
             </Chord>
           <Rest>
             <visible>0</visible>
-            <dots>1</dots>
+            <durationType>16th</durationType>
+            </Rest>
+          <Rest>
+            <visible>0</visible>
             <durationType>quarter</durationType>
-            <NoteDot>
-              <visible>0</visible>
-              </NoteDot>
             </Rest>
           </voice>
-        <voice/>
-        <voice/>
         <voice>
-          <location>
-            <fractions>1/4</fractions>
-            </location>
+          <Rest>
+            <visible>0</visible>
+            <durationType>quarter</durationType>
+            </Rest>
           <Chord>
             <durationType>quarter</durationType>
-            <StemDirection>down</StemDirection>
             <Note>
               <pitch>38</pitch>
               <tpc>16</tpc>
               </Note>
             </Chord>
+          <Rest>
+            <visible>0</visible>
+            <durationType>half</durationType>
+            </Rest>
           </voice>
         </Measure>
       <Measure>
         <voice>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
