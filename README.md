@@ -60,7 +60,6 @@ Please note that the `meta_ corpora` branch should be used with collections of c
 |wq56n04a |      47|     0|
 |wq56n04b |      73|     0|
 |wq56n05  |     172|     0|
-|wq56n06  |      93|     0|
 |wq56n06a |      41|     0|
 |wq56n06b |      52|     0|
 |wq57n01  |      94|     0|
@@ -77,4 +76,4 @@ Please note that the `meta_ corpora` branch should be used with collections of c
 |wq57n06c |      70|     0|
 
 
-*Overview table automatically updated using [ms3](https://ms3.readthedocs.io/).*
+*Overview table automatically updated using [ms3](https://johentsch.github.io/ms3/).*
