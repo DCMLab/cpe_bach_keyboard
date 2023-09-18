@@ -112,13 +112,11 @@
         <height>10</height>
         <Text>
           <style>Title</style>
-          <text>Fantasia in F Major</text>
+          <text>Fantasia in F Major, Wq.112/15</text>
           </Text>
         <Text>
           <style>Composer</style>
-          <offset x="0.35787" y="0.71574"/>
-          <text>Carl Philipp Emanuel Bach
-Wq 112 / 15</text>
+          <text>Carl Philipp Emanuel Bach</text>
           </Text>
         </VBox>
       <Measure len="32/4">

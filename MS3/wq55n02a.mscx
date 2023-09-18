@@ -115,13 +115,11 @@
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
-          <text>Sonata II in F Major</text>
+          <text>Sonata in F Major, Wq.55/2</text>
           </Text>
         <Text>
           <style>Composer</style>
-          <offset x="0" y="0.894674"/>
-          <text>Carl Philipp Emanuel Bach
-Wq 55 / 2</text>
+          <text>Carl Philipp Emanuel Bach</text>
           </Text>
         </VBox>
       <Measure>

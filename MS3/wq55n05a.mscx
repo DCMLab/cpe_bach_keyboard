@@ -114,12 +114,11 @@
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
-          <text>Sonata V in F Major</text>
+          <text>Sonata in F Major, Wq.55/5</text>
           </Text>
         <Text>
           <style>Composer</style>
-          <text>Carl Philipp Emanuel Bach
-Wq 55 / 5</text>
+          <text>Carl Philipp Emanuel Bach</text>
           </Text>
         </VBox>
       <Measure>

@@ -113,14 +113,11 @@
         <height>10</height>
         <Text>
           <style>Title</style>
-          <offset x="4.29444" y="-0.178935"/>
-          <text>Fantasia and Fugue in C Minor</text>
+          <text>Fantasia and Fugue in C Minor, Wq.119/7</text>
           </Text>
         <Text>
           <style>Composer</style>
-          <offset x="0.536805" y="0.71574"/>
-          <text>Carl Philipp Emanuel Bach
-Wq 119 / 7 </text>
+          <text>Carl Philipp Emanuel Bach</text>
           </Text>
         </VBox>
       <Measure>

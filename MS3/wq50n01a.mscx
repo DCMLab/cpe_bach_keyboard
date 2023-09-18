@@ -112,12 +112,11 @@
         <height>10</height>
         <Text>
           <style>Title</style>
-          <text>Sonata I in F Major</text>
+          <text>Sonata in F Major, Wq.50/1</text>
           </Text>
         <Text>
           <style>Composer</style>
-          <text>Carl Philipp Emanuel Bach
-Wq 50 / 1</text>
+          <text>Carl Philipp Emanuel Bach</text>
           </Text>
         </VBox>
       <Measure len="1/8">

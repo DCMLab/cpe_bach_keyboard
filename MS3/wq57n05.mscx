@@ -173,14 +173,11 @@
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
-          <text><font size="24"></font>Rondo III in F Major</text>
+          <text>Rondo in F Major, Wq.57/5</text>
           </Text>
         <Text>
           <style>Composer</style>
-          <align>right,top</align>
-          <offset x="0.71574" y="11.4035"/>
-          <text><font size="12"></font>Carl Philipp Emanuel Bach
-Wq 57 / 5</text>
+          <text>Carl Philipp Emanuel Bach</text>
           </Text>
         </VBox>
       <Measure>

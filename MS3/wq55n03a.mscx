@@ -114,13 +114,11 @@
         <height>10</height>
         <Text>
           <style>Title</style>
-          <text>Sonata III in B Minor</text>
+          <text>Sonata in B Minor, Wq.55/3</text>
           </Text>
         <Text>
           <style>Composer</style>
-          <offset x="0" y="1.07361"/>
-          <text>Carl Philipp Emanuel Bach
-Wq 55 / 3</text>
+          <text>Carl Philipp Emanuel Bach</text>
           </Text>
         </VBox>
       <Measure len="1/8">

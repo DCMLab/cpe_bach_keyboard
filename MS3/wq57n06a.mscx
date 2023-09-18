@@ -171,14 +171,11 @@
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
-          <text><font size="24"></font>Sonata III in F Minor</text>
+          <text>Sonata in F Minor, Wq.57/6</text>
           </Text>
         <Text>
           <style>Composer</style>
-          <align>right,top</align>
-          <offset x="0.35787" y="11.7443"/>
-          <text><font size="12"></font>Carl Philipp Emanuel Bach
-Wq 57 / 6</text>
+          <text>Carl Philipp Emanuel Bach</text>
           </Text>
         </VBox>
       <Measure>

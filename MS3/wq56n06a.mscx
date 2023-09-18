@@ -115,12 +115,11 @@
         <height>10</height>
         <Text>
           <style>Title</style>
-          <text>Sonata III in A Major</text>
+          <text>Sonata in A Major, Wq.56/6</text>
           </Text>
         <Text>
           <style>Composer</style>
-          <text>Carl Philipp Emanuel Bach
-Wq 56 / 6</text>
+          <text>Carl Philipp Emanuel Bach</text>
           </Text>
         </VBox>
       <Measure>

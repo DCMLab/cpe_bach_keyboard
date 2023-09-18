@@ -114,13 +114,11 @@
         <height>10</height>
         <Text>
           <style>Title</style>
-          <text>Rondo I in C Major</text>
+          <text>Rondo in C Major, Wq.56/1</text>
           </Text>
         <Text>
           <style>Composer</style>
-          <offset x="0.35787" y="0.536805"/>
-          <text>Carl Philipp Emanuel Bach
-Wq 56 / 1</text>
+          <text>Carl Philipp Emanuel Bach</text>
           </Text>
         </VBox>
       <Measure>

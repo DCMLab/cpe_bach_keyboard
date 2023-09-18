@@ -115,13 +115,11 @@
         <height>10</height>
         <Text>
           <style>Title</style>
-          <text>Rondo III in A Minor</text>
+          <text>Rondo in A Minor, Wq.56/5</text>
           </Text>
         <Text>
           <style>Composer</style>
-          <offset x="0.536805" y="0.71574"/>
-          <text>Carl Philipp Emanuel Bach
-Wq 56 / 5</text>
+          <text>Carl Philipp Emanuel Bach</text>
           </Text>
         </VBox>
       <Measure>

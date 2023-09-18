@@ -113,12 +113,11 @@
         <height>10</height>
         <Text>
           <style>Title</style>
-          <text>Sonata V in B-flat Major</text>
+          <text>Sonata in B-flat Major, Wq.50/5</text>
           </Text>
         <Text>
           <style>Composer</style>
-          <text>Carl Philipp Emanuel Bach
-Wq 50 / 5</text>
+          <text>Carl Philipp Emanuel Bach</text>
           </Text>
         </VBox>
       <Measure>

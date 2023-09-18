@@ -171,14 +171,11 @@
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
-          <text><font size="24"></font>Fantasia in D Minor</text>
+          <text>Fantasia in D Minor, Wq.113/3</text>
           </Text>
         <Text>
           <style>Composer</style>
-          <align>right,top</align>
-          <offset x="-0.35787" y="12.656"/>
-          <text><font size="12"></font>Carl Philipp Emanuel Bach
-Wq 113 / 3</text>
+          <text>Carl Philipp Emanuel Bach</text>
           </Text>
         </VBox>
       <Measure>
