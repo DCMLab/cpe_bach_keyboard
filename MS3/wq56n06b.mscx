@@ -22,7 +22,7 @@
     <metaTag name="creationDate">2023-07-20</metaTag>
     <metaTag name="imslp">https://imslp.org/wiki/Keyboard_Sonata_in_A_major,_H.270_(Bach,_Carl_Philipp_Emanuel)</metaTag>
     <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber">1</metaTag>
+    <metaTag name="movementNumber">2</metaTag>
     <metaTag name="movementTitle">Allegretto</metaTag>
     <metaTag name="musicbrainz">https://musicbrainz.org/work/dd6a8605-4018-4ae2-98c9-ad07ca1fcc44</metaTag>
     <metaTag name="originalFormat">mxl</metaTag>
@@ -111,6 +111,7 @@
         </Instrument>
       </Part>
     <Staff id="1">
+      <VBox/>
       <Measure>
         <voice>
           <TimeSig>
