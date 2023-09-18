@@ -113,6 +113,9 @@
     <Staff id="1">
       <Measure>
         <voice>
+          <KeySig>
+            <accidental>-1</accidental>
+            </KeySig>
           <TimeSig>
             <sigN>2</sigN>
             <sigD>4</sigD>
@@ -153,9 +156,6 @@
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
               <pitch>82</pitch>
               <tpc>12</tpc>
               </Note>
@@ -324,9 +324,6 @@
                 </prev>
               </Spanner>
             <Note>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
               <pitch>70</pitch>
               <tpc>12</tpc>
               </Note>
@@ -380,9 +377,6 @@
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
               <pitch>70</pitch>
               <tpc>12</tpc>
               </Note>
@@ -448,9 +442,6 @@
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
               <pitch>70</pitch>
               <tpc>12</tpc>
               </Note>
@@ -532,9 +523,6 @@
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
               <pitch>70</pitch>
               <tpc>12</tpc>
               </Note>
@@ -590,9 +578,6 @@
             <durationType>32nd</durationType>
             <grace32/>
             <Note>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
               <pitch>70</pitch>
               <tpc>12</tpc>
               </Note>
@@ -696,6 +681,9 @@
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>59</pitch>
               <tpc>19</tpc>
               </Note>
@@ -1085,6 +1073,9 @@
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>71</pitch>
               <tpc>19</tpc>
               </Note>
@@ -1129,6 +1120,9 @@
             <durationType>32nd</durationType>
             <grace32/>
             <Note>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>71</pitch>
               <tpc>19</tpc>
               </Note>
@@ -1242,6 +1236,9 @@
               <tpc>13</tpc>
               </Note>
             <Note>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>71</pitch>
               <tpc>19</tpc>
               </Note>
@@ -1306,6 +1303,9 @@
               <tpc>15</tpc>
               </Note>
             <Note>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>71</pitch>
               <tpc>19</tpc>
               </Note>
@@ -1352,6 +1352,9 @@
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>83</pitch>
               <tpc>19</tpc>
               </Note>
@@ -1593,6 +1596,9 @@
             <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>71</pitch>
               <tpc>19</tpc>
               </Note>
@@ -2069,9 +2075,6 @@
               </Articulation>
             <StemDirection>down</StemDirection>
             <Note>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
               <pitch>82</pitch>
               <tpc>12</tpc>
               </Note>
@@ -2449,9 +2452,6 @@
               <subtype>articStaccatissimoBelow</subtype>
               </Articulation>
             <Note>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
               <pitch>58</pitch>
               <tpc>12</tpc>
               </Note>
@@ -2467,9 +2467,6 @@
               <subtype>articStaccatissimoBelow</subtype>
               </Articulation>
             <Note>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
               <pitch>70</pitch>
               <tpc>12</tpc>
               </Note>
@@ -2522,9 +2519,6 @@
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
               <pitch>82</pitch>
               <tpc>12</tpc>
               </Note>
@@ -2608,9 +2602,6 @@
               </Articulation>
             <StemDirection>down</StemDirection>
             <Note>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
               <pitch>82</pitch>
               <tpc>12</tpc>
               </Note>
@@ -2698,9 +2689,6 @@
             <BeamMode>mid</BeamMode>
             <durationType>32nd</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
               <pitch>70</pitch>
               <tpc>12</tpc>
               </Note>
@@ -2766,9 +2754,6 @@
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
               <pitch>82</pitch>
               <tpc>12</tpc>
               </Note>
@@ -2847,9 +2832,6 @@
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
               <pitch>82</pitch>
               <tpc>12</tpc>
               </Note>
@@ -3000,9 +2982,6 @@
                 </prev>
               </Spanner>
             <Note>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
               <pitch>70</pitch>
               <tpc>12</tpc>
               </Note>
@@ -3056,9 +3035,6 @@
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
               <pitch>70</pitch>
               <tpc>12</tpc>
               </Note>
@@ -3204,9 +3180,6 @@
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
               <pitch>70</pitch>
               <tpc>12</tpc>
               </Note>
@@ -3215,9 +3188,6 @@
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
               <pitch>82</pitch>
               <tpc>12</tpc>
               </Note>
@@ -3267,6 +3237,9 @@
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>71</pitch>
               <tpc>19</tpc>
               </Note>
@@ -3318,6 +3291,9 @@
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>83</pitch>
               <tpc>19</tpc>
               </Note>
@@ -3623,9 +3599,6 @@
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
               <pitch>70</pitch>
               <tpc>12</tpc>
               </Note>
@@ -3812,9 +3785,6 @@
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
               <pitch>82</pitch>
               <tpc>12</tpc>
               </Note>
@@ -3878,9 +3848,6 @@
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
               <pitch>82</pitch>
               <tpc>12</tpc>
               </Note>
@@ -3917,9 +3884,6 @@
             <durationType>32nd</durationType>
             <grace32/>
             <Note>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
               <pitch>82</pitch>
               <tpc>12</tpc>
               </Note>
@@ -4127,6 +4091,9 @@
               <tpc>13</tpc>
               </Note>
             <Note>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>71</pitch>
               <tpc>19</tpc>
               </Note>
@@ -4221,9 +4188,6 @@
               <tpc>15</tpc>
               </Note>
             <Note>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
               <pitch>70</pitch>
               <tpc>12</tpc>
               </Note>
@@ -4460,9 +4424,6 @@
             <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
               <pitch>58</pitch>
               <tpc>12</tpc>
               </Note>
@@ -4595,6 +4556,9 @@
             <concertClefType>F</concertClefType>
             <transposingClefType>F</transposingClefType>
             </Clef>
+          <KeySig>
+            <accidental>-1</accidental>
+            </KeySig>
           <TimeSig>
             <sigN>2</sigN>
             <sigD>4</sigD>
@@ -4649,9 +4613,6 @@
               </Articulation>
             <StemDirection>down</StemDirection>
             <Note>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
               <pitch>58</pitch>
               <tpc>12</tpc>
               </Note>
@@ -4758,16 +4719,10 @@
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
               <pitch>34</pitch>
               <tpc>12</tpc>
               </Note>
             <Note>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
               <pitch>46</pitch>
               <tpc>12</tpc>
               </Note>
@@ -4867,6 +4822,9 @@
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>59</pitch>
               <tpc>19</tpc>
               </Note>
@@ -4915,6 +4873,9 @@
               </Articulation>
             <StemDirection>up</StemDirection>
             <Note>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>47</pitch>
               <tpc>19</tpc>
               </Note>
@@ -4986,6 +4947,9 @@
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>59</pitch>
               <tpc>19</tpc>
               </Note>
@@ -5260,6 +5224,9 @@
             <durationType>half</durationType>
             <StemDirection>up</StemDirection>
             <Note>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>47</pitch>
               <tpc>19</tpc>
               </Note>
@@ -5423,6 +5390,9 @@
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>47</pitch>
               <tpc>19</tpc>
               </Note>
@@ -5632,9 +5602,6 @@
               <tpc>13</tpc>
               </Note>
             <Note>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
               <pitch>58</pitch>
               <tpc>12</tpc>
               </Note>
@@ -5649,9 +5616,6 @@
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
               <pitch>46</pitch>
               <tpc>12</tpc>
               </Note>
@@ -5716,9 +5680,6 @@
               <subtype>articStaccatissimoBelow</subtype>
               </Articulation>
             <Note>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
               <pitch>46</pitch>
               <tpc>12</tpc>
               </Note>
@@ -5956,9 +5917,6 @@
               </Articulation>
             <StemDirection>down</StemDirection>
             <Note>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
               <pitch>58</pitch>
               <tpc>12</tpc>
               </Note>
@@ -6065,16 +6023,10 @@
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
               <pitch>34</pitch>
               <tpc>12</tpc>
               </Note>
             <Note>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
               <pitch>46</pitch>
               <tpc>12</tpc>
               </Note>
@@ -6407,9 +6359,6 @@
               </Articulation>
             <StemDirection>up</StemDirection>
             <Note>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
               <pitch>46</pitch>
               <tpc>12</tpc>
               </Note>
