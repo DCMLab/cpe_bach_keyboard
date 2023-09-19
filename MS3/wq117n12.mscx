@@ -70,17 +70,19 @@
           </StaffType>
         <defaultClef>F</defaultClef>
         </Staff>
-      <trackName>Part_1</trackName>
-      <Instrument id="piano">
-        <longName>Part_1</longName>
-        <trackName>Acoustic Grand Piano</trackName>
-        <instrumentId>keyboard.piano</instrumentId>
+      <trackName>Harpsichord</trackName>
+      <Instrument id="harpsichord">
+        <longName>Harpsichord</longName>
+        <trackName>Harpsichord</trackName>
+        <instrumentId>keyboard.harpsichord</instrumentId>
         <Channel>
-          <program value="0"/>
+          <program value="6"/>
           <controller ctrl="7" value="99"/>
           <controller ctrl="10" value="63"/>
           <synti>Fluid</synti>
           </Channel>
+        <shortName>Hch.</shortName>
+        <clef>F</clef>
         </Instrument>
       </Part>
     <Staff id="1">

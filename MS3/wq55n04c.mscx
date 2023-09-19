@@ -128,16 +128,16 @@
           </StaffType>
         <defaultClef>F</defaultClef>
         </Staff>
-      <trackName>Piano vertical</trackName>
-      <Instrument id="upright-piano">
-        <longName>Piano vertical</longName>
-        <shortName>Pno.</shortName>
-        <trackName>Piano vertical</trackName>
+      <trackName>Harpsichord</trackName>
+      <Instrument id="harpsichord">
+        <longName>Harpsichord</longName>
+        <shortName>Hch.</shortName>
+        <trackName>Harpsichord</trackName>
         <minPitchP>21</minPitchP>
         <maxPitchP>108</maxPitchP>
         <minPitchA>21</minPitchA>
         <maxPitchA>108</maxPitchA>
-        <instrumentId>keyboard.piano.upright</instrumentId>
+        <instrumentId>keyboard.harpsichord</instrumentId>
         <clef staff="2">F</clef>
         <singleNoteDynamics>0</singleNoteDynamics>
         <Articulation>
@@ -193,11 +193,15 @@
         <height>10</height>
         <Text>
           <style>Title</style>
-          <text><font face="Bodoni MT"></font>Sonata in A Major, W.55/4</text>
+          <text>Sonata in A Major, Wq.55/4</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>III. Allegro</text>
           </Text>
         <Text>
           <style>Composer</style>
-          <text><font face="Bodoni MT"></font>C. P. E. Bach (ca.1771)</text>
+          <text>Carl Philipp Emanuel Bach</text>
           </Text>
         </VBox>
       <HBox>

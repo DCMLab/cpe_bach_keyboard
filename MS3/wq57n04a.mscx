@@ -104,15 +104,15 @@
           <name>stdNormal</name>
           </StaffType>
         </Staff>
-      <trackName>MusicXML Part</trackName>
-      <Instrument id="piano">
-        <longName>Фортепиано</longName>
-        <trackName>SmartMusic SoftSynth 1</trackName>
+      <trackName>Harpsichord</trackName>
+      <Instrument id="harpsichord">
+        <longName>Harpsichord</longName>
+        <trackName>Harpsichord</trackName>
         <minPitchP>21</minPitchP>
         <maxPitchP>108</maxPitchP>
         <minPitchA>21</minPitchA>
         <maxPitchA>108</maxPitchA>
-        <instrumentId>keyboard.piano</instrumentId>
+        <instrumentId>keyboard.harpsichord</instrumentId>
         <clef staff="2">F</clef>
         <singleNoteDynamics>0</singleNoteDynamics>
         <Articulation>
@@ -156,13 +156,14 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
-          <program value="0"/>
+          <program value="6"/>
           <controller ctrl="7" value="101"/>
           <controller ctrl="10" value="63"/>
           <synti>Fluid</synti>
           <midiPort>0</midiPort>
           <midiChannel>1</midiChannel>
           </Channel>
+        <shortName>Hch.</shortName>
         </Instrument>
       </Part>
     <Staff id="1">
@@ -172,6 +173,10 @@
         <Text>
           <style>Title</style>
           <text>Sonata in D Minor, Wq.57/4</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>I. Allegro moderato</text>
           </Text>
         <Text>
           <style>Composer</style>

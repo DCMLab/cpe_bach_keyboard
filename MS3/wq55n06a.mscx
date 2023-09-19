@@ -50,16 +50,16 @@
           <name>stdNormal</name>
           </StaffType>
         </Staff>
-      <trackName>Фортепиано</trackName>
-      <Instrument id="piano">
-        <longName>Фортепиано</longName>
-        <shortName>Ф-но</shortName>
-        <trackName>Фортепиано</trackName>
+      <trackName>Harpsichord</trackName>
+      <Instrument id="harpsichord">
+        <longName>Harpsichord</longName>
+        <shortName>Hch.</shortName>
+        <trackName>Harpsichord</trackName>
         <minPitchP>21</minPitchP>
         <maxPitchP>108</maxPitchP>
         <minPitchA>21</minPitchA>
         <maxPitchA>108</maxPitchA>
-        <instrumentId>keyboard.piano</instrumentId>
+        <instrumentId>keyboard.harpsichord</instrumentId>
         <clef staff="2">F</clef>
         <singleNoteDynamics>0</singleNoteDynamics>
         <Articulation>
@@ -103,7 +103,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
-          <program value="0"/>
+          <program value="6"/>
           <controller ctrl="10" value="63"/>
           <synti>Fluid</synti>
           </Channel>
@@ -115,6 +115,10 @@
         <Text>
           <style>Title</style>
           <text>Sonata in G Major, Wq.55/6</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>I. Allegretto moderato</text>
           </Text>
         <Text>
           <style>Composer</style>
