@@ -38,7 +38,7 @@
     <metaTag name="composed_end">1766</metaTag>
     <metaTag name="composed_source">Wotquenne Catalogue (https://www.klassika.info/Komponisten/Bach_CPE/wv_wvz1.html)</metaTag>
     <metaTag name="composed_start">1766</metaTag>
-    <metaTag name="composer">Wq I17/12</metaTag>
+    <metaTag name="composer">Carl Philipp Emanuel Bach</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2017-10-08</metaTag>
     <metaTag name="imslp">https://imslp.org/wiki/Petites_Pieces_per_il_Cembalo_Solo_(Bach%2C_Carl_Philipp_Emanuel)</metaTag>
@@ -56,7 +56,7 @@
     <metaTag name="translator"></metaTag>
     <metaTag name="typesetter">https://musescore.com/lautebk</metaTag>
     <metaTag name="viaf">https://viaf.org/viaf/309857974/</metaTag>
-    <metaTag name="workNumber">Wa.117/12</metaTag>
+    <metaTag name="workNumber">Wq.117/12</metaTag>
     <metaTag name="workTitle">Fantasia in D Minor</metaTag>
     <Part>
       <Staff id="1">
@@ -73,16 +73,16 @@
       <trackName>Harpsichord</trackName>
       <Instrument id="harpsichord">
         <longName>Harpsichord</longName>
+        <shortName>Hch.</shortName>
         <trackName>Harpsichord</trackName>
         <instrumentId>keyboard.harpsichord</instrumentId>
+        <clef>F</clef>
         <Channel>
           <program value="6"/>
           <controller ctrl="7" value="99"/>
           <controller ctrl="10" value="63"/>
           <synti>Fluid</synti>
           </Channel>
-        <shortName>Hch.</shortName>
-        <clef>F</clef>
         </Instrument>
       </Part>
     <Staff id="1">
