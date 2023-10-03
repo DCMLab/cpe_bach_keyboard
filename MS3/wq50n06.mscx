@@ -15,19 +15,27 @@
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
     <metaTag name="arranger"></metaTag>
-    <metaTag name="composer">Композитор / аранжировщик</metaTag>
+    <metaTag name="composed_end">1759</metaTag>
+    <metaTag name="composed_source">Packard Humanities Institute (cpebach.org)</metaTag>
+    <metaTag name="composed_start">1759</metaTag>
+    <metaTag name="composer">Carl Philipp Emanuel Bach</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2023-07-24</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/6_Keyboard_Sonatas%2C_Wq.50_(Bach%2C_Carl_Philipp_Emanuel)</metaTag>
     <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber"></metaTag>
-    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="movementNumber">1</metaTag>
+    <metaTag name="movementTitle">Allegro moderato</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/ac1a5d30-fa75-471b-90eb-91477c146300</metaTag>
     <metaTag name="originalFormat">mxl</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/384268</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
+    <metaTag name="score_integrity">Amelia Brey</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle">Безымянная партитура</metaTag>
+    <metaTag name="typesetter">Anna Yuferova</metaTag>
+    <metaTag name="workNumber">Wq.50/6</metaTag>
+    <metaTag name="workTitle">Sonata in C Minor</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
@@ -41,16 +49,16 @@
           <name>stdNormal</name>
           </StaffType>
         </Staff>
-      <trackName>Фортепиано</trackName>
-      <Instrument id="piano">
-        <longName>Фортепиано</longName>
-        <shortName>Ф-но</shortName>
-        <trackName>Фортепиано</trackName>
+      <trackName>Harpsichord</trackName>
+      <Instrument id="harpsichord">
+        <longName>Harpsichord</longName>
+        <shortName>Hch.</shortName>
+        <trackName>Harpsichord</trackName>
         <minPitchP>21</minPitchP>
         <maxPitchP>108</maxPitchP>
         <minPitchA>21</minPitchA>
         <maxPitchA>108</maxPitchA>
-        <instrumentId>keyboard.piano</instrumentId>
+        <instrumentId>keyboard.harpsichord</instrumentId>
         <clef staff="2">F</clef>
         <singleNoteDynamics>0</singleNoteDynamics>
         <Articulation>
@@ -94,7 +102,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
-          <program value="0"/>
+          <program value="6"/>
           <controller ctrl="10" value="63"/>
           <synti>Fluid</synti>
           </Channel>
@@ -105,13 +113,11 @@
         <height>10</height>
         <Text>
           <style>Title</style>
-          <text>Sonata VI in C Minor</text>
+          <text>Sonata in C Minor, Wq.50/6</text>
           </Text>
         <Text>
           <style>Composer</style>
-          <offset x="0.35787" y="0.71574"/>
-          <text>Carl Philipp Emanuel Bach
-Wq 50 / 6</text>
+          <text>Carl Philipp Emanuel Bach</text>
           </Text>
         </VBox>
       <Measure len="1/4">
@@ -131,7 +137,7 @@ Wq 50 / 6</text>
           <Tempo>
             <tempo>1.9333333333333333</tempo>
             <followText>1</followText>
-            <text><font size="12"/><b>Allegro moderato</b></text>
+            <text><font size="12"></font><b>Allegro moderato</b></text>
             </Tempo>
           <Chord>
             <durationType>quarter</durationType>

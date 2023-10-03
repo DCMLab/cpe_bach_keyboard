@@ -1,0 +1,8 @@
+VOLTAS_WITH_DIFFERING_LENGTHS_WARNING (4, 29) ms3.Parse.cpe_bach_keyboard.wq55n02a
+	Volta group of MC 29 contains voltas with different lengths: [3, 1]
+    As discussed in https://github.com/DCMLab/cpe_bach_keyboard/pull/4#issuecomment-1680592532 we apply the measure numbers
+    [29a|30a|31a][29b] and accept that the subsequent section begins with measures 30b and 31b.
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 65) ms3.Parse.cpe_bach_keyboard.wq56n03
+    The incomplete MC 65 (timesig 3/4, act_dur 1/4) is completed by 1 incorrect duration (expected: 1/2): {66: Fraction(3, 4)}
+    That's OK because MC 65 is an anacrusis which still belongs to the cadenza-like MN 63, so it is not a split bar that 
+    expecting completion.

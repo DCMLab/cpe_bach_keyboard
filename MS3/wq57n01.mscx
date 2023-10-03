@@ -68,19 +68,28 @@
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
     <metaTag name="arranger"></metaTag>
-    <metaTag name="composer">Композитор / аранжировщик</metaTag>
+    <metaTag name="composed_end">1779</metaTag>
+    <metaTag name="composed_source">Packard Humanities Institute (cpebach.org)</metaTag>
+    <metaTag name="composed_start">1779</metaTag>
+    <metaTag name="composer">Carl Philipp Emanuel Bach</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2023-07-21</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/Rondo_in_E_major,_H.265_(Bach,_Carl_Philipp_Emanuel)</metaTag>
     <metaTag name="lyricist"></metaTag>
     <metaTag name="movementNumber"></metaTag>
-    <metaTag name="movementTitle">Безымянная партитура</metaTag>
+    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/49764e5b-f7ae-4968-8537-f8cca7296050</metaTag>
     <metaTag name="originalFormat">mxl</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/705590</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
+    <metaTag name="score_integrity">Amelia Brey</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle"></metaTag>
+    <metaTag name="typesetter">Anna Yuferova</metaTag>
+    <metaTag name="viaf">https://viaf.org/viaf/180933154/</metaTag>
+    <metaTag name="workNumber">Wq.57/1</metaTag>
+    <metaTag name="workTitle">Rondo in E Major</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
@@ -94,15 +103,15 @@
           <name>stdNormal</name>
           </StaffType>
         </Staff>
-      <trackName>MusicXML Part</trackName>
-      <Instrument id="piano">
-        <longName>Фортепиано</longName>
-        <trackName>SmartMusic SoftSynth 1</trackName>
+      <trackName>Harpsichord</trackName>
+      <Instrument id="harpsichord">
+        <longName>Harpsichord</longName>
+        <trackName>Harpsichord</trackName>
         <minPitchP>21</minPitchP>
         <maxPitchP>108</maxPitchP>
         <minPitchA>21</minPitchA>
         <maxPitchA>108</maxPitchA>
-        <instrumentId>keyboard.piano</instrumentId>
+        <instrumentId>keyboard.harpsichord</instrumentId>
         <clef staff="2">F</clef>
         <singleNoteDynamics>0</singleNoteDynamics>
         <Articulation>
@@ -146,13 +155,14 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
-          <program value="0"/>
+          <program value="6"/>
           <controller ctrl="7" value="101"/>
           <controller ctrl="10" value="63"/>
           <synti>Fluid</synti>
           <midiPort>0</midiPort>
           <midiChannel>1</midiChannel>
           </Channel>
+        <shortName>Hch.</shortName>
         </Instrument>
       </Part>
     <Staff id="1">
@@ -161,14 +171,11 @@
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
-          <text><font size="24"></font>Rondo I in E Major</text>
+          <text>Rondo in E Major, Wq.57/1</text>
           </Text>
         <Text>
           <style>Composer</style>
-          <align>right,top</align>
-          <offset x="0.35787" y="11.5824"/>
-          <text><font size="12"/>Carl Philipp Emanuel Bach
-Wq 57 / 1</text>
+          <text>Carl Philipp Emanuel Bach</text>
           </Text>
         </VBox>
       <Measure>
@@ -13179,7 +13186,6 @@ Wq 57 / 1</text>
             <baseNote>32nd</baseNote>
             <numberType>2</numberType>
             <bracketType>2</bracketType>
-            <minDistance>0.5</minDistance>
             </Tuplet>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -13234,7 +13240,6 @@ Wq 57 / 1</text>
             <baseNote>32nd</baseNote>
             <numberType>2</numberType>
             <bracketType>2</bracketType>
-            <minDistance>0.5</minDistance>
             </Tuplet>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -13289,7 +13294,6 @@ Wq 57 / 1</text>
             <baseNote>32nd</baseNote>
             <numberType>2</numberType>
             <bracketType>2</bracketType>
-            <minDistance>0.5</minDistance>
             </Tuplet>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -13344,7 +13348,6 @@ Wq 57 / 1</text>
             <baseNote>32nd</baseNote>
             <numberType>2</numberType>
             <bracketType>2</bracketType>
-            <minDistance>0.5</minDistance>
             </Tuplet>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -13402,7 +13405,6 @@ Wq 57 / 1</text>
             <baseNote>32nd</baseNote>
             <numberType>2</numberType>
             <bracketType>2</bracketType>
-            <minDistance>0.5</minDistance>
             </Tuplet>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -13457,7 +13459,6 @@ Wq 57 / 1</text>
             <baseNote>32nd</baseNote>
             <numberType>2</numberType>
             <bracketType>2</bracketType>
-            <minDistance>0.5</minDistance>
             </Tuplet>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -18141,9 +18142,13 @@ Wq 57 / 1</text>
           <endTuplet/>
           </voice>
         </Measure>
-      <Measure len="3/4">
-        <vspacerDown>8.95031</vspacerDown>
+      <Measure>
         <voice>
+          <TimeSig>
+            <visible>0</visible>
+            <sigN>3</sigN>
+            <sigD>4</sigD>
+            </TimeSig>
           <Dynamic>
             <subtype>f</subtype>
             <velocity>88</velocity>
@@ -18159,13 +18164,6 @@ Wq 57 / 1</text>
             <baseNote>32nd</baseNote>
             <numberType>2</numberType>
             </Tuplet>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            <Fragment>
-              <y1>5.75</y1>
-              <y2>6.30798</y2>
-              </Fragment>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>32nd</durationType>
@@ -18207,13 +18205,6 @@ Wq 57 / 1</text>
             <baseNote>32nd</baseNote>
             <numberType>2</numberType>
             </Tuplet>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            <Fragment>
-              <y1>5.75</y1>
-              <y2>6.41849</y2>
-              </Fragment>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>32nd</durationType>
@@ -18252,13 +18243,6 @@ Wq 57 / 1</text>
             <baseNote>32nd</baseNote>
             <numberType>2</numberType>
             </Tuplet>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            <Fragment>
-              <y1>5.75</y1>
-              <y2>6.30798</y2>
-              </Fragment>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>32nd</durationType>
@@ -18297,13 +18281,6 @@ Wq 57 / 1</text>
             <baseNote>32nd</baseNote>
             <numberType>2</numberType>
             </Tuplet>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            <Fragment>
-              <y1>5.75</y1>
-              <y2>6.08697</y2>
-              </Fragment>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>32nd</durationType>
@@ -18342,13 +18319,6 @@ Wq 57 / 1</text>
             <baseNote>32nd</baseNote>
             <numberType>2</numberType>
             </Tuplet>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            <Fragment>
-              <y1>4.75</y1>
-              <y2>4.97647</y2>
-              </Fragment>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>32nd</durationType>
@@ -18387,13 +18357,6 @@ Wq 57 / 1</text>
             <baseNote>32nd</baseNote>
             <numberType>2</numberType>
             </Tuplet>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            <Fragment>
-              <y1>4.75</y1>
-              <y2>4.86596</y2>
-              </Fragment>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>32nd</durationType>
@@ -18422,11 +18385,21 @@ Wq 57 / 1</text>
           <BarLine>
             <visible>0</visible>
             </BarLine>
+          <TimeSig>
+            <visible>0</visible>
+            <sigN>13</sigN>
+            <sigD>4</sigD>
+            </TimeSig>
           </voice>
         </Measure>
-      <Measure len="13/4">
-        <vspacerDown>9.74255</vspacerDown>
+      <Measure>
+        <irregular>1</irregular>
         <voice>
+          <TimeSig>
+            <visible>0</visible>
+            <sigN>13</sigN>
+            <sigD>4</sigD>
+            </TimeSig>
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>101</velocity>
@@ -18460,9 +18433,6 @@ Wq 57 / 1</text>
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
@@ -18495,9 +18465,6 @@ Wq 57 / 1</text>
               <tpc>21</tpc>
               </Note>
             </Chord>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
@@ -18531,9 +18498,6 @@ Wq 57 / 1</text>
               <tpc>23</tpc>
               </Note>
             </Chord>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
@@ -18583,9 +18547,6 @@ Wq 57 / 1</text>
               <tpc>19</tpc>
               </Note>
             </Chord>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
@@ -18635,13 +18596,6 @@ Wq 57 / 1</text>
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            <Fragment>
-              <y1>5.32606</y1>
-              <y2>5.75</y2>
-              </Fragment>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
@@ -18694,9 +18648,6 @@ Wq 57 / 1</text>
               <tpc>24</tpc>
               </Note>
             </Chord>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
@@ -18754,6 +18705,11 @@ Wq 57 / 1</text>
             <visible>0</visible>
             <durationType>quarter</durationType>
             </Rest>
+          <TimeSig>
+            <visible>0</visible>
+            <sigN>4</sigN>
+            <sigD>4</sigD>
+            </TimeSig>
           </voice>
         <voice/>
         <voice>
@@ -18768,11 +18724,22 @@ Wq 57 / 1</text>
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>2/1</fractions>
+            </location>
+          <location>
+            <fractions>1/2</fractions>
+            </location>
           </voice>
         </Measure>
       <Measure>
         <vspacerDown>9.52154</vspacerDown>
         <voice>
+          <TimeSig>
+            <visible>0</visible>
+            <sigN>4</sigN>
+            <sigD>4</sigD>
+            </TimeSig>
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>36</velocity>
@@ -22213,7 +22180,6 @@ Wq 57 / 1</text>
             <baseNote>32nd</baseNote>
             <numberType>2</numberType>
             <bracketType>2</bracketType>
-            <minDistance>0.5</minDistance>
             </Tuplet>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -30023,22 +29989,19 @@ Wq 57 / 1</text>
             </Rest>
           </voice>
         </Measure>
-      <Measure len="3/4">
-        <vspacerFixed>17.5689</vspacerFixed>
+      <Measure>
         <voice>
+          <TimeSig>
+            <visible>0</visible>
+            <sigN>3</sigN>
+            <sigD>4</sigD>
+            </TimeSig>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>32nd</baseNote>
             <numberType>2</numberType>
             </Tuplet>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            <Fragment>
-              <y1>4.75</y1>
-              <y2>4.30252</y2>
-              </Fragment>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>32nd</durationType>
@@ -30080,12 +30043,6 @@ Wq 57 / 1</text>
             <baseNote>32nd</baseNote>
             <numberType>2</numberType>
             </Tuplet>
-          <Beam>
-            <Fragment>
-              <y1>5.75</y1>
-              <y2>5.19202</y2>
-              </Fragment>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>32nd</durationType>
@@ -30127,13 +30084,6 @@ Wq 57 / 1</text>
             <baseNote>32nd</baseNote>
             <numberType>2</numberType>
             </Tuplet>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            <Fragment>
-              <y1>4.75</y1>
-              <y2>4.30252</y2>
-              </Fragment>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>32nd</durationType>
@@ -30172,13 +30122,6 @@ Wq 57 / 1</text>
             <baseNote>32nd</baseNote>
             <numberType>2</numberType>
             </Tuplet>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            <Fragment>
-              <y1>4.75</y1>
-              <y2>4.52353</y2>
-              </Fragment>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>32nd</durationType>
@@ -30221,13 +30164,6 @@ Wq 57 / 1</text>
             <baseNote>32nd</baseNote>
             <numberType>2</numberType>
             </Tuplet>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            <Fragment>
-              <y1>3.75</y1>
-              <y2>3.85505</y2>
-              </Fragment>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>32nd</durationType>
@@ -30266,13 +30202,6 @@ Wq 57 / 1</text>
             <baseNote>32nd</baseNote>
             <numberType>2</numberType>
             </Tuplet>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            <Fragment>
-              <y1>4.75</y1>
-              <y2>4.63404</y2>
-              </Fragment>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>32nd</durationType>
@@ -30305,11 +30234,20 @@ Wq 57 / 1</text>
           <BarLine>
             <visible>0</visible>
             </BarLine>
+          <TimeSig>
+            <visible>0</visible>
+            <sigN>13</sigN>
+            <sigD>4</sigD>
+            </TimeSig>
           </voice>
         </Measure>
-      <Measure len="13/4">
-        <vspacerFixed>13.5907</vspacerFixed>
+      <Measure>
         <voice>
+          <TimeSig>
+            <visible>0</visible>
+            <sigN>13</sigN>
+            <sigD>4</sigD>
+            </TimeSig>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -30475,14 +30413,16 @@ Wq 57 / 1</text>
               <tpc>19</tpc>
               </Note>
             </Chord>
+          <TimeSig>
+            <visible>0</visible>
+            <sigN>4</sigN>
+            <sigD>4</sigD>
+            </TimeSig>
           </voice>
         <voice>
           <location>
             <fractions>2/1</fractions>
             </location>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
@@ -30580,6 +30520,11 @@ Wq 57 / 1</text>
       <Measure>
         <vspacerFixed>16.0218</vspacerFixed>
         <voice>
+          <TimeSig>
+            <visible>0</visible>
+            <sigN>4</sigN>
+            <sigD>4</sigD>
+            </TimeSig>
           <Rest>
             <visible>0</visible>
             <durationType>measure</durationType>

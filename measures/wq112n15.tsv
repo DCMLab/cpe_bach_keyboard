@@ -1,0 +1,4 @@
+mc	mn	quarterbeats	duration_qb	keysig	timesig	act_dur	mc_offset	numbering_offset	dont_count	barline	breaks	repeats	next
+1	1	0	32.0	-1	4/4	8	0				line	firstMeasure	2
+2	2	32	13.0	-1	4/4	13/4	0				line		3
+3	3	45	16.0	-1	4/4	4	0					lastMeasure	-1
