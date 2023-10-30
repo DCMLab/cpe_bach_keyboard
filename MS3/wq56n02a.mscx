@@ -9629,7 +9629,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I.V6{5</name>
+            <name>I.V65{</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -9662,6 +9662,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I</name>
+            <offset x="0.183521" y="2.94944"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
