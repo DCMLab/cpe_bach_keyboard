@@ -21544,7 +21544,6 @@
               </Articulation>
             <StemDirection>down</StemDirection>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>77</pitch>
               <tpc>13</tpc>
               </Note>
@@ -33581,7 +33580,8 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iiviio6}</name>
+            <name>ii-viio6}</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
@@ -33717,6 +33717,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V6</name>
+            <offset x="0" y="3.7"/>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>

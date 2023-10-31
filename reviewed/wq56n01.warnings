@@ -1,10 +1,6 @@
 Warnings encountered during the last execution of ms3 review
 ============================================================
 
-DCML_HARMONY_SYNTAX_WARNING (15,) ms3.Parse.cpe_bach_keyboard.wq56n01 --
-	Score contains 1 labels that don't (and 434 that do) match the DCML standard:
-	      mc   mn     label harmony_layer
-	421  170  170  iiviio6}             1
 DCML_PHRASE_INCONGRUENCY_WARNING (16,) ms3.Parse.cpe_bach_keyboard.wq56n01 --
 	Phrase beginning and endings don't match:
 	mn_playthrough phraseend mn_playthrough phraseend
