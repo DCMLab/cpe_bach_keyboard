@@ -39,18 +39,3 @@ DCML_PHRASE_INCONGRUENCY_WARNING (16,) ms3.Parse.cpe_bach_keyboard.wq56n01 --
 	          164a         {           165a         }
 	          165a         {           176a         }
 	          171a         {            NaN       NaN
-DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 25, '3/8', 'VI6(2)') ms3.Parse.cpe_bach_keyboard.wq56n01 --
-	The label 'VI6(2)' in m. 25, onset 3/8 (MC 25, onset 3/8) seems not to correspond well to the score (which does not necessarily mean it is wrong).
-	In the context of C.I, it expresses the scale degrees ('#1', '3', '7') [('C#', 'E', 'B')].
-	The corresponding score segment has 0 within-label and 3 out-of-label note onsets, a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
-	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed by a free-text comment in subsequent lines starting with a space or tab.
-DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 25, '5/8', 'VI6') ms3.Parse.cpe_bach_keyboard.wq56n01 --
-	The label 'VI6' in m. 25, onset 5/8 (MC 25, onset 5/8) seems not to correspond well to the score (which does not necessarily mean it is wrong).
-	In the context of C.I, it expresses the scale degrees ('#1', '3', '6') [('C#', 'E', 'A')].
-	The corresponding score segment has 0 within-label and 1 out-of-label note onsets, a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
-	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed by a free-text comment in subsequent lines starting with a space or tab.
-DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 36, '3/8', 'III+') ms3.Parse.cpe_bach_keyboard.wq56n01 --
-	The label 'III+' in m. 36, onset 3/8 (MC 36, onset 3/8) seems not to correspond well to the score (which does not necessarily mean it is wrong).
-	In the context of C.I, it expresses the scale degrees ('3', '#5', '#7') [('E', 'G#', 'B#')].
-	The corresponding score segment has 0 within-label and 5 out-of-label note onsets, a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
-	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed by a free-text comment in subsequent lines starting with a space or tab.
