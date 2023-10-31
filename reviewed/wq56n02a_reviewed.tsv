@@ -156,4 +156,4 @@ mc	mn	mc_onset	mn_onset	timesig	staff	voice	label	offset_x	offset_y	offset	volta
 72	71	0	0	2/4	2	1	I|PAC}				1		G	I		I		I					PAC	}	M	0	0	1, 5, 2		1	1	0	2	0.0	0.0	0.5	0.0
 72	71	1/4	1/4	2/4	2	1	#viio6/ii				1		G	I		#viio6/ii		#vii	o	6		ii			o	0	0	5, 2, 8		8	5	0	8	0.0	0.0	2.0	0.0
 73	71	0	0	2/4	2	1	I|PAC}				2		G	I		I		I					PAC	}	M	0	0	1, 5, 2		1	1	0	2	0.0	0.0	0.5	0.0
-73	71	1/4	1/4	2/4	2	1	#viio6/ii				2		G	I		#viio6/ii		#vii	o	6		ii			o	0	0	5, 2, 8		8	5	1	7	0.125	0.25	1.75	0.125
+73	71	1/4	1/4	2/4	2	1	#viio2/vii				2		G	I		#viio2/vii		#vii	o	2		vii			o7	0	0	2, 11, 8, 5		11	2	0	8	0.0	0.0	2.0	0.0
