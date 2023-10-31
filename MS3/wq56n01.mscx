@@ -23658,7 +23658,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI6(2)</name>
+            <name>IV6(2)</name>
             </Harmony>
           <Rest>
             <offset x="0" y="-1"/>
@@ -23677,7 +23677,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI6</name>
+            <name>IV6</name>
             </Harmony>
           </voice>
         <voice>
@@ -24146,7 +24146,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III+</name>
+            <name>IV+</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -33985,6 +33985,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V(6)</name>
+            <offset x="0" y="3.6"/>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
