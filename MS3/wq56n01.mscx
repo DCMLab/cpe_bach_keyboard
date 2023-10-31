@@ -33351,7 +33351,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iiviio6}</name>
+            <name>ii-viio6}</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
@@ -33487,6 +33487,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V6</name>
+            <offset x="0" y="3.7"/>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
