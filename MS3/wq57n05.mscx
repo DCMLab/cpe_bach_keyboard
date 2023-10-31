@@ -70,6 +70,7 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>1</showMargins>
+    <metaTag name="annotators">Davor Krkljus</metaTag>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1779</metaTag>
     <metaTag name="composed_source">Packard Humanities Institute (cpebach.org)</metaTag>
@@ -77,6 +78,7 @@
     <metaTag name="composer">Carl Philipp Emanuel Bach</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2023-07-23</metaTag>
+    <metaTag name="harmony_version">2.3.0</metaTag>
     <metaTag name="imslp">https://imslp.org/wiki/Rondo_in_F_major,_H.266_(Bach,_Carl_Philipp_Emanuel)</metaTag>
     <metaTag name="lyricist"></metaTag>
     <metaTag name="movementNumber"></metaTag>
@@ -109,6 +111,7 @@
       <trackName>Harpsichord</trackName>
       <Instrument id="harpsichord">
         <longName>Harpsichord</longName>
+        <shortName>Hch.</shortName>
         <trackName>Harpsichord</trackName>
         <minPitchP>21</minPitchP>
         <maxPitchP>108</maxPitchP>
@@ -116,7 +119,6 @@
         <maxPitchA>108</maxPitchA>
         <instrumentId>keyboard.harpsichord</instrumentId>
         <clef staff="2">F</clef>
-        <singleNoteDynamics>0</singleNoteDynamics>
         <Articulation>
           <velocity>100</velocity>
           <gateTime>95</gateTime>
@@ -165,7 +167,6 @@
           <midiPort>0</midiPort>
           <midiChannel>1</midiChannel>
           </Channel>
-        <shortName>Hch.</shortName>
         </Instrument>
       </Part>
     <Staff id="1">
@@ -200,6 +201,12 @@
             <tempo>1.8666666666666667</tempo>
             <followText>1</followText>
             <text><font size="10.7"></font><b>Аllegretto</b></text>
+            </Tempo>
+          <Tempo>
+            <tempo>1.3333299999999999</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><sym>metNoteQuarterUp</sym> = 80</text>
             </Tempo>
           <Beam>
             <StemDirection>down</StemDirection>
