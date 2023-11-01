@@ -24617,7 +24617,8 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VII6</name>
+            <name>VI6</name>
+            <offset x="-0.1" y="3.5"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -26595,14 +26596,14 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iio6</name>
+            <name>iio6}</name>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I6}{</name>
+            <name>I6{</name>
             </Harmony>
           </voice>
         </Measure>
