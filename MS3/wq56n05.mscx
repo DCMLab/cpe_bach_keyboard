@@ -20549,7 +20549,8 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV5</name>
+            <name>IV6</name>
+            <offset x="0" y="3.4"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
