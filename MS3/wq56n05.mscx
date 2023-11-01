@@ -21336,7 +21336,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio7/bVI</name>
+            <name>viio7/VI</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -25562,7 +25562,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio6</name>
+            <name>viio6/III</name>
             </Harmony>
           <location>
             <fractions>1/16</fractions>
@@ -25596,6 +25596,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V6/III</name>
+            <offset x="-0.1" y="3.5"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -27628,7 +27629,7 @@
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i[i|PAC}</name>
+            <name>i[i|PAC}{</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
