@@ -288,7 +288,8 @@ mc	mn	mc_onset	mn_onset	timesig	staff	voice	label	offset_x	offset_y	offset	alt_l
 110	107	1/2	1/2	3/4	2	1	VI6	-0.1	3.5	/		D	ii		VI6		VI		6					M	0	1	4, 1, 0		0	4	0	6	0.0	0.0	0.75	0.0
 111	108	0	0	3/4	2	1	viio6(2)/VI					D	ii		viio6(2)/VI		vii	o	6	2	VI			o	0	1	2, -1, 0		5	2	0	3	0.0	0.0	1.375	0.0
 111	108	1/4	1/4	3/4	2	1	viio6/VI					D	ii		viio6/VI		vii	o	6		VI			o	0	1	2, -1, 5		5	2	8	11	0.42105263157894735	1.0	3.25	0.23529411764705882
-111	108	9/4	9/4	3/4	2	1	viio6(2)/VI					D	ii		viio6(2)/VI		vii	o	6	2	VI			o	0	1	2, -1, 0		5	2	1	3	0.25	0.25	0.75	0.25
+111	108	9/4	9/4	3/4	2	1	viio6(2)/VI					D	ii		viio6(2)/VI		vii	o	6	2	VI			o	0	1	2, -1, 0		5	2	0	1	0.0	0.0	0.25	0.0
+111	108	5/2	5/2	3/4	2	1	viio6/V}					D	ii		viio6/V		vii	o	6		V		}	o	0	1	7, 4, 10		10	7	3	0	1.0	0.75	0.0	1.0
 111	108	11/4	11/4	3/4	2	1	I6/VI{					D	ii		I6/VI		I		6		VI		{	M	0	1	4, 1, 0		0	4	0	6	0.0	0.0	0.75	0.0
 112	109	0	0	3/4	2	1	viio6(2)/VI					D	ii		viio6(2)/VI		vii	o	6	2	VI			o	0	1	2, -1, 0		5	2	0	3	0.0	0.0	1.25	0.0
 112	109	1/4	1/4	3/4	2	1	viio6/VI					D	ii		viio6/VI		vii	o	6		VI			o	0	1	2, -1, 5		5	2	0	1	0.0	0.0	0.25	0.0
@@ -408,7 +409,7 @@ mc	mn	mc_onset	mn_onset	timesig	staff	voice	label	offset_x	offset_y	offset	alt_l
 147	144	0	0	3/4	2	1	ii6					D	I		ii6		ii		6					m	0	0	1, 5, 4		4	1	0	6	0.0	0.0	1.5	0.0
 148	145	0	0	3/4	2	1	V65					D	I		V65		V		65					Mm7	0	0	7, 4, 1, 3		3	7	0	7	0.0	0.0	1.75	0.0
 148	145	1/2	1/2	3/4	2	1	I					D	I		I		I							M	0	0	2, 6, 3		2	2	4	4	0.5	0.125	0.125	0.5
-149	146	0	0	3/4	2	1	ii					D	I		ii		ii							m	0	0	4, 1, 5		4	4	0	4	0.0	0.0	1.0	0.0
+149	146	0	0	3/4	2	1	ii	0	3.6	/		D	I		ii		ii							m	0	0	4, 1, 5		4	4	0	4	0.0	0.0	1.0	0.0
 149	146	1/2	1/2	3/4	2	1	#viio7/vi					D	I		#viio7/vi		#vii	o	7		vi			o7	0	0	10, 7, 4, 1		10	10	0	6	0.0	0.0	0.75	0.0
 150	147	0	0	3/4	2	1	#viio/vi}					D	I		#viio/vi		#vii	o			vi		}	o	0	0	10, 7, 4		10	10	0	3	0.0	0.0	0.75	0.0
 150	147	1/4	1/4	3/4	2	1	vi|DC					D	I		vi		vi					DC		m	0	0	5, 2, 6		5	5	0	2	0.0	0.0	0.5	0.0
