@@ -289,7 +289,7 @@ mc	mn	mc_onset	mn_onset	timesig	staff	voice	label	offset_x	offset_y	offset	alt_l
 111	108	0	0	3/4	2	1	viio6(2)/VI					D	ii		viio6(2)/VI		vii	o	6	2	VI			o	0	1	2, -1, 0		5	2	0	3	0.0	0.0	1.375	0.0
 111	108	1/4	1/4	3/4	2	1	viio6/VI					D	ii		viio6/VI		vii	o	6		VI			o	0	1	2, -1, 5		5	2	8	11	0.42105263157894735	1.0	3.25	0.23529411764705882
 111	108	9/4	9/4	3/4	2	1	viio6(2)/VI					D	ii		viio6(2)/VI		vii	o	6	2	VI			o	0	1	2, -1, 0		5	2	0	1	0.0	0.0	0.25	0.0
-111	108	5/2	5/2	3/4	2	1	viio6/V}					D	ii		viio6/V		vii	o	6		V		}	o	0	1	7, 4, 10		10	7	3	0	1.0	0.75	0.0	1.0
+111	108	5/2	5/2	3/4	2	1	viio6/VI}	0	3.6	/		D	ii		viio6/VI		vii	o	6		VI		}	o	0	1	2, -1, 5		5	2	0	3	0.0	0.0	0.75	0.0
 111	108	11/4	11/4	3/4	2	1	I6/VI{					D	ii		I6/VI		I		6		VI		{	M	0	1	4, 1, 0		0	4	0	6	0.0	0.0	0.75	0.0
 112	109	0	0	3/4	2	1	viio6(2)/VI					D	ii		viio6(2)/VI		vii	o	6	2	VI			o	0	1	2, -1, 0		5	2	0	3	0.0	0.0	1.25	0.0
 112	109	1/4	1/4	3/4	2	1	viio6/VI					D	ii		viio6/VI		vii	o	6		VI			o	0	1	2, -1, 5		5	2	0	1	0.0	0.0	0.25	0.0
