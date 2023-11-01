@@ -24751,7 +24751,8 @@
             </Fermata>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio6/V}</name>
+            <name>viio6/VI}</name>
+            <offset x="0" y="3.6"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
