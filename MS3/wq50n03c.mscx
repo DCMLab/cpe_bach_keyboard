@@ -8922,7 +8922,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I6-V65/IV</name>
+            <name>V65/IV</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -9800,15 +9800,38 @@
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio7(b8)/V</name>
+            <name>viio7/V</name>
             </Harmony>
           <Chord>
-            <durationType>half</durationType>
+            <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
                 </Accidental>
+              <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <fractions>1/4</fractions>
+                    </location>
+                  </next>
+                </Spanner>
+              <pitch>39</pitch>
+              <tpc>23</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <fractions>-1/4</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
               <pitch>39</pitch>
               <tpc>23</tpc>
               </Note>
@@ -10572,10 +10595,6 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I</name>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -10584,6 +10603,10 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I(2)</name>
+            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -10609,7 +10632,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I6-V65/IV</name>
+            <name>V65/IV</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -11472,7 +11495,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii6(2)</name>
+            <name>iv6(2)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -11504,6 +11527,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>It6</name>
+            <offset x="0.1" y="3.5"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
