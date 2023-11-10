@@ -18380,6 +18380,13 @@
             <durationType>16th</durationType>
             <Spanner type="Slur">
               <Slur>
+                <SlurSegment no="0">
+                  <o1 x="0.613569" y="-1.02261"/>
+                  <o2 x="-0.306784" y="-0.511307"/>
+                  <o3 x="-0.409046" y="-1.94297"/>
+                  <o4 x="0.306784" y="-1.3294"/>
+                  <offset x="-0.306784" y="0.920353"/>
+                  </SlurSegment>
                 <up>up</up>
                 </Slur>
               <next>
@@ -20353,7 +20360,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I6(0)</name>
+            <name>I6(7)</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -21499,7 +21506,8 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6</name>
+            <name>V6/ii</name>
+            <offset x="-0.1" y="3.5"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -21936,7 +21944,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I6(0)</name>
+            <name>I6(7)</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -22620,7 +22628,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I6(0)</name>
+            <name>I6(7)</name>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
@@ -26377,7 +26385,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6(0)</name>
+            <name>V6(7)</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -27655,7 +27663,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I6(0)</name>
+            <name>I6(7)</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -29996,7 +30004,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6(0)</name>
+            <name>V6(7)</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
