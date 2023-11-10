@@ -4876,7 +4876,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv6(2)</name>
+            <name>IV6(2)</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -6293,7 +6293,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv6(2)</name>
+            <name>IV6(2)</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -6314,6 +6314,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>iv6</name>
+            <offset x="0" y="3.6"/>
             </Harmony>
           <location>
             <fractions>1/16</fractions>
