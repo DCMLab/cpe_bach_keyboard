@@ -15740,7 +15740,8 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio5(62)</name>
+            <name>viio6(62)</name>
+            <offset x="-0.1" y="3.5"/>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -17328,7 +17329,8 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI6</name>
+            <name>IV6</name>
+            <offset x="-0.1" y="3.5"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
