@@ -4580,7 +4580,6 @@
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Spanner type="Tie">
                 <prev>
                   <location>
@@ -4638,7 +4637,6 @@
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <subtype>accidentalFlat</subtype>
                 </Accidental>
@@ -15936,13 +15934,14 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio5(62)</name>
+            <name>viio6(62)</name>
+            <color r="0" g="85" b="0" a="255"/>
+            <offset x="-0.1" y="3.5"/>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>55</pitch>
               <tpc>15</tpc>
               </Note>
@@ -17534,6 +17533,13 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>VI6</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>IV6</name>
+            <color r="0" g="85" b="0" a="255"/>
+            <offset x="-0.1" y="3.5"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>

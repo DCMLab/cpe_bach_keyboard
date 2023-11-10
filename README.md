@@ -32,7 +32,7 @@ Please note that the `meta_ corpora` branch should be used with collections of c
 |wq50n04c |     131|     0|        |             |
 |wq50n05a |     104|     0|        |             |
 |wq50n05b |      60|     0|        |             |
-|wq50n05c |     229|   390|2.3.0   |Davor Krkljus|
+|wq50n05c |     229|   391|2.3.0   |Davor Krkljus|
 |wq50n06  |     234|     0|        |             |
 |wq55n01a |      69|     0|        |             |
 |wq55n01b |      39|     0|        |             |
