@@ -4944,18 +4944,22 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>iv6(2)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>IV6(2)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <dots>1</dots>
             <durationType>eighth</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>40</pitch>
               <tpc>18</tpc>
               </Note>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>52</pitch>
               <tpc>18</tpc>
               </Note>
@@ -6370,18 +6374,22 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>iv6(2)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>IV6(2)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <dots>1</dots>
             <durationType>eighth</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>40</pitch>
               <tpc>18</tpc>
               </Note>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>52</pitch>
               <tpc>18</tpc>
               </Note>
@@ -6392,6 +6400,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>iv6</name>
+            <offset x="0" y="3.6"/>
             </Harmony>
           <location>
             <fractions>1/16</fractions>
