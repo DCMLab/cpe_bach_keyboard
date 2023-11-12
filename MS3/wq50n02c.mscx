@@ -8741,7 +8741,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii6(^7^9)</name>
+            <name>ii6(9^7)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -11123,6 +11123,10 @@
           <location>
             <fractions>1/4</fractions>
             </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>ii%7/ii</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
@@ -11541,7 +11545,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iio6(^9^7)/i</name>
+            <name>iio6(9^7)/i</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -12766,6 +12770,10 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iio/ii</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
@@ -12780,7 +12788,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii6</name>
+            <name>ii6(9)</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -12933,6 +12941,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i[i{</name>
+            <offset x="0" y="3.6"/>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
@@ -13141,7 +13150,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio6</name>
+            <name>#viio6/i</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -14037,7 +14046,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#vii%7</name>
+            <name>vii%7</name>
             </Harmony>
           </voice>
         </Measure>
