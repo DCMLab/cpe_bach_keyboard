@@ -21596,6 +21596,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iio</name>
+            </Harmony>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
@@ -23403,7 +23407,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii/ii-iio/ii{</name>
+            <name>ii/ii{-iio/ii{</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -25866,6 +25870,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iio</name>
+            </Harmony>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
@@ -25900,6 +25908,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V65/V</name>
+            <offset x="0" y="3.6"/>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
@@ -27253,7 +27262,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii/ii-iio/ii{</name>
+            <name>ii/ii{-iio/ii{</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -28697,7 +28706,7 @@
             </KeySig>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i.</name>
+            <name>i.i</name>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
