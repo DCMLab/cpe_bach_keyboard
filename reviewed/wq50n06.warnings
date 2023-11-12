@@ -1,0 +1,190 @@
+Warnings encountered during the last execution of ms3 review
+============================================================
+
+DCML_HARMONY_SYNTAX_WARNING (15,) ms3.Parse.cpe_bach_keyboard.wq50n06 --
+	Score contains 1 labels that don't (and 448 that do) match the DCML standard:
+	      mc   mn label harmony_layer
+	366  186  185    i.             1
+DCML_DEFAULT_CORRECTION_WARNING (27, 'MC 188: ') ms3.Parse.cpe_bach_keyboard.wq50n06 --
+	MC 188: #vii in major context corrected to vii.
+DCML_DEFAULT_CORRECTION_WARNING (27, 'MC 187: ') ms3.Parse.cpe_bach_keyboard.wq50n06 --
+	MC 187: #vii in major context corrected to vii.
+DCML_DEFAULT_CORRECTION_WARNING (27, 'MC 187: ') ms3.Parse.cpe_bach_keyboard.wq50n06 --
+	MC 187: #vii in major context corrected to vii.
+DCML_DEFAULT_CORRECTION_WARNING (27, 'MC 233: ') ms3.Parse.cpe_bach_keyboard.wq50n06 --
+	MC 233: #vii in major context corrected to vii.
+DCML_DEFAULT_CORRECTION_WARNING (27, 'MC 177: ') ms3.Parse.cpe_bach_keyboard.wq50n06 --
+	MC 177: #vii in major context corrected to vii.
+DCML_DEFAULT_CORRECTION_WARNING (27, 'MC 231: ') ms3.Parse.cpe_bach_keyboard.wq50n06 --
+	MC 231: #vii in major context corrected to vii.
+DCML_DEFAULT_CORRECTION_WARNING (27, 'MC 215: ') ms3.Parse.cpe_bach_keyboard.wq50n06 --
+	MC 215: #vii in major context corrected to vii.
+DCML_DEFAULT_CORRECTION_WARNING (27, 'MC 215: ') ms3.Parse.cpe_bach_keyboard.wq50n06 --
+	MC 215: #vii in major context corrected to vii.
+DCML_DEFAULT_CORRECTION_WARNING (27, 'MC 195: ') ms3.Parse.cpe_bach_keyboard.wq50n06 --
+	MC 195: #vii in major context corrected to vii.
+DCML_DEFAULT_CORRECTION_WARNING (27, 'MC 195: ') ms3.Parse.cpe_bach_keyboard.wq50n06 --
+	MC 195: #vii in major context corrected to vii.
+DCML_PHRASE_INCONGRUENCY_WARNING (16,) ms3.Parse.cpe_bach_keyboard.wq50n06 --
+	Phrase beginning and endings don't match:
+	mn_playthrough phraseend mn_playthrough phraseend
+	            0a         {             4a         }
+	            4a         {             8a         }
+	            8a         {            12a         }
+	           12a         {            16a         }
+	           16a         {            24a         }
+	           24a         {            32a         }
+	           32a         {            40a         }
+	           40a         {            48a         }
+	           48a         {            52a         }
+	           52a         {            56a         }
+	           56a         {            60a         }
+	           60a         {            64a         }
+	           72a         {            72a         }
+	           78a         {            78a         }
+	           86a         {            86a         }
+	           92a         {            92a         }
+	           96a         {            96a         }
+	          100a         {           100a         }
+	          104a         {           104a         }
+	          108a         {           108a         }
+	          116a         {           116a         }
+	          124a         {           124a         }
+	          132a         {           132a         }
+	          140a         {           140a         }
+	          144a         {           144a         }
+	          148a         {           148a         }
+	          152a         {           152a         }
+	          164a         {           156a         }
+	          170a         {           164a         }
+	          178a         {           170a         }
+	          184a         {           178a         }
+	          188a         {           184a         }
+	          192a         {           188a         }
+	          196a         {           192a         }
+	          200a         {           196a         }
+	          208a         {           200a         }
+	          216a         {           208a         }
+	          224a         {           216a         }
+	           NaN       NaN           224a         }
+	           NaN       NaN           234a         }
+DCML_DEFAULT_CORRECTION_WARNING (27, 'MC 188: ') ms3.Parse.cpe_bach_keyboard.wq50n06 --
+	MC 188: #vii in major context corrected to vii.
+DCML_DEFAULT_CORRECTION_WARNING (27, 'MC 187: ') ms3.Parse.cpe_bach_keyboard.wq50n06 --
+	MC 187: #vii in major context corrected to vii.
+DCML_DEFAULT_CORRECTION_WARNING (27, 'MC 187: ') ms3.Parse.cpe_bach_keyboard.wq50n06 --
+	MC 187: #vii in major context corrected to vii.
+DCML_DEFAULT_CORRECTION_WARNING (27, 'MC 233: ') ms3.Parse.cpe_bach_keyboard.wq50n06 --
+	MC 233: #vii in major context corrected to vii.
+DCML_DEFAULT_CORRECTION_WARNING (27, 'MC 177: ') ms3.Parse.cpe_bach_keyboard.wq50n06 --
+	MC 177: #vii in major context corrected to vii.
+DCML_DEFAULT_CORRECTION_WARNING (27, 'MC 231: ') ms3.Parse.cpe_bach_keyboard.wq50n06 --
+	MC 231: #vii in major context corrected to vii.
+DCML_DEFAULT_CORRECTION_WARNING (27, 'MC 215: ') ms3.Parse.cpe_bach_keyboard.wq50n06 --
+	MC 215: #vii in major context corrected to vii.
+DCML_DEFAULT_CORRECTION_WARNING (27, 'MC 215: ') ms3.Parse.cpe_bach_keyboard.wq50n06 --
+	MC 215: #vii in major context corrected to vii.
+DCML_DEFAULT_CORRECTION_WARNING (27, 'MC 195: ') ms3.Parse.cpe_bach_keyboard.wq50n06 --
+	MC 195: #vii in major context corrected to vii.
+DCML_DEFAULT_CORRECTION_WARNING (27, 'MC 195: ') ms3.Parse.cpe_bach_keyboard.wq50n06 --
+	MC 195: #vii in major context corrected to vii.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 22, '1/4', 'iv') ms3.Parse.cpe_bach_keyboard.wq50n06 --
+	The label 'iv' in m. 21, onset 1/4 (MC 22, onset 1/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of c.i, it expresses the scale degrees ('4', '6', '1') [('F', 'Ab', 'C')].
+	The corresponding score segment has 2 within-label and 4 out-of-label note onsets, a ratio of 0.6666666666666666 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 114, '1/4', 'iv') ms3.Parse.cpe_bach_keyboard.wq50n06 --
+	The label 'iv' in m. 113, onset 1/4 (MC 114, onset 1/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of c.i, it expresses the scale degrees ('4', '6', '1') [('F', 'Ab', 'C')].
+	The corresponding score segment has 2 within-label and 4 out-of-label note onsets, a ratio of 0.6666666666666666 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 190, '1/4', 'VI') ms3.Parse.cpe_bach_keyboard.wq50n06 --
+	The label 'VI' in m. 189, onset 1/4 (MC 190, onset 1/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of c.I, it expresses the scale degrees ('6', '#1', '3') [('A', 'C#', 'E')].
+	The corresponding score segment has 0 within-label and 6 out-of-label note onsets, a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 192, '0', 'V7/III') ms3.Parse.cpe_bach_keyboard.wq50n06 --
+	The label 'V7/III' in m. 191, onset 0 (MC 192, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of c.I, it expresses the scale degrees ('7', '#2', '#4', '6') [('B', 'D#', 'F#', 'A')].
+	The corresponding score segment has 0 within-label and 14 out-of-label note onsets, a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 193, '0', 'III(74)') ms3.Parse.cpe_bach_keyboard.wq50n06 --
+	The label 'III(74)' in m. 192, onset 0 (MC 193, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of c.I, it expresses the scale degrees ('3', '6', '7') [('E', 'A', 'B')] plus the added ('2',) [('D',)].
+	The corresponding score segment has 1 within-label and 2 out-of-label note onsets, a ratio of 0.6666666666666666 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 193, '1/4', 'III|PAC}') ms3.Parse.cpe_bach_keyboard.wq50n06 --
+	The label 'III|PAC}' in m. 192, onset 1/4 (MC 193, onset 1/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of c.I, it expresses the scale degrees ('3', '#5', '7') [('E', 'G#', 'B')].
+	The corresponding score segment has 0 within-label and 3 out-of-label note onsets, a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 198, '1/4', 'VI') ms3.Parse.cpe_bach_keyboard.wq50n06 --
+	The label 'VI' in m. 197, onset 1/4 (MC 198, onset 1/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of c.I, it expresses the scale degrees ('6', '#1', '3') [('A', 'C#', 'E')].
+	The corresponding score segment has 0 within-label and 6 out-of-label note onsets, a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 200, '1/2', 'V/III') ms3.Parse.cpe_bach_keyboard.wq50n06 --
+	The label 'V/III' in m. 199, onset 1/2 (MC 200, onset 1/2) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of c.I, it expresses the scale degrees ('7', '#2', '#4') [('B', 'D#', 'F#')].
+	The corresponding score segment has 0 within-label and 9 out-of-label note onsets, a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 201, '1/4', 'III|PAC}') ms3.Parse.cpe_bach_keyboard.wq50n06 --
+	The label 'III|PAC}' in m. 200, onset 1/4 (MC 201, onset 1/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of c.I, it expresses the scale degrees ('3', '#5', '7') [('E', 'G#', 'B')].
+	The corresponding score segment has 0 within-label and 3 out-of-label note onsets, a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 204, '0', 'V7/III') ms3.Parse.cpe_bach_keyboard.wq50n06 --
+	The label 'V7/III' in m. 203, onset 0 (MC 204, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of c.I, it expresses the scale degrees ('7', '#2', '#4', '6') [('B', 'D#', 'F#', 'A')].
+	The corresponding score segment has 0 within-label and 9 out-of-label note onsets, a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 205, '1/4', 'III6') ms3.Parse.cpe_bach_keyboard.wq50n06 --
+	The label 'III6' in m. 204, onset 1/4 (MC 205, onset 1/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of c.I, it expresses the scale degrees ('#5', '7', '3') [('G#', 'B', 'E')].
+	The corresponding score segment has 0 within-label and 3 out-of-label note onsets, a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 205, '1/2', 'III') ms3.Parse.cpe_bach_keyboard.wq50n06 --
+	The label 'III' in m. 204, onset 1/2 (MC 205, onset 1/2) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of c.I, it expresses the scale degrees ('3', '#5', '7') [('E', 'G#', 'B')].
+	The corresponding score segment has 0 within-label and 2 out-of-label note onsets, a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 212, '0', 'V/III') ms3.Parse.cpe_bach_keyboard.wq50n06 --
+	The label 'V/III' in m. 211, onset 0 (MC 212, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of c.I, it expresses the scale degrees ('7', '#2', '#4') [('B', 'D#', 'F#')].
+	The corresponding score segment has 0 within-label and 9 out-of-label note onsets, a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 213, '0', 'III(4)') ms3.Parse.cpe_bach_keyboard.wq50n06 --
+	The label 'III(4)' in m. 212, onset 0 (MC 213, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of c.I, it expresses the scale degrees ('3', '6', '7') [('E', 'A', 'B')].
+	The corresponding score segment has 0 within-label and 2 out-of-label note onsets, a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 213, '1/4', 'III') ms3.Parse.cpe_bach_keyboard.wq50n06 --
+	The label 'III' in m. 212, onset 1/4 (MC 213, onset 1/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of c.I, it expresses the scale degrees ('3', '#5', '7') [('E', 'G#', 'B')].
+	The corresponding score segment has 0 within-label and 3 out-of-label note onsets, a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 220, '0', 'V7/III') ms3.Parse.cpe_bach_keyboard.wq50n06 --
+	The label 'V7/III' in m. 219, onset 0 (MC 220, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of c.I, it expresses the scale degrees ('7', '#2', '#4', '6') [('B', 'D#', 'F#', 'A')].
+	The corresponding score segment has 0 within-label and 14 out-of-label note onsets, a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 221, '0', 'III(4)') ms3.Parse.cpe_bach_keyboard.wq50n06 --
+	The label 'III(4)' in m. 220, onset 0 (MC 221, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of c.I, it expresses the scale degrees ('3', '6', '7') [('E', 'A', 'B')].
+	The corresponding score segment has 0 within-label and 2 out-of-label note onsets, a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 221, '1/4', 'III') ms3.Parse.cpe_bach_keyboard.wq50n06 --
+	The label 'III' in m. 220, onset 1/4 (MC 221, onset 1/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of c.I, it expresses the scale degrees ('3', '#5', '7') [('E', 'G#', 'B')].
+	The corresponding score segment has 0 within-label and 5 out-of-label note onsets, a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 228, '1/4', 'V7/III') ms3.Parse.cpe_bach_keyboard.wq50n06 --
+	The label 'V7/III' in m. 227, onset 1/4 (MC 228, onset 1/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of c.I, it expresses the scale degrees ('7', '#2', '#4', '6') [('B', 'D#', 'F#', 'A')].
+	The corresponding score segment has 0 within-label and 8 out-of-label note onsets, a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 229, '0', 'III') ms3.Parse.cpe_bach_keyboard.wq50n06 --
+	The label 'III' in m. 228, onset 0 (MC 229, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of c.I, it expresses the scale degrees ('3', '#5', '7') [('E', 'G#', 'B')].
+	The corresponding score segment has 0 within-label and 4 out-of-label note onsets, a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed by a free-text comment in subsequent lines starting with a space or tab.
