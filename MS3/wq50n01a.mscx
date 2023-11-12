@@ -11921,7 +11921,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV(4)</name>
+            <name>IV(b4)</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -11966,6 +11966,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V[V|HC}</name>
+            <offset x="0" y="3.6"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -12107,7 +12108,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio%7/V</name>
+            <name>vii%7/V</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
