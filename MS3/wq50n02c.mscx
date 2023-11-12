@@ -12788,7 +12788,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii6(9)</name>
+            <name>ii6(11)</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -12848,6 +12848,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I6</name>
+            <offset x="0" y="3.6"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -12922,6 +12923,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V|HC</name>
+            <offset x="0" y="3.6"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
