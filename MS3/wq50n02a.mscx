@@ -20339,7 +20339,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii6</name>
+            <name>iii6</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -21492,7 +21492,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV(4)</name>
+            <name>IV(b4)</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -22610,7 +22610,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio64/vii</name>
+            <name>#viio64/iii</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -25362,7 +25362,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio64/V</name>
+            <name>viio64/V{</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -25553,6 +25553,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I|PAC}</name>
+            <offset x="0" y="3.6"/>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
