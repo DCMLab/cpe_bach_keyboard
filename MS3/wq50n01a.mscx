@@ -12571,7 +12571,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I(7)</name>
+            <name>I(7)}</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -12594,7 +12594,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I|PAC}</name>
+            <name>I|PAC</name>
             </Harmony>
           <Rest>
             <dots>1</dots>
