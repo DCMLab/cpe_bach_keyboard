@@ -11742,7 +11742,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I/V}</name>
+            <name>I/V|IAC}</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
