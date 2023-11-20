@@ -11963,7 +11963,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(4)</name>
+            <name>V(4)}</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -11981,7 +11981,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V[V|HC}</name>
+            <name>V[V|HC</name>
             <offset x="0" y="3.6"/>
             </Harmony>
           <Chord>
