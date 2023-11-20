@@ -13009,7 +13009,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(#74)</name>
+            <name>V(#74)}</name>
             </Harmony>
           <Fermata>
             <subtype>fermataAbove</subtype>
@@ -13031,7 +13031,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V|HC}</name>
+            <name>V|HC</name>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
