@@ -11120,7 +11120,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(42)</name>
+            <name>V(42)}</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -11135,7 +11135,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V]|HC}</name>
+            <name>V]|HC</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
