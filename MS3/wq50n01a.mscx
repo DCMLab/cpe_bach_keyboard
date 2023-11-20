@@ -11894,7 +11894,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/IV-I</name>
+            <name>V7/IV</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
