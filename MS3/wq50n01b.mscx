@@ -147,7 +147,7 @@
             <tempo>1.1499999999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 69</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 69</b></text>
             </Tempo>
           <Chord>
             <durationType>quarter</durationType>
@@ -2815,7 +2815,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(64)</name>
+            <name>V(64)}</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -2827,7 +2827,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V|HC}</name>
+            <name>V|HC</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
