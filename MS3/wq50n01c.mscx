@@ -148,7 +148,7 @@
             <tempo>1.75</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b></b><font face="ScoreText"/> <b><font face="Edwin"/> = 70</b></text>
+            <text><b></b><font face="ScoreText"></font> <b><font face="Edwin"></font> = 70</b></text>
             </Tempo>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -11936,7 +11936,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I|PAC}</name>
+            <name>I|IAC}</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
