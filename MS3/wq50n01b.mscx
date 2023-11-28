@@ -2962,7 +2962,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i}</name>
+            <name>i</name>
             </Harmony>
           <Chord>
             <staffMove>-1</staffMove>
