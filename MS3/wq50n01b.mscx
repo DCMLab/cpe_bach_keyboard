@@ -3142,7 +3142,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i6}</name>
+            <name>i6|IAC}</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
