@@ -143,7 +143,7 @@
             <tempo>3</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 180</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 180</b></text>
             </Tempo>
           <Chord>
             <dots>1</dots>
@@ -8905,6 +8905,10 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I(94)</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
