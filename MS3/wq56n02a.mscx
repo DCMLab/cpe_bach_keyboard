@@ -9343,7 +9343,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/IV</name>
+            <name>I.viio64</name>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
