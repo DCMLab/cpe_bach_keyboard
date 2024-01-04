@@ -3170,6 +3170,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7/V{</name>
+            <offset x="0.1" y="3.6"/>
             </Harmony>
           <Chord>
             <dots>1</dots>
