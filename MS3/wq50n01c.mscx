@@ -12718,6 +12718,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i|IAC</name>
+            <offset x="0" y="3.6"/>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
