@@ -9344,7 +9344,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2{</name>
+            <name>V2</name>
             </Harmony>
           </voice>
         </Measure>
@@ -9352,7 +9352,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I{</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
