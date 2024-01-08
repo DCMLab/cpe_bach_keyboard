@@ -18,7 +18,7 @@ Please note that the `meta_ corpora` branch should be used with collections of c
 |wq117n13 |       8|     0|        |             |            |
 |wq117n14 |      18|     0|        |             |            |
 |wq119n07 |     125|     0|        |             |            |
-|wq50n01a |      48|     0|        |             |            |
+|wq50n01a |      48|   216|2.3.0   |Davor Krkljus|Victor Zheng|
 |wq50n01b |      25|    42|2.3.0   |Davor Krkljus|Victor Zheng|
 |wq50n01c |     166|     0|        |             |            |
 |wq50n02a |     192|   340|2.3.0   |Davor Krkljus|ST          |
