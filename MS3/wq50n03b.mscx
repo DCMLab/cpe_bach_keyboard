@@ -1564,9 +1564,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Chord>
             <durationType>eighth</durationType>
@@ -2122,9 +2119,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -2773,9 +2767,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>page</subtype>
-          </LayoutBreak>
         <voice>
           <Dynamic>
             <subtype>f</subtype>
@@ -5766,7 +5757,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio6</name>
+            <name>viio6-V43</name>
             </Harmony>
           <Rest>
             <visible>0</visible>
