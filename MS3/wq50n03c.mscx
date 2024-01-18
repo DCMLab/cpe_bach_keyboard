@@ -9839,13 +9839,6 @@
               <tpc>23</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>viio7/V</name>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
