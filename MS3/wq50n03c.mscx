@@ -11495,6 +11495,10 @@
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
+            <Fragment>
+              <y1>-2</y1>
+              <y2>-2</y2>
+              </Fragment>
             </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
