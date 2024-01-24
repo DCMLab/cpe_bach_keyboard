@@ -20148,7 +20148,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(64)</name>
+            <name>V(64)}</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -20171,7 +20171,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V|HC}</name>
+            <name>V|HC</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -20526,7 +20526,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(4)</name>
+            <name>V(4)}</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -20549,7 +20549,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V|HC}</name>
+            <name>V|HC</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
