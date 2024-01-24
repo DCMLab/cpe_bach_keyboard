@@ -20360,7 +20360,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I6(7)</name>
+            <name>I6(7)}</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -20391,7 +20391,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I6}</name>
+            <name>I6</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -22628,14 +22628,14 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I6(7)</name>
+            <name>I6(7)}</name>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I6}</name>
+            <name>I6</name>
             </Harmony>
           </voice>
         </Measure>
