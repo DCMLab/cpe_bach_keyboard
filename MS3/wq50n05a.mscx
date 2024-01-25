@@ -28437,6 +28437,10 @@
               </Note>
             </Chord>
           <endTuplet/>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>v64</name>
+            </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
@@ -28575,6 +28579,10 @@
               </Note>
             </Chord>
           <endTuplet/>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv64</name>
+            </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
