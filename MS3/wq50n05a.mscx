@@ -30028,7 +30028,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6(7)</name>
+            <name>V6(7)}</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -30054,7 +30054,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6}</name>
+            <name>V6</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
