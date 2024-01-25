@@ -28893,7 +28893,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI(^2)</name>
+            <name>VI(^2)}</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -28909,7 +28909,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI}</name>
+            <name>VI</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
