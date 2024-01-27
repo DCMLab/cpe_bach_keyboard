@@ -6039,7 +6039,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(64)</name>
+            <name>V(64)}</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -6058,7 +6058,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V|HC}</name>
+            <name>V|HC</name>
             </Harmony>
           <location>
             <fractions>1/16</fractions>
