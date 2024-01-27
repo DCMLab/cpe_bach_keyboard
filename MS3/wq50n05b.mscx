@@ -144,7 +144,7 @@
             <tempo>0.90000000000000002</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b></b><font face="ScoreText"/> <b><font face="Edwin"/> = 36</b></text>
+            <text><b></b><font face="ScoreText"></font> <b><font face="Edwin"></font> = 36</b></text>
             </Tempo>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -5343,7 +5343,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii6</name>
+            <name>IV-ii6</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -6630,13 +6630,13 @@
         </Measure>
       <Measure>
         <voice>
-          <Fermata>
-            <subtype>fermataAbove</subtype>
-            </Fermata>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>VI(#2)</name>
             </Harmony>
+          <Fermata>
+            <subtype>fermataAbove</subtype>
+            </Fermata>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -6658,13 +6658,13 @@
               <tpc>20</tpc>
               </Note>
             </Chord>
-          <Fermata>
-            <subtype>fermataAbove</subtype>
-            </Fermata>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>VI|DC}</name>
             </Harmony>
+          <Fermata>
+            <subtype>fermataAbove</subtype>
+            </Fermata>
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
