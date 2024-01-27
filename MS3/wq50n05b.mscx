@@ -6643,7 +6643,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI(#2)</name>
+            <name>VI(#2)}</name>
             </Harmony>
           <Fermata>
             <subtype>fermataAbove</subtype>
@@ -6671,7 +6671,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI|DC}</name>
+            <name>VI|DC</name>
             </Harmony>
           <Fermata>
             <subtype>fermataAbove</subtype>
