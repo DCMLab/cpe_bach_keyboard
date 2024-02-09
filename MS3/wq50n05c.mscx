@@ -18785,14 +18785,14 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i(42)</name>
+            <name>i(42)}</name>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i</name>
+            <name>i|IAC</name>
             </Harmony>
           <Rest>
             <dots>1</dots>
@@ -18803,6 +18803,10 @@
             <velocity>96</velocity>
             <placement>above</placement>
             </Dynamic>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
