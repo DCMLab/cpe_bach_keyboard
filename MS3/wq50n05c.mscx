@@ -11219,10 +11219,6 @@
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o2 x="-0.102261" y="-0.204523"/>
-                  <offset x="-0.102261" y="-2.14749"/>
-                  </SlurSegment>
                 <up>up</up>
                 </Slur>
               <next>
@@ -11378,9 +11374,6 @@
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <offset x="-0.306784" y="-2.04523"/>
-                  </SlurSegment>
                 <up>up</up>
                 </Slur>
               <next>
@@ -21369,7 +21362,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(64)</name>
+            <name>V(64)}</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -21392,7 +21385,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V|HC}</name>
+            <name>V|HC</name>
             </Harmony>
           </voice>
         </Measure>
