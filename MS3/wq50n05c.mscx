@@ -18658,14 +18658,14 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I(42)</name>
+            <name>I(42)}</name>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I|IAC</name>
             </Harmony>
           <Rest>
             <dots>1</dots>
@@ -18675,6 +18675,10 @@
             <subtype>f</subtype>
             <velocity>96</velocity>
             </Dynamic>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -18713,10 +18717,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>}</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -18733,7 +18733,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi.i{</name>
+            <name>vi.i</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
