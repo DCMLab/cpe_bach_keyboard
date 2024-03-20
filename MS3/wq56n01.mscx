@@ -2220,9 +2220,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Dynamic>
             <subtype>f</subtype>
@@ -2726,9 +2723,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -3651,9 +3645,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Rest>
             <durationType>eighth</durationType>
@@ -4091,9 +4082,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>page</subtype>
-          </LayoutBreak>
         <voice>
           <Rest>
             <durationType>measure</durationType>
@@ -4382,9 +4370,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Chord>
             <durationType>quarter</durationType>
@@ -4682,9 +4667,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -5107,9 +5089,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -5529,9 +5508,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -23642,7 +23618,6 @@
             <name>I.viio6/IV{</name>
             </Harmony>
           <Rest>
-            <offset x="0" y="-1"/>
             <durationType>quarter</durationType>
             </Rest>
           <Chord>
@@ -23662,7 +23637,6 @@
             <name>IV6(2)</name>
             </Harmony>
           <Rest>
-            <offset x="0" y="-1"/>
             <durationType>eighth</durationType>
             </Rest>
           <Chord>
@@ -23714,7 +23688,6 @@
             <name>viio6/V</name>
             </Harmony>
           <Rest>
-            <offset x="0" y="-1"/>
             <durationType>quarter</durationType>
             </Rest>
           <Chord>
@@ -23727,7 +23700,6 @@
               </Note>
             </Chord>
           <Rest>
-            <offset x="0" y="-1"/>
             <dots>1</dots>
             <durationType>quarter</durationType>
             </Rest>
@@ -23807,6 +23779,7 @@
           </voice>
         <voice>
           <Rest>
+            <offset x="0" y="-2"/>
             <durationType>quarter</durationType>
             </Rest>
           <Chord>
@@ -23819,6 +23792,7 @@
               </Note>
             </Chord>
           <Rest>
+            <offset x="0" y="-2"/>
             <dots>1</dots>
             <durationType>quarter</durationType>
             </Rest>
@@ -25804,7 +25778,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I64</name>
+            <name>V(64)</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
