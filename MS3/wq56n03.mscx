@@ -31,6 +31,7 @@
     <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/106186</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
+    <metaTag name="reviewers">AB</metaTag>
     <metaTag name="score_integrity">Amelia Brey</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
@@ -156,7 +157,7 @@
             <tempo>1.5833333333333333</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 95</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 95</b></text>
             </Tempo>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -615,9 +616,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Chord>
             <durationType>quarter</durationType>
@@ -1127,9 +1125,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -1513,9 +1508,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Dynamic>
             <subtype>p</subtype>
@@ -1958,9 +1950,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -2399,9 +2388,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Chord>
             <durationType>quarter</durationType>
@@ -2735,9 +2721,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Chord>
             <durationType>quarter</durationType>
@@ -20045,7 +20028,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv6/IV</name>
+            <name>I.iv6</name>
             </Harmony>
           <Rest>
             <visible>0</visible>
@@ -20057,7 +20040,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio6/IV</name>
+            <name>viio6</name>
             </Harmony>
           </voice>
         </Measure>
@@ -20065,7 +20048,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio/IV</name>
+            <name>viio</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -20087,7 +20070,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I/IV|IAC}</name>
+            <name>I|IAC}</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -20107,7 +20090,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I.I6{</name>
+            <name>I6{</name>
             </Harmony>
           <Rest>
             <visible>0</visible>
@@ -22451,13 +22434,13 @@
         </Measure>
       <Measure>
         <voice>
-          <Fermata>
-            <subtype>fermataAbove</subtype>
-            </Fermata>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V6(2)/i</name>
             </Harmony>
+          <Fermata>
+            <subtype>fermataAbove</subtype>
+            </Fermata>
           <Chord>
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
@@ -24736,24 +24719,24 @@
           <Rest>
             <durationType>half</durationType>
             </Rest>
-          <Fermata>
-            <subtype>fermataAbove</subtype>
-            </Fermata>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>viio6(2)/VI</name>
             </Harmony>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
           <Fermata>
             <subtype>fermataAbove</subtype>
             </Fermata>
+          <Rest>
+            <durationType>quarter</durationType>
+            </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>viio6/VI}</name>
             <offset x="0" y="3.6"/>
             </Harmony>
+          <Fermata>
+            <subtype>fermataAbove</subtype>
+            </Fermata>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
