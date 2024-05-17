@@ -12924,9 +12924,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Chord>
             <durationType>quarter</durationType>
@@ -13192,9 +13189,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Chord>
             <staffMove>1</staffMove>
@@ -13268,7 +13262,6 @@
           </voice>
         </Measure>
       <Measure>
-        <vspacerDown>7.88241</vspacerDown>
         <voice>
           <Chord>
             <durationType>quarter</durationType>
@@ -13577,9 +13570,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -13718,7 +13708,6 @@
           </voice>
         </Measure>
       <Measure>
-        <vspacerDown>9.98201</vspacerDown>
         <voice>
           <Dynamic>
             <subtype>p</subtype>
@@ -13979,9 +13968,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -14082,7 +14068,6 @@
           </voice>
         </Measure>
       <Measure>
-        <vspacerDown>8.65595</vspacerDown>
         <voice>
           <Rest>
             <visible>0</visible>
@@ -14471,9 +14456,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Rest>
             <visible>0</visible>
@@ -15342,9 +15324,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -25860,7 +25839,6 @@
           </voice>
         </Measure>
       <Measure>
-        <vspacerFixed>15</vspacerFixed>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -26076,7 +26054,6 @@
           </voice>
         </Measure>
       <Measure>
-        <vspacerDown>17.0543</vspacerDown>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -26521,7 +26498,6 @@
           </voice>
         </Measure>
       <Measure>
-        <vspacerFixed>11.4638</vspacerFixed>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -26713,7 +26689,6 @@
           </voice>
         </Measure>
       <Measure>
-        <vspacerFixed>11.2428</vspacerFixed>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -26816,7 +26791,6 @@
           </voice>
         </Measure>
       <Measure>
-        <vspacerFixed>13.8583</vspacerFixed>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -26892,10 +26866,10 @@
             </Harmony>
           <Rest>
             <visible>0</visible>
-            <durationType>quarter</durationType>
+            <durationType>half</durationType>
             </Rest>
           <location>
-            <fractions>-1/8</fractions>
+            <fractions>-3/8</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -26908,16 +26882,13 @@
             <harmonyType>1</harmonyType>
             <name>i/ii</name>
             </Harmony>
-          <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
+          <location>
+            <fractions>1/8</fractions>
+            </location>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>iv6/iii</name>
             </Harmony>
-          <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
           </voice>
         </Measure>
       <Measure>
