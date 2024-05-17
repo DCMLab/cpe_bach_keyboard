@@ -8452,9 +8452,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Dynamic>
             <subtype>p</subtype>
@@ -8980,9 +8977,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Rest>
             <durationType>16th</durationType>
@@ -9487,9 +9481,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>page</subtype>
-          </LayoutBreak>
         <voice>
           <Rest>
             <durationType>quarter</durationType>
@@ -9694,9 +9685,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Rest>
             <visible>0</visible>
@@ -9946,9 +9934,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -10352,9 +10337,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -10609,9 +10591,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Dynamic>
             <subtype>f</subtype>
@@ -10982,9 +10961,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>page</subtype>
-          </LayoutBreak>
         <voice>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -11340,9 +11316,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -11662,9 +11635,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -12284,9 +12254,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -12504,9 +12471,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Rest>
             <visible>0</visible>
@@ -12516,7 +12480,6 @@
           </voice>
         </Measure>
       <Measure>
-        <vspacerDown>8.76598</vspacerDown>
         <voice>
           <Dynamic>
             <subtype>f</subtype>
@@ -12791,9 +12754,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>page</subtype>
-          </LayoutBreak>
         <voice>
           <Dynamic>
             <subtype>f</subtype>
@@ -12861,7 +12821,6 @@
           </voice>
         </Measure>
       <Measure>
-        <vspacerDown>8.62963</vspacerDown>
         <voice>
           <Dynamic>
             <subtype>p</subtype>
@@ -24992,7 +24951,6 @@
           </voice>
         </Measure>
       <Measure>
-        <vspacerFixed>19.1513</vspacerFixed>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -25583,7 +25541,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v6{</name>
+            <name>iv6/ii-v6{</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
