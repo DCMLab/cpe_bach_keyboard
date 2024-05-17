@@ -8087,7 +8087,6 @@
           </voice>
         </Measure>
       <Measure>
-        <vspacerDown>11.0871</vspacerDown>
         <voice>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -8391,9 +8390,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -8646,7 +8642,6 @@
           </voice>
         </Measure>
       <Measure>
-        <vspacerDown>9.98201</vspacerDown>
         <voice>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -8773,9 +8768,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -9284,9 +9276,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -10209,9 +10198,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>page</subtype>
-          </LayoutBreak>
         <voice>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -10724,9 +10710,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -10792,7 +10775,6 @@
           </voice>
         </Measure>
       <Measure>
-        <vspacerDown>9.761</vspacerDown>
         <voice>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -11129,9 +11111,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -11511,9 +11490,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -11619,7 +11595,6 @@
           </voice>
         </Measure>
       <Measure>
-        <vspacerDown>9.761</vspacerDown>
         <voice>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -11934,9 +11909,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Dynamic>
             <subtype>f</subtype>
@@ -12006,7 +11978,6 @@
           </voice>
         </Measure>
       <Measure>
-        <vspacerDown>8.65595</vspacerDown>
         <voice>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -12371,9 +12342,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>page</subtype>
-          </LayoutBreak>
         <voice>
           <Dynamic>
             <subtype>p</subtype>
@@ -25481,7 +25449,6 @@
           </voice>
         </Measure>
       <Measure>
-        <vspacerFixed>13.895</vspacerFixed>
         <voice>
           <Rest>
             <visible>0</visible>
@@ -25612,14 +25579,14 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV/V</name>
+            <name>IV/v</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio6/V</name>
+            <name>viio6/v</name>
             </Harmony>
           </voice>
         </Measure>
@@ -25678,7 +25645,6 @@
           </voice>
         </Measure>
       <Measure>
-        <vspacerFixed>19.8622</vspacerFixed>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
