@@ -13331,9 +13331,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Dynamic>
             <subtype>p</subtype>
@@ -13450,9 +13447,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Dynamic>
             <subtype>f</subtype>
@@ -13764,9 +13758,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Tuplet>
             <normalNotes>4</normalNotes>
@@ -14074,9 +14065,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>page</subtype>
-          </LayoutBreak>
         <voice>
           <Tuplet>
             <normalNotes>4</normalNotes>
@@ -14742,9 +14730,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Dynamic>
             <subtype>f</subtype>
@@ -15204,9 +15189,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Dynamic>
             <subtype>p</subtype>
@@ -26242,7 +26224,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i6</name>
+            <name>i6-III</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
