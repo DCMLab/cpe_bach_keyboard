@@ -17247,9 +17247,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>page</subtype>
-          </LayoutBreak>
         <voice>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -17783,9 +17780,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -18293,9 +18287,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -18719,9 +18710,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Dynamic>
             <subtype>f</subtype>
@@ -19106,9 +19094,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -19290,9 +19275,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Dynamic>
             <subtype>f</subtype>
@@ -19393,7 +19375,6 @@
           </voice>
         </Measure>
       <Measure>
-        <vspacerDown>9.31898</vspacerDown>
         <voice>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -26892,7 +26873,6 @@
           </voice>
         </Measure>
       <Measure>
-        <vspacerFixed>12.3479</vspacerFixed>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -27047,7 +27027,6 @@
           </voice>
         </Measure>
       <Measure>
-        <vspacerFixed>13.8216</vspacerFixed>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -27383,7 +27362,6 @@
           </voice>
         </Measure>
       <Measure>
-        <vspacerFixed>11.2428</vspacerFixed>
         <voice>
           <Dynamic>
             <subtype>mf</subtype>
@@ -27563,7 +27541,6 @@
           </voice>
         </Measure>
       <Measure>
-        <vspacerFixed>9.47476</vspacerFixed>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -27741,7 +27718,6 @@
           </voice>
         </Measure>
       <Measure>
-        <vspacerFixed>11.0218</vspacerFixed>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
