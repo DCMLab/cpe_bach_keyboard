@@ -9151,7 +9151,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V}</name>
+            <name>V|HC</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -9225,7 +9225,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>|HC</name>
+            <name>}</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
