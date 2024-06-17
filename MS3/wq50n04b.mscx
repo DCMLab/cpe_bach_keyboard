@@ -13,6 +13,7 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>1</showMargins>
+    <metaTag name="annotators">Victor Zheng</metaTag>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1759</metaTag>
     <metaTag name="composed_source">Packard Humanities Institute (cpebach.org)</metaTag>
@@ -2120,6 +2121,9 @@
           </voice>
         </Measure>
       <Measure>
+        <MeasureNumber>
+          <text>13</text>
+          </MeasureNumber>
         <LayoutBreak>
           <subtype>line</subtype>
           </LayoutBreak>
