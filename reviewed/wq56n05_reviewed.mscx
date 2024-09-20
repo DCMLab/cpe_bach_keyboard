@@ -31,6 +31,7 @@
     <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/106187</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
+    <metaTag name="reviewers">AB</metaTag>
     <metaTag name="score_integrity">Amelia Brey</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
@@ -564,9 +565,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Dynamic>
             <subtype>pp</subtype>
@@ -1086,9 +1084,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -1564,9 +1559,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Dynamic>
             <subtype>f</subtype>
@@ -2128,9 +2120,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Dynamic>
             <subtype>p</subtype>
@@ -2679,9 +2668,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>page</subtype>
-          </LayoutBreak>
         <voice>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -3141,9 +3127,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Chord>
             <durationType>quarter</durationType>
@@ -3518,9 +3501,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Dynamic>
             <subtype>p</subtype>
@@ -4075,9 +4055,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Dynamic>
             <subtype>p</subtype>
@@ -4615,9 +4592,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Dynamic>
             <subtype>pp</subtype>
@@ -5037,9 +5011,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>page</subtype>
-          </LayoutBreak>
         <voice>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -5322,9 +5293,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -6177,9 +6145,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -6996,9 +6961,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Rest>
             <visible>0</visible>
@@ -7204,7 +7166,6 @@
               <tpc>15</tpc>
               </Note>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <subtype>accidentalFlat</subtype>
                 </Accidental>
@@ -7233,7 +7194,6 @@
               <tpc>15</tpc>
               </Note>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>70</pitch>
               <tpc>12</tpc>
               </Note>
@@ -7268,7 +7228,6 @@
               <tpc>15</tpc>
               </Note>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>70</pitch>
               <tpc>12</tpc>
               </Note>
@@ -7276,9 +7235,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>page</subtype>
-          </LayoutBreak>
         <voice>
           <Dynamic>
             <subtype>ff</subtype>
@@ -7462,9 +7418,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Tuplet>
             <normalNotes>4</normalNotes>
@@ -7772,9 +7725,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Tuplet>
             <normalNotes>4</normalNotes>
@@ -8573,9 +8523,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Dynamic>
             <subtype>p</subtype>
@@ -9105,9 +9052,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Rest>
             <durationType>16th</durationType>
@@ -9620,9 +9564,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>page</subtype>
-          </LayoutBreak>
         <voice>
           <Rest>
             <durationType>quarter</durationType>
@@ -9833,9 +9774,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Rest>
             <visible>0</visible>
@@ -10090,9 +10028,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -10497,9 +10432,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -10760,9 +10692,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Dynamic>
             <subtype>f</subtype>
@@ -11133,9 +11062,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>page</subtype>
-          </LayoutBreak>
         <voice>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -11491,9 +11417,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -11813,9 +11736,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -12435,9 +12355,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -12655,9 +12572,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Rest>
             <visible>0</visible>
@@ -12667,7 +12581,6 @@
           </voice>
         </Measure>
       <Measure>
-        <vspacerDown>8.76598</vspacerDown>
         <voice>
           <Dynamic>
             <subtype>f</subtype>
@@ -12942,9 +12855,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>page</subtype>
-          </LayoutBreak>
         <voice>
           <Dynamic>
             <subtype>f</subtype>
@@ -13012,7 +12922,6 @@
           </voice>
         </Measure>
       <Measure>
-        <vspacerDown>8.62963</vspacerDown>
         <voice>
           <Dynamic>
             <subtype>p</subtype>
@@ -13147,9 +13056,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Rest>
             <durationType>16th</durationType>
@@ -13195,7 +13101,6 @@
           </voice>
         </Measure>
       <Measure>
-        <vspacerDown>8.62963</vspacerDown>
         <voice>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -13216,6 +13121,7 @@
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <role>1</role>
                 <subtype>accidentalNatural</subtype>
@@ -13224,6 +13130,7 @@
               <tpc>19</tpc>
               </Note>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <role>1</role>
                 <subtype>accidentalNatural</subtype>
@@ -13236,10 +13143,12 @@
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>60</pitch>
               <tpc>14</tpc>
               </Note>
             <Note>
+              <color r="255" g="0" b="0" a="255"/>
               <pitch>72</pitch>
               <tpc>14</tpc>
               </Note>
@@ -13533,9 +13442,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Dynamic>
             <subtype>p</subtype>
@@ -13656,9 +13562,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Dynamic>
             <subtype>f</subtype>
@@ -13970,9 +13873,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Tuplet>
             <normalNotes>4</normalNotes>
@@ -14280,9 +14180,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>page</subtype>
-          </LayoutBreak>
         <voice>
           <Tuplet>
             <normalNotes>4</normalNotes>
@@ -14948,9 +14845,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Dynamic>
             <subtype>f</subtype>
@@ -15413,9 +15307,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Dynamic>
             <subtype>p</subtype>
@@ -15780,9 +15671,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Dynamic>
             <subtype>p</subtype>
@@ -16171,9 +16059,6 @@
         </Measure>
       <Measure>
         <stretch>0.9</stretch>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Dynamic>
             <subtype>f</subtype>
@@ -16569,9 +16454,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>page</subtype>
-          </LayoutBreak>
         <voice>
           <Dynamic>
             <subtype>ff</subtype>
@@ -16836,9 +16718,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Dynamic>
             <subtype>f</subtype>
@@ -17174,9 +17053,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Dynamic>
             <subtype>p</subtype>
@@ -17622,9 +17498,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Tuplet>
             <normalNotes>4</normalNotes>
@@ -17999,9 +17872,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>page</subtype>
-          </LayoutBreak>
         <voice>
           <Tuplet>
             <normalNotes>4</normalNotes>
@@ -18372,33 +18242,317 @@
           <endTuplet/>
           </voice>
         </Measure>
-      <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
+      <Measure len="36/32">
         <voice>
-          <Rest>
-            <visible>0</visible>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Rest>
-            <visible>0</visible>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Rest>
-            <visible>0</visible>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Rest>
-            <visible>0</visible>
-            <durationType>eighth</durationType>
-            </Rest>
+          <Beam>
+            <StemDirection>down</StemDirection>
+            </Beam>
+          <Chord>
+            <staffMove>1</staffMove>
+            <durationType>32nd</durationType>
+            <Note>
+              <Accidental>
+                <subtype>accidentalSharp</subtype>
+                </Accidental>
+              <pitch>51</pitch>
+              <tpc>23</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <staffMove>1</staffMove>
+            <durationType>32nd</durationType>
+            <Note>
+              <Accidental>
+                <subtype>accidentalSharp</subtype>
+                </Accidental>
+              <pitch>54</pitch>
+              <tpc>20</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <staffMove>1</staffMove>
+            <durationType>32nd</durationType>
+            <Note>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <staffMove>1</staffMove>
+            <durationType>32nd</durationType>
+            <Note>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <BeamMode>begin</BeamMode>
+            <durationType>32nd</durationType>
+            <Note>
+              <Accidental>
+                <subtype>accidentalSharp</subtype>
+                </Accidental>
+              <pitch>63</pitch>
+              <tpc>23</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>32nd</durationType>
+            <Note>
+              <Accidental>
+                <subtype>accidentalSharp</subtype>
+                </Accidental>
+              <pitch>66</pitch>
+              <tpc>20</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>32nd</durationType>
+            <Note>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>32nd</durationType>
+            <Note>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <BeamMode>mid</BeamMode>
+            <durationType>32nd</durationType>
+            <Note>
+              <pitch>66</pitch>
+              <tpc>20</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>32nd</durationType>
+            <Note>
+              <pitch>63</pitch>
+              <tpc>23</tpc>
+              </Note>
+            </Chord>
+          <Beam>
+            <StemDirection>down</StemDirection>
+            </Beam>
+          <Chord>
+            <BeamMode>begin</BeamMode>
+            <staffMove>1</staffMove>
+            <durationType>32nd</durationType>
+            <Note>
+              <pitch>51</pitch>
+              <tpc>23</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <staffMove>1</staffMove>
+            <durationType>32nd</durationType>
+            <Note>
+              <pitch>54</pitch>
+              <tpc>20</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <BeamMode>mid</BeamMode>
+            <staffMove>1</staffMove>
+            <durationType>32nd</durationType>
+            <Note>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <staffMove>1</staffMove>
+            <durationType>32nd</durationType>
+            <Note>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <BeamMode>begin</BeamMode>
+            <durationType>32nd</durationType>
+            <Note>
+              <pitch>63</pitch>
+              <tpc>23</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>32nd</durationType>
+            <Note>
+              <pitch>66</pitch>
+              <tpc>20</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>32nd</durationType>
+            <Note>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>32nd</durationType>
+            <Note>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <BeamMode>mid</BeamMode>
+            <durationType>32nd</durationType>
+            <Note>
+              <pitch>66</pitch>
+              <tpc>20</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>32nd</durationType>
+            <Note>
+              <pitch>63</pitch>
+              <tpc>23</tpc>
+              </Note>
+            </Chord>
+          <Beam>
+            <StemDirection>down</StemDirection>
+            </Beam>
+          <Chord>
+            <BeamMode>begin</BeamMode>
+            <staffMove>1</staffMove>
+            <durationType>32nd</durationType>
+            <Note>
+              <pitch>52</pitch>
+              <tpc>18</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <staffMove>1</staffMove>
+            <durationType>32nd</durationType>
+            <Note>
+              <Accidental>
+                <subtype>accidentalSharp</subtype>
+                </Accidental>
+              <pitch>56</pitch>
+              <tpc>22</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <staffMove>1</staffMove>
+            <durationType>32nd</durationType>
+            <Note>
+              <pitch>59</pitch>
+              <tpc>19</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <BeamMode>begin</BeamMode>
+            <durationType>32nd</durationType>
+            <Note>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>32nd</durationType>
+            <Note>
+              <Accidental>
+                <subtype>accidentalSharp</subtype>
+                </Accidental>
+              <pitch>68</pitch>
+              <tpc>22</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>32nd</durationType>
+            <Note>
+              <pitch>71</pitch>
+              <tpc>19</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>32nd</durationType>
+            <Note>
+              <pitch>68</pitch>
+              <tpc>22</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>32nd</durationType>
+            <Note>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              </Note>
+            </Chord>
+          <Beam>
+            <StemDirection>down</StemDirection>
+            </Beam>
+          <Chord>
+            <BeamMode>begin</BeamMode>
+            <staffMove>1</staffMove>
+            <durationType>32nd</durationType>
+            <Note>
+              <pitch>52</pitch>
+              <tpc>18</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <staffMove>1</staffMove>
+            <durationType>32nd</durationType>
+            <Note>
+              <pitch>56</pitch>
+              <tpc>22</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <staffMove>1</staffMove>
+            <durationType>32nd</durationType>
+            <Note>
+              <pitch>59</pitch>
+              <tpc>19</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <BeamMode>begin</BeamMode>
+            <durationType>32nd</durationType>
+            <Note>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>32nd</durationType>
+            <Note>
+              <pitch>68</pitch>
+              <tpc>22</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>32nd</durationType>
+            <Note>
+              <pitch>71</pitch>
+              <tpc>19</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>32nd</durationType>
+            <Note>
+              <pitch>68</pitch>
+              <tpc>22</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>32nd</durationType>
+            <Note>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              </Note>
+            </Chord>
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Tuplet>
             <normalNotes>4</normalNotes>
@@ -18767,9 +18921,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Tuplet>
             <normalNotes>4</normalNotes>
@@ -19147,9 +19298,8 @@
             <staffMove>1</staffMove>
             <durationType>32nd</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
-              <pitch>43</pitch>
-              <tpc>15</tpc>
+              <pitch>45</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -19239,9 +19389,8 @@
             <staffMove>1</staffMove>
             <durationType>32nd</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
-              <pitch>35</pitch>
-              <tpc>19</tpc>
+              <pitch>38</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -19322,9 +19471,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Rest>
             <durationType>eighth</durationType>
@@ -20682,7 +20828,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>IV6</name>
-            <color r="0" g="85" b="0" a="255"/>
             <offset x="0" y="3.4"/>
             </Harmony>
           <Chord>
@@ -21591,6 +21736,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>VII</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>v6(2)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -22773,13 +22924,13 @@
         </Measure>
       <Measure>
         <voice>
-          <Fermata>
-            <subtype>fermataAbove</subtype>
-            </Fermata>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>#viio7</name>
             </Harmony>
+          <Fermata>
+            <subtype>fermataAbove</subtype>
+            </Fermata>
           <Chord>
             <durationType>half</durationType>
             <StemDirection>up</StemDirection>
@@ -22798,6 +22949,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V/III</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V7/III</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -22974,6 +23131,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i6</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i6-III</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -24911,7 +25074,6 @@
           </voice>
         </Measure>
       <Measure>
-        <vspacerFixed>19.1513</vspacerFixed>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -25507,6 +25669,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>v6{</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv6/ii-v6{</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -25730,10 +25898,16 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>viio6/III</name>
+            <color r="170" g="0" b="0" a="255"/>
             </Harmony>
           <location>
             <fractions>1/16</fractions>
             </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>viio6/III</name>
+            <color r="0" g="85" b="0" a="255"/>
+            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -25748,10 +25922,16 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>III6</name>
+            <color r="170" g="0" b="0" a="255"/>
             </Harmony>
           <location>
             <fractions>1/16</fractions>
             </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>III6</name>
+            <color r="0" g="85" b="0" a="255"/>
+            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -26224,6 +26404,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i6</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i6-III</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -26356,13 +26542,13 @@
         </Measure>
       <Measure>
         <voice>
-          <Fermata>
-            <subtype>fermataAbove</subtype>
-            </Fermata>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>#viio7</name>
             </Harmony>
+          <Fermata>
+            <subtype>fermataAbove</subtype>
+            </Fermata>
           <Chord>
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
@@ -26398,13 +26584,13 @@
         </Measure>
       <Measure>
         <voice>
-          <Fermata>
-            <subtype>fermataAbove</subtype>
-            </Fermata>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V(64)/ii</name>
             </Harmony>
+          <Fermata>
+            <subtype>fermataAbove</subtype>
+            </Fermata>
           <Chord>
             <durationType>half</durationType>
             <StemDirection>up</StemDirection>
@@ -26482,13 +26668,13 @@
         </Measure>
       <Measure>
         <voice>
-          <Fermata>
-            <subtype>fermataAbove</subtype>
-            </Fermata>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V2</name>
             </Harmony>
+          <Fermata>
+            <subtype>fermataAbove</subtype>
+            </Fermata>
           <Chord>
             <durationType>half</durationType>
             <StemDirection>up</StemDirection>
@@ -26532,13 +26718,13 @@
         </Measure>
       <Measure>
         <voice>
-          <Fermata>
-            <subtype>fermataAbove</subtype>
-            </Fermata>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V(64)/vi</name>
             </Harmony>
+          <Fermata>
+            <subtype>fermataAbove</subtype>
+            </Fermata>
           <Chord>
             <durationType>half</durationType>
             <StemDirection>up</StemDirection>
@@ -26571,13 +26757,13 @@
         </Measure>
       <Measure>
         <voice>
-          <Fermata>
-            <subtype>fermataAbove</subtype>
-            </Fermata>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7/bV</name>
             </Harmony>
+          <Fermata>
+            <subtype>fermataAbove</subtype>
+            </Fermata>
           <Chord>
             <durationType>half</durationType>
             <StemDirection>up</StemDirection>
@@ -27091,448 +27277,40 @@
             </Harmony>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="36/32">
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>viio7/V</name>
             </Harmony>
-          <Tuplet>
-            <normalNotes>4</normalNotes>
-            <actualNotes>11</actualNotes>
-            <baseNote>32nd</baseNote>
-            <numberType>2</numberType>
-            </Tuplet>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            </Beam>
-          <Chord>
-            <BeamMode>begin</BeamMode>
-            <durationType>32nd</durationType>
-            <Note>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
-              <pitch>51</pitch>
-              <tpc>23</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <BeamMode>mid</BeamMode>
-            <durationType>32nd</durationType>
-            <Note>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
-              <pitch>54</pitch>
-              <tpc>20</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <BeamMode>mid</BeamMode>
-            <durationType>32nd</durationType>
-            <Note>
-              <pitch>57</pitch>
-              <tpc>17</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <BeamMode>mid</BeamMode>
-            <durationType>32nd</durationType>
-            <Note>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
-          <Chord>
-            <BeamMode>begin</BeamMode>
-            <staffMove>-1</staffMove>
-            <durationType>32nd</durationType>
-            <Note>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
-              <pitch>63</pitch>
-              <tpc>23</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <BeamMode>mid</BeamMode>
-            <staffMove>-1</staffMove>
-            <durationType>32nd</durationType>
-            <Note>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
-              <pitch>66</pitch>
-              <tpc>20</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <BeamMode>mid</BeamMode>
-            <staffMove>-1</staffMove>
-            <durationType>32nd</durationType>
-            <Note>
-              <pitch>69</pitch>
-              <tpc>17</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <BeamMode>mid</BeamMode>
-            <staffMove>-1</staffMove>
-            <durationType>32nd</durationType>
-            <Note>
-              <pitch>72</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <BeamMode>mid</BeamMode>
-            <staffMove>-1</staffMove>
-            <durationType>32nd</durationType>
-            <Note>
-              <pitch>69</pitch>
-              <tpc>17</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <BeamMode>mid</BeamMode>
-            <staffMove>-1</staffMove>
-            <durationType>32nd</durationType>
-            <Note>
-              <pitch>66</pitch>
-              <tpc>20</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <BeamMode>mid</BeamMode>
-            <staffMove>-1</staffMove>
-            <durationType>32nd</durationType>
-            <Note>
-              <pitch>63</pitch>
-              <tpc>23</tpc>
-              </Note>
-            </Chord>
-          <endTuplet/>
-          <Tuplet>
-            <normalNotes>4</normalNotes>
-            <actualNotes>11</actualNotes>
-            <baseNote>32nd</baseNote>
-            <numberType>2</numberType>
-            </Tuplet>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            </Beam>
-          <Chord>
-            <BeamMode>begin</BeamMode>
-            <durationType>32nd</durationType>
-            <Note>
-              <pitch>51</pitch>
-              <tpc>23</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <BeamMode>mid</BeamMode>
-            <durationType>32nd</durationType>
-            <Note>
-              <pitch>54</pitch>
-              <tpc>20</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <BeamMode>mid</BeamMode>
-            <durationType>32nd</durationType>
-            <Note>
-              <pitch>57</pitch>
-              <tpc>17</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <BeamMode>mid</BeamMode>
-            <durationType>32nd</durationType>
-            <Note>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
-          <Chord>
-            <BeamMode>begin</BeamMode>
-            <staffMove>-1</staffMove>
-            <durationType>32nd</durationType>
-            <Note>
-              <pitch>63</pitch>
-              <tpc>23</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <BeamMode>mid</BeamMode>
-            <staffMove>-1</staffMove>
-            <durationType>32nd</durationType>
-            <Note>
-              <pitch>66</pitch>
-              <tpc>20</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <BeamMode>mid</BeamMode>
-            <staffMove>-1</staffMove>
-            <durationType>32nd</durationType>
-            <Note>
-              <pitch>69</pitch>
-              <tpc>17</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <BeamMode>mid</BeamMode>
-            <staffMove>-1</staffMove>
-            <durationType>32nd</durationType>
-            <Note>
-              <pitch>72</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <BeamMode>mid</BeamMode>
-            <staffMove>-1</staffMove>
-            <durationType>32nd</durationType>
-            <Note>
-              <pitch>69</pitch>
-              <tpc>17</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <BeamMode>mid</BeamMode>
-            <staffMove>-1</staffMove>
-            <durationType>32nd</durationType>
-            <Note>
-              <pitch>66</pitch>
-              <tpc>20</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <BeamMode>mid</BeamMode>
-            <staffMove>-1</staffMove>
-            <durationType>32nd</durationType>
-            <Note>
-              <pitch>63</pitch>
-              <tpc>23</tpc>
-              </Note>
-            </Chord>
-          <endTuplet/>
+          <Rest>
+            <visible>0</visible>
+            <durationType>half</durationType>
+            </Rest>
+          <location>
+            <fractions>-1/4</fractions>
+            </location>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V|HC}</name>
+            <color r="170" g="0" b="0" a="255"/>
             </Harmony>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            </Beam>
-          <Chord>
-            <BeamMode>begin</BeamMode>
-            <durationType>32nd</durationType>
-            <Note>
-              <pitch>52</pitch>
-              <tpc>18</tpc>
-              </Note>
-            </Chord>
           <location>
-            <fractions>-1/64</fractions>
-            </location>
-          <Chord>
-            <BeamMode>mid</BeamMode>
-            <durationType>32nd</durationType>
-            <Note>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
-              <pitch>56</pitch>
-              <tpc>22</tpc>
-              </Note>
-            </Chord>
-          <location>
-            <fractions>-1/64</fractions>
+            <fractions>1/4</fractions>
             </location>
           <Rest>
             <visible>0</visible>
-            <dots>2</dots>
             <durationType>eighth</durationType>
-            <NoteDot>
-              <visible>0</visible>
-              </NoteDot>
-            <NoteDot>
-              <visible>0</visible>
-              </NoteDot>
             </Rest>
-          <location>
-            <fractions>-13/64</fractions>
-            </location>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
-          <Chord>
-            <BeamMode>begin</BeamMode>
-            <staffMove>-1</staffMove>
-            <durationType>32nd</durationType>
-            <Note>
-              <pitch>64</pitch>
-              <tpc>18</tpc>
-              </Note>
-            </Chord>
-          <location>
-            <fractions>-1/64</fractions>
-            </location>
-          <Chord>
-            <BeamMode>mid</BeamMode>
-            <staffMove>-1</staffMove>
-            <durationType>32nd</durationType>
-            <Note>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
-              <pitch>68</pitch>
-              <tpc>22</tpc>
-              </Note>
-            </Chord>
-          <location>
-            <fractions>-1/64</fractions>
-            </location>
-          <Chord>
-            <BeamMode>mid</BeamMode>
-            <staffMove>-1</staffMove>
-            <durationType>32nd</durationType>
-            <Note>
-              <pitch>71</pitch>
-              <tpc>19</tpc>
-              </Note>
-            </Chord>
-          <location>
-            <fractions>-1/64</fractions>
-            </location>
-          <Chord>
-            <BeamMode>mid</BeamMode>
-            <staffMove>-1</staffMove>
-            <durationType>32nd</durationType>
-            <Note>
-              <pitch>68</pitch>
-              <tpc>22</tpc>
-              </Note>
-            </Chord>
-          <location>
-            <fractions>-1/64</fractions>
-            </location>
-          <Chord>
-            <BeamMode>mid</BeamMode>
-            <staffMove>-1</staffMove>
-            <durationType>32nd</durationType>
-            <Note>
-              <pitch>64</pitch>
-              <tpc>18</tpc>
-              </Note>
-            </Chord>
-          <location>
-            <fractions>-1/64</fractions>
-            </location>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            </Beam>
-          <Chord>
-            <BeamMode>begin</BeamMode>
-            <durationType>32nd</durationType>
-            <Note>
-              <pitch>52</pitch>
-              <tpc>18</tpc>
-              </Note>
-            </Chord>
-          <location>
-            <fractions>-1/64</fractions>
-            </location>
-          <Chord>
-            <BeamMode>mid</BeamMode>
-            <durationType>32nd</durationType>
-            <Note>
-              <pitch>56</pitch>
-              <tpc>22</tpc>
-              </Note>
-            </Chord>
-          <location>
-            <fractions>-1/64</fractions>
-            </location>
-          <Chord>
-            <BeamMode>mid</BeamMode>
-            <durationType>32nd</durationType>
-            <Note>
-              <pitch>59</pitch>
-              <tpc>19</tpc>
-              </Note>
-            </Chord>
-          <location>
-            <fractions>-1/64</fractions>
-            </location>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
-          <Chord>
-            <BeamMode>begin</BeamMode>
-            <staffMove>-1</staffMove>
-            <durationType>32nd</durationType>
-            <Note>
-              <pitch>64</pitch>
-              <tpc>18</tpc>
-              </Note>
-            </Chord>
-          <location>
-            <fractions>-1/64</fractions>
-            </location>
-          <Chord>
-            <BeamMode>mid</BeamMode>
-            <staffMove>-1</staffMove>
-            <durationType>32nd</durationType>
-            <Note>
-              <pitch>68</pitch>
-              <tpc>22</tpc>
-              </Note>
-            </Chord>
-          <location>
-            <fractions>-1/64</fractions>
-            </location>
-          <Chord>
-            <BeamMode>mid</BeamMode>
-            <staffMove>-1</staffMove>
-            <durationType>32nd</durationType>
-            <Note>
-              <pitch>71</pitch>
-              <tpc>19</tpc>
-              </Note>
-            </Chord>
-          <location>
-            <fractions>-1/64</fractions>
-            </location>
-          <Chord>
-            <BeamMode>mid</BeamMode>
-            <staffMove>-1</staffMove>
-            <durationType>32nd</durationType>
-            <Note>
-              <pitch>68</pitch>
-              <tpc>22</tpc>
-              </Note>
-            </Chord>
-          <location>
-            <fractions>-1/64</fractions>
-            </location>
-          <Chord>
-            <BeamMode>mid</BeamMode>
-            <staffMove>-1</staffMove>
-            <durationType>32nd</durationType>
-            <Note>
-              <pitch>64</pitch>
-              <tpc>18</tpc>
-              </Note>
-            </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V|HC}</name>
+            <color r="0" g="85" b="0" a="255"/>
+            </Harmony>
+          <Rest>
+            <visible>0</visible>
+            <durationType>half</durationType>
+            </Rest>
           </voice>
         </Measure>
       <Measure>
