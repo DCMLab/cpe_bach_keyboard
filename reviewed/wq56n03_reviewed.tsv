@@ -70,7 +70,7 @@ mc	mn	mc_onset	mn_onset	timesig	staff	voice	label	offset_x	offset_y	offset	alt_l
 24	23	5/8	5/8	3/4	2	1	V					D	V		V		V							M	0	0	4, 8, 5		4	4	0	2	0.0	0.0	0.125	0.0
 25	24	0	0	3/4	2	1	I|PAC}					D	V		I		I					PAC	}	M	0	0	3, 7, 4		3	3	1	8	0.1111111111111111	0.125	0.875	0.125
 26	25	0	0	3/4	2	1	iv6/v					D	V		iv6/v		iv		6		v			m	0	0	0, 4, 3		3	0	0	2	0.0	0.0	0.375	0.0
-26	25	1/4	1/4	3/4	2	1	#viio6/v					D	V		#viio6/v		#vii	o	6		v			o	0	0	6, 3, 9		9	6	0	5	0.0	0.0	0.75	0.0
+26	25	1/4	1/4	3/4	2	1	#viio6/v	0.1	3.5	/		D	V		#viio6/v		#vii	o	6		v			o	0	0	6, 3, 9		9	6	0	5	0.0	0.0	0.75	0.0
 27	26	0	0	3/4	2	1	#viio/v					D	V		#viio/v		#vii	o			v			o	0	0	9, 6, 3		9	9	0	3	0.0	0.0	0.625	0.0
 27	26	1/4	1/4	3/4	2	1	i/v					D	V		i/v		i				v			m	0	0	4, 1, 5		4	4	0	5	0.0	0.0	0.75	0.0
 28	27	0	0	3/4	2	1	I.iv6					D	I		iv6		iv		6					m	0	0	-2, 2, 1		1	-2	0	2	0.0	0.0	0.375	0.0
