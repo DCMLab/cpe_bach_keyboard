@@ -66,7 +66,7 @@ Please note that the `meta_ corpora` branch should be used with collections of c
 |wq57n02a |      41|     0|        |             |            |
 |wq57n02b |      32|     0|        |             |            |
 |wq57n02c |      58|     0|        |             |            |
-|wq57n03  |     141|     0|        |             |            |
+|wq57n03  |     141|   283|2.3.0   |             |            |
 |wq57n04a |      81|     0|        |             |            |
 |wq57n04b |      73|     0|        |             |            |
 |wq57n04c |      52|     0|        |             |            |
