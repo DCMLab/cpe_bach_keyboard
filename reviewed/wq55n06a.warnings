@@ -1,0 +1,36 @@
+Warnings encountered during the last execution of ms3 review
+============================================================
+
+DCML_PHRASE_INCONGRUENCY_WARNING (16,) ms3.Parse.cpe_bach_keyboard.wq55n06a --
+	Phrase beginning and endings don't match:
+	mn_playthrough phraseend mn_playthrough phraseend
+	            1a         {             7a         }
+	           11a        }{            11a        }{
+	           16a         {            16a         }
+	           20a         {            20a         }
+	           24a         {            24a         }
+	            1b         {            25a         }
+	           11b        }{             7b         }
+	           16b         {            11b        }{
+	           20b         {            16b         }
+	           24b         {            20b         }
+	           26a         {            24b         }
+	           37a         {            25b         }
+	           42a         {            32a         }
+	           45a         {            36a         }
+	           57a        }{            42a         }
+	           61a         {            44a         }
+	           64a         {            51a         }
+	           26b         {            57a        }{
+	           37b         {            60a         }
+	           42b         {            64a         }
+	           45b         {            66a         }
+	           57b        }{            32b         }
+	           61b         {            36b         }
+	           64b         {            42b         }
+	           NaN       NaN            44b         }
+	           NaN       NaN            51b         }
+	           NaN       NaN            57b        }{
+	           NaN       NaN            60b         }
+	           NaN       NaN            64b         }
+	           NaN       NaN            66b         }
