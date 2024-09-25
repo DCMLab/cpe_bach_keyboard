@@ -14020,7 +14020,8 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii.i{</name>
+            <name>vi.i{</name>
+            <offset x="-0.1" y="3.5"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -15310,7 +15311,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I.G{</name>
+            <name>I.I{</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -16970,7 +16971,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6}</name>
+            <name>V6]</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
