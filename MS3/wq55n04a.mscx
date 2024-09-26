@@ -16460,7 +16460,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v6</name>
+            <name>vii6</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -19906,7 +19906,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>}</name>
+            <name>I}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
