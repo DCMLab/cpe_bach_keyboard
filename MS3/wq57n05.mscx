@@ -25546,7 +25546,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio6/v</name>
+            <name>#viio6/v</name>
             </Harmony>
           </voice>
         </Measure>
