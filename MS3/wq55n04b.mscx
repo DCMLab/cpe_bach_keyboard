@@ -7079,7 +7079,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IVM64</name>
+            <name>IVM65</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -8350,7 +8350,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio6(64)/VI</name>
+            <name>ii7(4)/VI-viio6(62)/VI</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -8465,7 +8465,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio6(64)/iv</name>
+            <name>ii%7(4)/iv-#viio6(62)/iv</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -9068,7 +9068,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii</name>
+            <name>iio</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
