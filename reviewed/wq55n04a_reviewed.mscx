@@ -5269,7 +5269,6 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
                 </Accidental>
@@ -5280,7 +5279,6 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
                 </Accidental>
@@ -5291,7 +5289,6 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>82</pitch>
               <tpc>24</tpc>
               </Note>
@@ -5306,7 +5303,6 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>75</pitch>
               <tpc>23</tpc>
               </Note>
@@ -5314,7 +5310,6 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>87</pitch>
               <tpc>23</tpc>
               </Note>
@@ -16645,6 +16640,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>v6</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>vii6</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -20131,11 +20132,16 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>}</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I}</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>45</pitch>
               <tpc>17</tpc>
               </Note>
@@ -20143,7 +20149,6 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>57</pitch>
               <tpc>17</tpc>
               </Note>
@@ -20159,7 +20164,6 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>57</pitch>
               <tpc>17</tpc>
               </Note>
@@ -20167,7 +20171,6 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>57</pitch>
               <tpc>17</tpc>
               </Note>
