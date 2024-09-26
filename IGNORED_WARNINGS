@@ -6,3 +6,12 @@ INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 65) ms3.Parse.cpe_bach_keyboard.wq56
     The incomplete MC 65 (timesig 3/4, act_dur 1/4) is completed by 1 incorrect duration (expected: 1/2): {66: Fraction(3, 4)}
     That's OK because MC 65 is an anacrusis which still belongs to the cadenza-like MN 63, so it is not a split bar that 
     expecting completion.
+DCML_PHRASE_INCONGRUENCY_WARNING (16,) ms3.Parse.cpe_bach_keyboard.wq56n05 --
+	Phrase beginning and endings don't match
+	Looks to be a false positive: elision label in 169 not captured?
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 125, '1/8', 'viio6/III') ms3.Parse.cpe_bach_keyboard.wq56n05 --
+	The label 'viio6/III' in m. 125, onset 1/8 (MC 125, onset 1/8) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	Out-of-label RH C is an anticipation of the following III6.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 125, '1/4', 'III6') ms3.Parse.cpe_bach_keyboard.wq56n05 --
+	The label 'III6' in m. 125, onset 1/4 (MC 125, onset 1/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	Out-of-label C-sharp is a passing tone.
