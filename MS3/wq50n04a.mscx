@@ -17549,14 +17549,14 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio7(6^2)/iv</name>
+            <name>#viio7(6^2)/iv</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio7/iv</name>
+            <name>#viio7/iv</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -18463,7 +18463,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii6(^7^2)</name>
+            <name>ii6(^4^2)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -18627,7 +18627,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio7/iv</name>
+            <name>#viio7/ii</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -18649,7 +18649,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv</name>
+            <name>ii</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -19788,7 +19788,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio7-V65</name>
+            <name>#viio7/iv-V65/iv</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -21924,6 +21924,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i6</name>
+            </Harmony>
           <Rest>
             <visible>0</visible>
             <durationType>measure</durationType>
@@ -21934,14 +21938,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi.III</name>
-            </Harmony>
-          <location>
-            <fractions>1/4</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i6</name>
+            <name></name>
             </Harmony>
           </voice>
         </Measure>
