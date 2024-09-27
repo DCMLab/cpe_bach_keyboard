@@ -8,7 +8,7 @@ INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 65) ms3.Parse.cpe_bach_keyboard.wq56
     expecting completion.
 DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 125, '1/8', 'viio6/III') ms3.Parse.cpe_bach_keyboard.wq56n05 --
 	The label 'viio6/III' in m. 125, onset 1/8 (MC 125, onset 1/8) seems not to correspond well to the score (which does not necessarily mean it is wrong).
-	Out-of-label RH C is an anticipation of the following III6.
+    Out-of-label RH C is an anticipation of the following III6.
 DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 125, '1/4', 'III6') ms3.Parse.cpe_bach_keyboard.wq56n05 --
 	The label 'III6' in m. 125, onset 1/4 (MC 125, onset 1/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
-	Out-of-label C-sharp is a passing tone.
+    Out-of-label C-sharp is a passing tone.
