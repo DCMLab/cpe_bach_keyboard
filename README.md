@@ -70,10 +70,10 @@ Please note that the `meta_ corpora` branch should be used with collections of c
 |wq57n04a |      81|     0|        |             |            |
 |wq57n04b |      73|     0|        |             |            |
 |wq57n04c |      52|     0|        |             |            |
-|wq57n05  |     224|     0|        |             |            |
+|wq57n05  |     224|   366|2.3.0   |Davor Krkljus|AB          |
 |wq57n06a |      90|     0|        |             |            |
 |wq57n06b |      44|     0|        |             |            |
 |wq57n06c |      70|     0|        |             |            |
 
 
-*Overview table automatically updated using [ms3](https://johentsch.github.io/ms3/).*
+*Overview table automatically updated using [ms3](https://ms3.readthedocs.io/).*
