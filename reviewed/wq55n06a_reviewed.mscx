@@ -32,6 +32,7 @@
     <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/54222</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
+    <metaTag name="reviewers">AB</metaTag>
     <metaTag name="score_integrity">Amelia Brey</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
@@ -12462,13 +12463,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I6-iii{</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
             <name>I6{-iii{</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
@@ -13028,13 +13023,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I(94)</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
             <name>I(94)}</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -13099,13 +13088,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I|PAC}{</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
             <name>I|PAC{</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -13670,11 +13653,11 @@
             <fractions>3/8</fractions>
             </location>
           <Rest>
-            <offset x="0" y="-5"/>
+            <offset x="0" y="-6"/>
             <durationType>quarter</durationType>
             </Rest>
           <Rest>
-            <offset x="0" y="-3"/>
+            <offset x="0" y="-6"/>
             <durationType>eighth</durationType>
             </Rest>
           <Chord>
@@ -14201,6 +14184,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>vi|EC</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>vi|DC</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -15569,13 +15558,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I6-iii{</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
             <name>I6{-iii{</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Rest>
             <visible>0</visible>
@@ -17253,13 +17236,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I6-iii{</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
             <name>I6{-iii{</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
@@ -17411,8 +17388,8 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <minDistance>-999</minDistance>
-            <offset x="-2.45428" y="1.1706"/>
+            <minDistance>0.417478</minDistance>
+            <offset x="-1.86974" y="2.24226"/>
             </Dynamic>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -18693,6 +18670,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I}</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -18763,6 +18746,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>vi(6)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>vi(6)}</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -18779,6 +18768,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>vi|EC</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>vi|DC</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
