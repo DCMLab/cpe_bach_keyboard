@@ -17146,8 +17146,8 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <minDistance>-999</minDistance>
-            <offset x="-2.45428" y="1.1706"/>
+            <minDistance>0.417478</minDistance>
+            <offset x="-1.86974" y="2.24226"/>
             </Dynamic>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -18411,7 +18411,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I}</name>
+            <name>I</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -18481,7 +18481,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi(6)</name>
+            <name>vi(6)}</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -18497,7 +18497,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi|EC</name>
+            <name>vi|DC</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
