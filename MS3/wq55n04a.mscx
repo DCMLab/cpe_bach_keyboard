@@ -62,6 +62,7 @@
     <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/23905</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
+    <metaTag name="reviewers">AB</metaTag>
     <metaTag name="score_integrity">Amelia Brey</metaTag>
     <metaTag name="source">http://musescore.com/user/30662474/scores/6682611</metaTag>
     <metaTag name="translator"></metaTag>
@@ -235,7 +236,7 @@
             <tempo>2.5833333333333335</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 155</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 155</b></text>
             </Tempo>
           <Chord>
             <durationType>quarter</durationType>
