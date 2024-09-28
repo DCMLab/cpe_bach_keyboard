@@ -8985,7 +8985,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>It6</name>
+            <name>Ger65</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -9034,7 +9034,7 @@
               </Note>
             </Chord>
           <Rest>
-            <offset x="0" y="-1"/>
+            <offset x="0" y="-2"/>
             <durationType>quarter</durationType>
             </Rest>
           <Rest>
