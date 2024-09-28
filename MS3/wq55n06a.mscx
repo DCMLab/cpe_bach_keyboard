@@ -13452,11 +13452,11 @@
             <fractions>3/8</fractions>
             </location>
           <Rest>
-            <offset x="0" y="-5"/>
+            <offset x="0" y="-6"/>
             <durationType>quarter</durationType>
             </Rest>
           <Rest>
-            <offset x="0" y="-3"/>
+            <offset x="0" y="-6"/>
             <durationType>eighth</durationType>
             </Rest>
           <Chord>
@@ -13981,7 +13981,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi|EC</name>
+            <name>vi|DC</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
