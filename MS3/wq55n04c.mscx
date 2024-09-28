@@ -234,7 +234,7 @@
             <tempo>1.5</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 90</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 90</b></text>
             </Tempo>
           <Chord>
             <durationType>quarter</durationType>
@@ -13873,7 +13873,7 @@
             </TimeSig>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>A.I{</name>
+            <name>A.I[I{</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -13957,7 +13957,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV</name>
+            <name>IV]</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
