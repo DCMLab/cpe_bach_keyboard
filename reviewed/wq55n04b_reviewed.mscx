@@ -62,6 +62,7 @@
     <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/23905</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
+    <metaTag name="reviewers">AB</metaTag>
     <metaTag name="score_integrity">Amelia Brey</metaTag>
     <metaTag name="source">http://musescore.com/user/30662474/scores/6682611</metaTag>
     <metaTag name="translator"></metaTag>
@@ -1390,6 +1391,7 @@
             <durationType>16th</durationType>
             <Spanner type="Slur">
               <Slur>
+                <up>up</up>
                 </Slur>
               <next>
                 <location>
@@ -1408,8 +1410,8 @@
             <Note>
               <color r="255" g="0" b="0" a="255"/>
               <Accidental>
+                <role>1</role>
                 <subtype>accidentalSharp</subtype>
-                <offset x="0.0553203" y="-0.774484"/>
                 </Accidental>
               <pitch>51</pitch>
               <tpc>23</tpc>
@@ -7228,13 +7230,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IVM64</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
             <name>IVM65</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -8516,13 +8512,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio6(64)/VI</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
             <name>ii7(4)/VI-viio6(62)/VI</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -8637,13 +8627,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio6(64)/iv</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
             <name>ii%7(4)/iv-#viio6(62)/iv</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -9248,13 +9232,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
             <name>iio</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -9860,6 +9838,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V(4)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V(^4)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
