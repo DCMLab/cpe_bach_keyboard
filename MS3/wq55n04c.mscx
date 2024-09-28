@@ -13874,7 +13874,7 @@
             </TimeSig>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>A.I[I{</name>
+            <name>A.I{</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -13958,7 +13958,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV]</name>
+            <name>IV64</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -15952,7 +15952,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV</name>
+            <name>IV64</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
