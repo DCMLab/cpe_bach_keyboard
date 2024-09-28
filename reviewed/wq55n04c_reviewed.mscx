@@ -62,6 +62,7 @@
     <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/23905</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
+    <metaTag name="reviewers">AB</metaTag>
     <metaTag name="score_integrity">Amelia Brey</metaTag>
     <metaTag name="source">http://musescore.com/user/30662474/scores/6682611</metaTag>
     <metaTag name="translator"></metaTag>
@@ -1473,7 +1474,6 @@
             <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <subtype>accidentalNatural</subtype>
                 </Accidental>
@@ -13326,11 +13326,11 @@
             <durationType>eighth</durationType>
             </Rest>
           <Rest>
-            <offset x="0.316448" y="-2.97507"/>
+            <offset x="0.316448" y="0.02493"/>
             <durationType>eighth</durationType>
             </Rest>
           <Rest>
-            <offset x="0.403617" y="-3.50836"/>
+            <offset x="0.403617" y="-0.50836"/>
             <dots>1</dots>
             <durationType>16th</durationType>
             </Rest>
@@ -14218,6 +14218,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>IV</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>IV64</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -14816,6 +14822,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>It6-Ger6</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>Ger65</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -15011,13 +15023,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii7</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
             <name>vi7</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Rest>
             <visible>0</visible>
@@ -16222,6 +16228,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>IV</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>IV64</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -17669,6 +17681,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>iv</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv64</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -17943,13 +17961,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
             <name>#vio6</name>
-            <color r="0" g="85" b="0" a="255"/>
             <offset x="0.1" y="3.5"/>
             </Harmony>
           <Chord>
@@ -18443,6 +18455,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>IV</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>IV64</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -19747,7 +19765,7 @@
             <name>{</name>
             </Harmony>
           <Rest>
-            <offset x="0.774484" y="-0.331922"/>
+            <offset x="0.774484" y="0.0217006"/>
             <durationType>eighth</durationType>
             </Rest>
           <Chord>
@@ -19832,7 +19850,7 @@
             </Chord>
           <Rest>
             <autoplace>0</autoplace>
-            <offset x="0.995766" y="-10.1789"/>
+            <offset x="0.995766" y="-11.1789"/>
             <durationType>quarter</durationType>
             </Rest>
           </voice>
