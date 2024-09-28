@@ -1364,6 +1364,7 @@
             <durationType>16th</durationType>
             <Spanner type="Slur">
               <Slur>
+                <up>up</up>
                 </Slur>
               <next>
                 <location>
@@ -1381,8 +1382,8 @@
             <durationType>16th</durationType>
             <Note>
               <Accidental>
+                <role>1</role>
                 <subtype>accidentalSharp</subtype>
-                <offset x="0.0553203" y="-0.774484"/>
                 </Accidental>
               <pitch>51</pitch>
               <tpc>23</tpc>
