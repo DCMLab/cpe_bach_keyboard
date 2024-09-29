@@ -50,8 +50,8 @@ mc	mn	quarterbeats	duration_qb	mc_onset	mn_onset	timesig	staff	voice	label	alt_l
 31	31	90	3.0	0	0	3/4	2	1	iio		G	V		iio		ii	o						o	0	0	2, -1, -4		2	2
 32	32	93	3.0	0	0	3/4	2	1	V[V		G	V	V	V		V							M	0	0	1, 5, 2		1	1
 33	33	96	2.0	0	0	3/4	2	1	i64		G	V	V	i64		i		64					m	0	0	1, 0, -3		0	1
-33	33	98	1.0	1/2	1/2	3/4	2	1	viio6/V]		G	V	V	viio6/V		vii	o	6		V			o	0	0	3, 0, 6		6	3
-34	34	99	3.0	0	0	3/4	2	1	V|HC}		G	V		V		V					HC	}	M	0	0	1, 5, 2		1	1
+33	33	98	1.0	1/2	1/2	3/4	2	1	viio6/V		G	V	V	viio6/V		vii	o	6		V			o	0	0	3, 0, 6		6	3
+34	34	99	3.0	0	0	3/4	2	1	V]|HC}		G	V	V	V		V					HC	}	M	0	0	1, 5, 2		1	1
 34	34	201/2	0.0	3/8	3/8	3/4	2	1	{		G	V										{		0	0				
 35	35	102	2.0	0	0	3/4	2	1	I6		G	V		I6		I		6					M	0	0	4, 1, 0		0	4
 35	35	104	1.0	1/2	1/2	3/4	2	1	#vii65/ii		G	V		#vii65/ii		#vii		65		ii			mm7	0	0	4, 8, 5, 7		7	4
@@ -130,7 +130,7 @@ mc	mn	quarterbeats	duration_qb	mc_onset	mn_onset	timesig	staff	voice	label	alt_l
 78	78	231	2.0	0	0	3/4	2	1	It6(2)		G	i		It6(2)	It	vii	o	6	b32	V			It	0	1	-4, 0, 1		6	-4
 78	78	233	1.0	1/2	1/2	3/4	2	1	It6		G	i		It6	It	vii	o	6	b3	V			It	0	1	-4, 0, 6		6	-4
 79	79	234	3.0	0	0	3/4	2	1	VI		G	i		VI		VI							M	0	1	-4, 0, -3		-4	-4
-80	80	237	3.0	0	0	3/4	2	1	Ger6		G	i		Ger6	Ger	vii	o	65	b3	V			Ger	0	1	-4, 0, -3, 6		6	-4
+80	80	237	3.0	0	0	3/4	2	1	Ger65	Fr43	G	i		Ger65	Ger	vii	o	65	b3	V			Ger	0	1	-4, 0, -3, 6		6	-4
 81	81	240	3.0	0	0	3/4	2	1	V(4)		G	i		V(4)		V			4				M	0	1	1, 0, 2		1	1
 82	82	243	3.0	0	0	3/4	2	1	V|HC}		G	i		V		V					HC	}	M	0	1	1, 5, 2		1	1
 83	83	246	6.0	0	0	3/4	2	1	I.I{		G	I		I		I						{	M	0	0	0, 4, 1		0	0
@@ -168,8 +168,8 @@ mc	mn	quarterbeats	duration_qb	mc_onset	mn_onset	timesig	staff	voice	label	alt_l
 107	107	318	3.0	0	0	3/4	2	1	iio		G	I		iio		ii	o						o	0	0	2, -1, -4		2	2
 108	108	321	3.0	0	0	3/4	2	1	V[V		G	I	V	V		V							M	0	0	1, 5, 2		1	1
 109	109	324	2.0	0	0	3/4	2	1	i64		G	I	V	i64		i		64					m	0	0	1, 0, -3		0	1
-109	109	326	1.0	1/2	1/2	3/4	2	1	viio6/V]		G	I	V	viio6/V		vii	o	6		V			o	0	0	3, 0, 6		6	3
-110	110	327	3.0	0	0	3/4	2	1	V|HC}		G	I		V		V					HC	}	M	0	0	1, 5, 2		1	1
+109	109	326	1.0	1/2	1/2	3/4	2	1	viio6/V		G	I	V	viio6/V		vii	o	6		V			o	0	0	3, 0, 6		6	3
+110	110	327	3.0	0	0	3/4	2	1	V]|HC}		G	I	V	V		V					HC	}	M	0	0	1, 5, 2		1	1
 110	110	657/2	0.0	3/8	3/8	3/4	2	1	{		G	I										{		0	0				
 111	111	330	2.0	0	0	3/4	2	1	I6		G	I		I6		I		6					M	0	0	4, 1, 0		0	4
 111	111	332	1.0	1/2	1/2	3/4	2	1	#vii65/ii		G	I		#vii65/ii		#vii		65		ii			mm7	0	0	4, 8, 5, 7		7	4
