@@ -6869,9 +6869,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Chord>
             <durationType>quarter</durationType>
@@ -7052,11 +7049,6 @@
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o2 x="-0.511307" y="1.73845"/>
-                  <o3 x="-0.511307" y="1.73845"/>
-                  <o4 x="0.204523" y="2.55654"/>
-                  </SlurSegment>
                 <up>up</up>
                 </Slur>
               <next>
@@ -8511,11 +8503,6 @@
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o2 x="0.613569" y="0.71583"/>
-                  <o3 x="0.613569" y="0.71583"/>
-                  <offset x="0.204523" y="0.204523"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -15161,7 +15148,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Ger6</name>
+            <name>Ger65-Fr43</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
