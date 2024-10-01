@@ -1,10 +1,6 @@
 Warnings encountered during the last execution of ms3 review
 ============================================================
 
-DCML_HARMONY_SYNTAX_WARNING (15,) ms3.Parse.cpe_bach_keyboard.wq119n07 --
-	Score contains 1 labels that don't (and 328 that do) match the DCML standard:
-	     mc  mn          label harmony_layer
-	164  63  60  empty_harmony             1
 WRONGLY_ENCODED_POSITION_WARNING (28,) ms3.Parse.cpe_bach_keyboard.wq119n07 --
 	In the following instances the second event occurs before the first one: 
 	               mc  mn mc_onset mn_onset timesig  staff  voice     label alt_label globalkey localkey pedal
