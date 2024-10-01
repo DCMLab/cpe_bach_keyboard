@@ -150,7 +150,7 @@
             <tempo>1.7333333333333334</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 52</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 52</b></text>
             </Tempo>
           <Rest>
             <durationType>eighth</durationType>
@@ -14538,7 +14538,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%42</name>
+            <name>ii%2</name>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
@@ -15097,7 +15097,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V42/vii</name>
+            <name>V2/vii</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -15162,7 +15162,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V42/bV</name>
+            <name>V2/bV</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -15226,7 +15226,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V42/bII</name>
+            <name>V2/bII</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -15272,7 +15272,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V42/III</name>
+            <name>V2/III</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -16261,7 +16261,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv42</name>
+            <name>iv2</name>
             </Harmony>
           <Beam>
             <autoplace>0</autoplace>
@@ -19821,7 +19821,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio65/V</name>
+            <name>viio65/V</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -22221,7 +22221,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio65/V</name>
+            <name>viio65/V</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -22248,7 +22248,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio7/V</name>
+            <name>viio7/V</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -22621,7 +22621,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio7/iv</name>
+            <name>#viio7/iv</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -23312,13 +23312,13 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Fermata>
-            <subtype>fermataAbove</subtype>
-            </Fermata>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>VI</name>
             </Harmony>
+          <Fermata>
+            <subtype>fermataAbove</subtype>
+            </Fermata>
           <Chord>
             <durationType>half</durationType>
             <StemDirection>up</StemDirection>
@@ -23337,7 +23337,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio65/V</name>
+            <name>viio65/V</name>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>
