@@ -14,7 +14,7 @@ Please note that the `meta_ corpora` branch should be used with collections of c
 |wq113n03 |       7|     0|        |             |            |
 |wq114n07 |       4|     0|        |             |            |
 |wq117n11 |      14|     0|        |             |            |
-|wq117n12 |      14|     0|        |             |            |
+|wq117n12 |      14|    20|2.3.0   |Amelia Brey  |            |
 |wq117n13 |       8|     0|        |             |            |
 |wq117n14 |      18|     0|        |             |            |
 |wq119n07 |     125|     0|        |             |            |
