@@ -18842,17 +18842,9 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name></name>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
             <name>iii</name>
             </Harmony>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            </Beam>
           <Chord>
-            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>55</pitch>
@@ -18860,7 +18852,6 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>56</pitch>
@@ -18873,7 +18864,6 @@
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
-            <StemDirection>down</StemDirection>
             <Note>
               <pitch>58</pitch>
               <tpc>12</tpc>
@@ -18885,7 +18875,6 @@
             </Harmony>
           <Chord>
             <durationType>half</durationType>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>48</pitch>
               <tpc>14</tpc>
