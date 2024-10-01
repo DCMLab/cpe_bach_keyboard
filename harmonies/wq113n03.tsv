@@ -1,0 +1,27 @@
+mc	mn	quarterbeats	duration_qb	mc_onset	mn_onset	timesig	staff	voice	label	globalkey	localkey	pedal	chord	numeral	form	figbass	changes	relativeroot	cadence	phraseend	chord_type	globalkey_is_minor	localkey_is_minor	chord_tones	added_tones	root	bass_note
+1	1	0	2.0	0	0	4/4	2	1	d.i{	d	i		i	i						{	m	1	1	0, -3, 1		0	0
+1	1	2	1.5	1/2	1/2	4/4	2	1	V	d	i		V	V							M	1	1	1, 5, 2		1	1
+1	1	7/2	0.5	7/8	7/8	4/4	2	1	V65	d	i		V65	V		65					Mm7	1	1	5, 2, -1, 1		1	5
+2	2	4	2.0	0	0	4/4	2	1	I	d	i		I	I							M	1	1	0, 4, 1		0	0
+2	2	6	1.5	1/2	1/2	4/4	2	1	V7	d	i		V7	V		7					Mm7	1	1	1, 5, 2, -1		1	1
+2	2	15/2	0.5	7/8	7/8	4/4	2	1	V65	d	i		V65	V		65					Mm7	1	1	5, 2, -1, 1		1	5
+3	3	8	1.0	0	0	4/4	2	1	i	d	i		i	i							m	1	1	0, -3, 1		0	0
+3	3	9	1.0	1/4	1/4	4/4	2	1	iv	d	i		iv	iv							m	1	1	-1, -4, 0		-1	-1
+3	3	10	1.0	1/2	1/2	4/4	2	1	V7/III	d	i		V7/III	V		7		III			Mm7	1	1	-2, 2, -1, -4		-2	-2
+3	3	11	1.0	3/4	3/4	4/4	2	1	III	d	i		III	III							M	1	1	-3, 1, -2		-3	-3
+4	4	12	1.0	0	0	4/4	2	1	VI	d	i		VI	VI							M	1	1	-4, 0, -3		-4	-4
+4	4	13	1.0	1/4	1/4	4/4	2	1	iio	d	i		iio	ii	o						o	1	1	2, -1, -4		2	2
+4	4	14	1.0	1/2	1/2	4/4	2	1	V7	d	i		V7	V		7					Mm7	1	1	1, 5, 2, -1		1	1
+4	4	15	1.0	3/4	3/4	4/4	2	1	i	d	i		i	i							m	1	1	0, -3, 1		0	0
+5	5	16	1.0	0	0	4/4	2	1	iv6	d	i		iv6	iv		6					m	1	1	-4, 0, -1		-1	-4
+5	5	17	1.0	1/4	1/4	4/4	2	1	i64	d	i		i64	i		64					m	1	1	1, 0, -3		0	1
+5	5	18	1.0	1/2	1/2	4/4	2	1	V64/III	d	i		V64/III	V		64		III			M	1	1	-1, -2, 2		-2	-1
+5	5	19	1.0	3/4	3/4	4/4	2	1	i6	d	i		i6	i		6					m	1	1	-3, 1, 0		0	-3
+6	6	20	1.0	0	0	4/4	2	1	iv6	d	i		iv6	iv		6					m	1	1	-4, 0, -1		-1	-4
+6	6	21	1.0	1/4	1/4	4/4	2	1	i64	d	i		i64	i		64					m	1	1	1, 0, -3		0	1
+6	6	22	1.0	1/2	1/2	4/4	2	1	ii%65	d	i		ii%65	ii	%	65					%7	1	1	-1, -4, 0, 2		2	-1
+6	6	23	1.0	3/4	3/4	4/4	2	1	i6	d	i		i6	i		6					m	1	1	-3, 1, 0		0	-3
+7	7	24	0.5	0	0	4/4	2	1	iv	d	i		iv	iv							m	1	1	-1, -4, 0		-1	-1
+7	7	49/2	0.5	1/8	1/8	4/4	2	1	V65/V	d	i		V65/V	V		65		V			Mm7	1	1	6, 3, 0, 2		2	6
+7	7	25	1.0	1/4	1/4	4/4	2	1	V	d	i		V	V							M	1	1	1, 5, 2		1	1
+7	7	26	2.0	1/2	1/2	4/4	2	1	i|PAC}	d	i		i	i					PAC	}	m	1	1	0, -3, 1		0	0
