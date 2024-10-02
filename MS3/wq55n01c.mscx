@@ -4078,7 +4078,7 @@
             </TimeSig>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>C.I</name>
+            <name>C.I{</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -5070,6 +5070,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I{</name>
+            <offset x="0.603032" y="3.62061"/>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
