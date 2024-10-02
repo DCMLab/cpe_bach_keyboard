@@ -43,9 +43,9 @@ Please note that the `meta_ corpora` branch should be used with collections of c
 |wq55n03a |      42|     0|        |             |            |
 |wq55n03b |      25|     0|        |             |            |
 |wq55n03c |      68|     0|        |             |            |
-|wq55n04a |     128|     0|        |             |            |
-|wq55n04b |      32|     0|        |             |            |
-|wq55n04c |     135|   266|2.3.0   |Davor Krkljus|AB          |
+|wq55n04a |     128|   314|2.3.0   |Davor Krkljus|AB          |
+|wq55n04b |      32|   121|2.3.0   |Davor Krkljus|AB          |
+|wq55n04c |     135|     0|        |             |            |
 |wq55n05a |      29|     0|        |             |            |
 |wq55n05b |      30|     0|        |             |            |
 |wq55n05c |      37|     0|        |             |            |
@@ -57,9 +57,9 @@ Please note that the `meta_ corpora` branch should be used with collections of c
 |wq56n02b |      24|    58|2.3.0   |Davor Krkljus|Victor Zheng|
 |wq56n02c |      48|     0|        |             |            |
 |wq56n03  |     149|   425|2.3.0   |Davor Krkljus|AB          |
-|wq56n04a |      47|     0|        |             |            |
+|wq56n04a |      47|   161|2.3.0   |Davor Krkljus|AB          |
 |wq56n04b |      73|   101|2.3.0   |Davor Krkljus|AB          |
-|wq56n05  |     172|     0|        |             |            |
+|wq56n05  |     172|   308|2.3.0   |Davor Krkljus|AB          |
 |wq56n06a |      41|     0|        |             |            |
 |wq56n06b |      52|     0|        |             |            |
 |wq57n01  |      94|     0|        |             |            |
@@ -70,7 +70,7 @@ Please note that the `meta_ corpora` branch should be used with collections of c
 |wq57n04a |      81|     0|        |             |            |
 |wq57n04b |      73|     0|        |             |            |
 |wq57n04c |      52|     0|        |             |            |
-|wq57n05  |     224|     0|        |             |            |
+|wq57n05  |     224|   366|2.3.0   |Davor Krkljus|AB          |
 |wq57n06a |      90|     0|        |             |            |
 |wq57n06b |      44|     0|        |             |            |
 |wq57n06c |      70|     0|        |             |            |
