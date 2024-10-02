@@ -4684,7 +4684,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio</name>
+            <name>#viio</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -5340,7 +5340,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i|IAC</name>
+            <name>iv7</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -5765,7 +5765,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio/ii</name>
+            <name>#viio/ii</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
