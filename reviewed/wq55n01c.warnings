@@ -1,8 +1,6 @@
 Warnings encountered during the last execution of ms3 review
 ============================================================
 
-DCML_DEFAULT_CORRECTION_WARNING (27, 'MC 14: ') ms3.Parse.cpe_bach_keyboard.wq55n01c --
-	MC 14: #vii in major context corrected to vii.
 DCML_PHRASE_INCONGRUENCY_WARNING (16,) ms3.Parse.cpe_bach_keyboard.wq55n01c --
 	Phrase beginning and endings don't match:
 	mn_playthrough phraseend mn_playthrough phraseend
@@ -14,10 +12,3 @@ DCML_PHRASE_INCONGRUENCY_WARNING (16,) ms3.Parse.cpe_bach_keyboard.wq55n01c --
 	           29b         {            44a         }
 	           NaN       NaN            28b         }
 	           NaN       NaN            44b         }
-DCML_DEFAULT_CORRECTION_WARNING (27, 'MC 14: ') ms3.Parse.cpe_bach_keyboard.wq55n01c --
-	MC 14: #vii in major context corrected to vii.
-DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 14, '1/4', 'viio/ii') ms3.Parse.cpe_bach_keyboard.wq55n01c --
-	The label 'viio/ii' in m. 14, onset 1/4 (MC 14, onset 1/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
-	In the context of C.V, it expresses the scale degrees ('1', 'b3', 'b5') [('G', 'Bb', 'Db')].
-	The corresponding score segment has 0 within-label and 1 out-of-label note onsets, a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
-	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed by a free-text comment in subsequent lines starting with a space or tab.
