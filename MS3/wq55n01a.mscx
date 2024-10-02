@@ -7519,7 +7519,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio7/ii</name>
+            <name>#viio7/ii</name>
             </Harmony>
           <Rest>
             <visible>0</visible>
@@ -8187,7 +8187,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio7/ii</name>
+            <name>#viio7/ii</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -8659,7 +8659,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2/ii</name>
+            <name>V2/vi</name>
             </Harmony>
           <Rest>
             <visible>0</visible>
@@ -8672,7 +8672,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii2</name>
+            <name>vi6</name>
             </Harmony>
           <Rest>
             <visible>0</visible>
@@ -8779,7 +8779,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio7/ii</name>
+            <name>#viio7/ii</name>
             </Harmony>
           <Rest>
             <visible>0</visible>
