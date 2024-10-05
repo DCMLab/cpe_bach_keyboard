@@ -16361,7 +16361,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio/III</name>
+            <name>iio-viio/III</name>
             </Harmony>
           <Rest>
             <durationType>half</durationType>
