@@ -5982,7 +5982,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv7{</name>
+            <name>bII6(2){</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -5992,6 +5992,10 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>bII6</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
