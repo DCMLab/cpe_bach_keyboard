@@ -4426,7 +4426,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6</name>
+            <name>V.I6</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -4470,7 +4470,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio6/V</name>
+            <name>viio6</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -4514,7 +4514,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V</name>
+            <name>I</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -4554,7 +4554,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>IV</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -4587,7 +4587,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V.V6/ii</name>
+            <name>V6/V</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
