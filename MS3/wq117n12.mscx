@@ -1869,7 +1869,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i}</name>
+            <name>i</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -1883,10 +1883,6 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>|IAC</name>
-            </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>quarter</durationType>
@@ -1908,7 +1904,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7{</name>
+            <name>V7</name>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
@@ -1955,7 +1951,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i</name>
+            <name>i}</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -2027,6 +2023,10 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>|PAC</name>
+            </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
@@ -2036,6 +2036,10 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
