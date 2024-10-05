@@ -32,6 +32,7 @@
     <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/24509</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
+    <metaTag name="reviewers">DK</metaTag>
     <metaTag name="score_integrity">Amelia Brey</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
@@ -143,6 +144,12 @@
             <tempo>1.5333333333333334</tempo>
             <followText>1</followText>
             <text><font size="12"></font><b>Andante</b></text>
+            </Tempo>
+          <Tempo>
+            <tempo>1.2333333333333334</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 74</b></text>
             </Tempo>
           <Rest>
             <durationType>eighth</durationType>
