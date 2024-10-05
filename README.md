@@ -9,7 +9,7 @@ Please note that the `meta_ corpora` branch should be used with collections of c
 |file_name|measures|labels|standard| annotators  | reviewers  |
 |---------|-------:|-----:|--------|-------------|------------|
 |wq112n02 |      19|     0|        |             |            |
-|wq112n08 |      12|    56|2.3.0   |Amelia Brey  |            |
+|wq112n08 |      12|    56|2.3.0   |Amelia Brey  |DK          |
 |wq112n15 |       3|     0|        |             |            |
 |wq113n03 |       7|     0|        |             |            |
 |wq114n07 |       4|     0|        |             |            |
