@@ -2696,6 +2696,10 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V65</name>
+            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -2709,7 +2713,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i|PAC}</name>
+            <name>i</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -2722,6 +2726,10 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V7</name>
+            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -2730,6 +2738,10 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i|PAC}</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
