@@ -23333,7 +23333,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI</name>
+            <name>VI|EC}</name>
             </Harmony>
           <Fermata>
             <subtype>fermataAbove</subtype>
