@@ -3,8 +3,8 @@ Warnings encountered during the last execution of ms3 review
 
 WRONGLY_ENCODED_POSITION_WARNING (28,) ms3.Parse.cpe_bach_keyboard.wq119n07 --
 	In the following instances the second event occurs before the first one: 
-	               mc  mn mc_onset mn_onset timesig  staff  voice     label alt_label globalkey localkey pedal
-	problem index                                                                                             
-	0       43     14  12     25/8     25/8     3/2      2      1  viio7/V{      <NA>         c        i   NaN
-	        44     15  12      1/2      1/2     3/2      2      1     V(64)      <NA>         c        i   NaN
+	               mc  mn mc_onset mn_onset timesig  staff  voice    label alt_label globalkey localkey pedal
+	problem index                                                                                            
+	0       43     14  12     25/8     25/8     3/2      2      1  viio7/V      <NA>         c        i   NaN
+	        44     15  12      1/2      1/2     3/2      2      1    V(64)      <NA>         c        i   NaN
 	Each second row will not have a 'duration_qb' value.
