@@ -5342,7 +5342,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv7</name>
+            <name>i|IAC</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
