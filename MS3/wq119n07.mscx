@@ -23333,7 +23333,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI|EC}</name>
+            <name>VI|DC}</name>
             </Harmony>
           <Fermata>
             <subtype>fermataAbove</subtype>
@@ -23356,7 +23356,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio65/V</name>
+            <name>Ger6{</name>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>
