@@ -15672,7 +15672,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(64)}</name>
+            <name>V(64)</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -15848,7 +15848,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio7/V{</name>
+            <name>viio7/V</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
