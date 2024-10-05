@@ -16142,6 +16142,13 @@
             <harmonyType>1</harmonyType>
             <name>VII</name>
             </Harmony>
+          <location>
+            <fractions>1/4</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>#viio</name>
+            </Harmony>
           </voice>
         </Measure>
       <Measure>
