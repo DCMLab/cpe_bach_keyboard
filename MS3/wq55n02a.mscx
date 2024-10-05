@@ -12727,7 +12727,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi</name>
+            <name>viio6/V</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
