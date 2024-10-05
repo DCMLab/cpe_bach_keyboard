@@ -53,6 +53,7 @@
     <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/396484</metaTag>
     <metaTag name="platform">Linux</metaTag>
     <metaTag name="poet"></metaTag>
+    <metaTag name="reviewers">DK</metaTag>
     <metaTag name="score_integrity">Amelia Brey</metaTag>
     <metaTag name="source">/tmp/lg-540424174.tmp.pdf</metaTag>
     <metaTag name="translator"></metaTag>
@@ -119,6 +120,7 @@
           <Tempo>
             <tempo>2</tempo>
             <followText>1</followText>
+            <visible>0</visible>
             <text><sym>metNoteQuarterUp</sym> = 120</text>
             </Tempo>
           <StaffText>
