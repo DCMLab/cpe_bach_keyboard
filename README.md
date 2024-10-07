@@ -8,8 +8,8 @@ Please note that the `meta_ corpora` branch should be used with collections of c
 ## Overview
 |file_name|measures|labels|standard| annotators  | reviewers  |
 |---------|-------:|-----:|--------|-------------|------------|
-|wq112n02 |      19|     0|        |             |            |
-|wq112n08 |      12|    56|2.3.0   |Amelia Brey  |DK          |
+|wq112n02 |      19|    38|2.3.0   |Amelia Brey  |DK          |
+|wq112n08 |      12|     0|        |             |            |
 |wq112n15 |       3|     0|        |             |            |
 |wq113n03 |       7|     0|        |             |            |
 |wq114n07 |       4|     0|        |             |            |
@@ -36,22 +36,22 @@ Please note that the `meta_ corpora` branch should be used with collections of c
 |wq50n06  |     234|   450|2.3.0   |Davor Krkljus|AB          |
 |wq55n01a |      69|     0|        |             |            |
 |wq55n01b |      39|     0|        |             |            |
-|wq55n01c |      44|     0|        |             |            |
-|wq55n02a |      77|     0|        |             |            |
+|wq55n01c |      44|    78|2.3.0   |Amelia Brey  |DK          |
+|wq55n02a |      77|   167|2.3.0   |Amelia Brey  |DK          |
 |wq55n02b |      49|     0|        |             |            |
 |wq55n02c |     160|     0|        |             |            |
 |wq55n03a |      42|     0|        |             |            |
 |wq55n03b |      25|     0|        |             |            |
 |wq55n03c |      68|     0|        |             |            |
-|wq55n04a |     128|     0|        |             |            |
-|wq55n04b |      32|     0|        |             |            |
-|wq55n04c |     135|     0|        |             |            |
+|wq55n04a |     128|   314|2.3.0   |Davor Krkljus|AB          |
+|wq55n04b |      32|   121|2.3.0   |Davor Krkljus|AB          |
+|wq55n04c |     135|   266|2.3.0   |Davor Krkljus|AB          |
 |wq55n05a |      29|     0|        |             |            |
 |wq55n05b |      30|     0|        |             |            |
 |wq55n05c |      37|     0|        |             |            |
-|wq55n06a |      66|     0|        |             |            |
-|wq55n06b |      30|     0|        |             |            |
-|wq55n06c |     122|     0|        |             |            |
+|wq55n06a |      66|   229|2.3.0   |Davor Krkljus|AB          |
+|wq55n06b |      30|    89|2.3.0   |Davor Krkljus|AB          |
+|wq55n06c |     122|   202|2.3.0   |Davor Krkljus|AB          |
 |wq56n01  |     176|   435|2.3.0   |Davor Krkljus|AB          |
 |wq56n02a |      71|   164|2.3.0   |Davor Krkljus|Victor Zheng|
 |wq56n02b |      24|    58|2.3.0   |Davor Krkljus|Victor Zheng|
@@ -59,14 +59,14 @@ Please note that the `meta_ corpora` branch should be used with collections of c
 |wq56n03  |     149|   425|2.3.0   |Davor Krkljus|AB          |
 |wq56n04a |      47|   161|2.3.0   |Davor Krkljus|AB          |
 |wq56n04b |      73|   101|2.3.0   |Davor Krkljus|AB          |
-|wq56n05  |     172|     0|        |             |            |
+|wq56n05  |     172|   308|2.3.0   |Davor Krkljus|AB          |
 |wq56n06a |      41|     0|        |             |            |
 |wq56n06b |      52|     0|        |             |            |
 |wq57n01  |      94|     0|        |             |            |
 |wq57n02a |      41|     0|        |             |            |
 |wq57n02b |      32|     0|        |             |            |
 |wq57n02c |      58|     0|        |             |            |
-|wq57n03  |     141|     0|        |             |            |
+|wq57n03  |     141|   283|2.3.0   |             |AB          |
 |wq57n04a |      81|     0|        |             |            |
 |wq57n04b |      73|     0|        |             |            |
 |wq57n04c |      52|     0|        |             |            |
