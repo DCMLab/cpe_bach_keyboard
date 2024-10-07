@@ -35,7 +35,7 @@ Please note that the `meta_ corpora` branch should be used with collections of c
 |wq50n05c |     229|   390|2.3.0   |Davor Krkljus|Victor Zheng|
 |wq50n06  |     234|   450|2.3.0   |Davor Krkljus|AB          |
 |wq55n01a |      69|    95|2.3.0   |Amelia Brey  |DK          |
-|wq55n01b |      39|     0|        |             |            |
+|wq55n01b |      39|    58|2.3.0   |Amelia Brey  |DK          |
 |wq55n01c |      44|    78|2.3.0   |Amelia Brey  |DK          |
 |wq55n02a |      77|   167|2.3.0   |Amelia Brey  |DK          |
 |wq55n02b |      49|     0|        |             |            |
