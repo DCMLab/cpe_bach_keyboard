@@ -8,13 +8,13 @@ Please note that the `meta_ corpora` branch should be used with collections of c
 ## Overview
 |file_name|measures|labels|standard| annotators  | reviewers  |
 |---------|-------:|-----:|--------|-------------|------------|
-|wq112n02 |      19|     0|        |             |            |
-|wq112n08 |      12|     0|        |             |            |
+|wq112n02 |      19|    38|2.3.0   |Amelia Brey  |DK          |
+|wq112n08 |      12|    56|2.3.0   |Amelia Brey  |DK          |
 |wq112n15 |       3|     0|        |             |            |
-|wq113n03 |       7|     0|        |             |            |
+|wq113n03 |       7|    29|2.3.0   |Amelia Brey  |DK          |
 |wq114n07 |       4|     0|        |             |            |
-|wq117n11 |      14|     0|        |             |            |
-|wq117n12 |      14|     0|        |             |            |
+|wq117n11 |      14|    35|2.3.0   |Amelia Brey  |DK          |
+|wq117n12 |      14|    21|2.3.0   |Amelia Brey  |DK          |
 |wq117n13 |       8|     0|        |             |            |
 |wq117n14 |      18|     0|        |             |            |
 |wq119n07 |     125|     0|        |             |            |
@@ -34,10 +34,10 @@ Please note that the `meta_ corpora` branch should be used with collections of c
 |wq50n05b |      60|   114|2.3.0   |Davor Krkljus|Victor Zheng|
 |wq50n05c |     229|   390|2.3.0   |Davor Krkljus|Victor Zheng|
 |wq50n06  |     234|   450|2.3.0   |Davor Krkljus|AB          |
-|wq55n01a |      69|     0|        |             |            |
-|wq55n01b |      39|    58|2.3.0   |Amelia Brey  |DK          |
-|wq55n01c |      44|     0|        |             |            |
-|wq55n02a |      77|     0|        |             |            |
+|wq55n01a |      69|    95|2.3.0   |Amelia Brey  |DK          |
+|wq55n01b |      39|     0|        |             |            |
+|wq55n01c |      44|    78|2.3.0   |Amelia Brey  |DK          |
+|wq55n02a |      77|   167|2.3.0   |Amelia Brey  |DK          |
 |wq55n02b |      49|     0|        |             |            |
 |wq55n02c |     160|     0|        |             |            |
 |wq55n03a |      42|     0|        |             |            |
