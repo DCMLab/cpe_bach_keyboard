@@ -10,7 +10,7 @@
     "delimiter": "\t"
   },
   "dc:description": "One feature matrix per score, containing one line per label. The first columns (until 'label') are the same as in extracted 'labels' tables with the difference that only those harmony labels that match the DCML harmony annotation standard (dcmlab.github.io/standards) are included. Since these follow a specific syntax, they can be split into their components (features) and transformed into scale degrees. For more information, please refer to the docs at https://johentsch.github.io/ms3/columns",
-  "dc:created": "2024-04-20T07:44:25",
+  "dc:created": "2024-10-07T17:49:36",
   "dc:creator": [
     {
       "@context": "https://schema.org/",
@@ -22,10 +22,25 @@
         "name": "Johannes Hentschel",
         "@id": "https://orcid.org/0000-0002-1986-9545"
       },
-      "softwareVersion": "1.2.12"
+      "softwareVersion": "1.2.12.post0.dev1+gb8c65dc"
     }
   ],
   "tables": [
+    {
+      "url": "wq112n02.tsv"
+    },
+    {
+      "url": "wq112n08.tsv"
+    },
+    {
+      "url": "wq113n03.tsv"
+    },
+    {
+      "url": "wq117n11.tsv"
+    },
+    {
+      "url": "wq117n12.tsv"
+    },
     {
       "url": "wq50n01a.tsv"
     },
@@ -66,6 +81,36 @@
       "url": "wq50n06.tsv"
     },
     {
+      "url": "wq55n01a.tsv"
+    },
+    {
+      "url": "wq55n01b.tsv"
+    },
+    {
+      "url": "wq55n01c.tsv"
+    },
+    {
+      "url": "wq55n02a.tsv"
+    },
+    {
+      "url": "wq55n04a.tsv"
+    },
+    {
+      "url": "wq55n04b.tsv"
+    },
+    {
+      "url": "wq55n04c.tsv"
+    },
+    {
+      "url": "wq55n06a.tsv"
+    },
+    {
+      "url": "wq55n06b.tsv"
+    },
+    {
+      "url": "wq55n06c.tsv"
+    },
+    {
       "url": "wq56n01.tsv"
     },
     {
@@ -73,6 +118,24 @@
     },
     {
       "url": "wq56n02b.tsv"
+    },
+    {
+      "url": "wq56n03.tsv"
+    },
+    {
+      "url": "wq56n04a.tsv"
+    },
+    {
+      "url": "wq56n04b.tsv"
+    },
+    {
+      "url": "wq56n05.tsv"
+    },
+    {
+      "url": "wq57n03.tsv"
+    },
+    {
+      "url": "wq57n05.tsv"
     }
   ],
   "tableSchema": {
