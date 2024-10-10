@@ -151,7 +151,7 @@
             <tempo>2.3999999999999999</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 144</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 144</b></text>
             </Tempo>
           <Chord>
             <durationType>quarter</durationType>
@@ -9430,13 +9430,13 @@
         </Measure>
       <Measure>
         <voice>
-          <Fermata>
-            <subtype>fermataAbove</subtype>
-            </Fermata>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V|HC}</name>
             </Harmony>
+          <Fermata>
+            <subtype>fermataAbove</subtype>
+            </Fermata>
           <Chord>
             <durationType>half</durationType>
             <StemDirection>up</StemDirection>
@@ -9793,7 +9793,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V</name>
+            <name>I</name>
             </Harmony>
           <Rest>
             <visible>0</visible>
@@ -11809,7 +11809,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio65/iv</name>
+            <name>#viio65/iv</name>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
@@ -11873,13 +11873,13 @@
         </Measure>
       <Measure>
         <voice>
-          <Fermata>
-            <subtype>fermataAbove</subtype>
-            </Fermata>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V}</name>
             </Harmony>
+          <Fermata>
+            <subtype>fermataAbove</subtype>
+            </Fermata>
           <Chord>
             <durationType>half</durationType>
             <StemDirection>up</StemDirection>
@@ -13974,7 +13974,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>|IAC}</name>
+            <name>|IAC</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
