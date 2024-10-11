@@ -8148,6 +8148,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7</name>
+            <offset x="0.1" y="3.5"/>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
