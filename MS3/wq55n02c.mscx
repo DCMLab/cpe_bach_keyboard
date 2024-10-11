@@ -12128,7 +12128,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6</name>
+            <name>V(64)</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -12138,6 +12138,13 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-1/4</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V7</name>
+            </Harmony>
           </voice>
         </Measure>
       <Measure>
@@ -13827,7 +13834,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii6</name>
+            <name>IV-ii6</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -13857,7 +13864,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(6)</name>
+            <name>V(64)</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -14155,7 +14162,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii6</name>
+            <name>IV-ii6</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
