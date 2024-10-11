@@ -39,7 +39,7 @@ Please note that the `meta_ corpora` branch should be used with collections of c
 |wq55n01c |      44|    78|2.3.0   |Amelia Brey  |DK          |
 |wq55n02a |      77|   167|2.3.0   |Amelia Brey  |DK          |
 |wq55n02b |      49|     0|        |             |            |
-|wq55n02c |     160|   154|2.3.0   |Amelia Brey  |            |
+|wq55n02c |     160|   163|2.3.0   |Amelia Brey  |DK          |
 |wq55n03a |      42|     0|        |             |            |
 |wq55n03b |      25|     0|        |             |            |
 |wq55n03c |      68|     0|        |             |            |
