@@ -12461,7 +12461,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i[i|PAC}</name>
+            <name>i[i|PAC}{</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -12512,6 +12512,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i.i}{</name>
+            <offset x="0" y="3.6"/>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
