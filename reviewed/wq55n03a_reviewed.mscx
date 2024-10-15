@@ -3174,7 +3174,6 @@
             <durationType>16th</durationType>
             <Note>
               <color r="255" g="0" b="0" a="255"/>
-              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <subtype>accidentalNatural</subtype>
                 </Accidental>
@@ -3186,7 +3185,6 @@
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <color r="255" g="0" b="0" a="255"/>
               <pitch>83</pitch>
               <tpc>19</tpc>
@@ -6850,6 +6848,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I|IAC}</name>
+            </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -6897,13 +6899,6 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          </voice>
-        <voice/>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I|IAC}</name>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>

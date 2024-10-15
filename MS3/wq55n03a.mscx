@@ -5499,7 +5499,7 @@
             </TimeSig>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>b.i64{</name>
+            <name>b.i64</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -5510,7 +5510,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V65/III</name>
+            <name>V65/III{</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -5555,7 +5555,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6</name>
+            <name>V6/III</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -5706,7 +5706,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III.I{</name>
+            <name>III.I</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -5717,7 +5717,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I6</name>
+            <name>I6{</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -6540,7 +6540,7 @@
             </TimeSig>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i64{</name>
+            <name>i64</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -6556,7 +6556,7 @@
             </TimeSig>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III.V65/V</name>
+            <name>III.V65/V{</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -6771,7 +6771,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI.V{</name>
+            <name>VI.V</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -6787,6 +6787,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Rest>
             <durationType>measure</durationType>
             <duration>1/2</duration>
@@ -7689,10 +7693,6 @@
             <offset x="0" y="-1"/>
             <durationType>eighth</durationType>
             </Rest>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>{</name>
-            </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
