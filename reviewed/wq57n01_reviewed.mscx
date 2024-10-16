@@ -20752,7 +20752,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio64</name>
+            <name>IV-viio64</name>
             </Harmony>
           <Rest>
             <visible>0</visible>
@@ -25694,14 +25694,14 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <Fermata>
-            <subtype>fermataAbove</subtype>
-            <offset x="1.5" y="-0.5"/>
-            </Fermata>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V</name>
             </Harmony>
+          <Fermata>
+            <subtype>fermataAbove</subtype>
+            <offset x="1.5" y="-0.5"/>
+            </Fermata>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -25842,14 +25842,14 @@
               <tpc>20</tpc>
               </Note>
             </Chord>
-          <Fermata>
-            <subtype>fermataAbove</subtype>
-            <offset x="2" y="-0.5"/>
-            </Fermata>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>vi</name>
             </Harmony>
+          <Fermata>
+            <subtype>fermataAbove</subtype>
+            <offset x="2" y="-0.5"/>
+            </Fermata>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
