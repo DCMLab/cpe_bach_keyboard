@@ -24625,6 +24625,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V2/IV</name>
+            <offset x="0.631662" y="3.5"/>
             </Harmony>
           <Rest>
             <visible>0</visible>
@@ -24632,11 +24633,19 @@
             <duration>1/1</duration>
             </Rest>
           <location>
-            <fractions>-3/4</fractions>
+            <fractions>-7/8</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>IV6</name>
+            </Harmony>
+          <location>
+            <fractions>1/8</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V2/V</name>
+            <offset x="0.631662" y="3.5"/>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
