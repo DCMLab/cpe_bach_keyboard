@@ -1,15 +1,6 @@
 Warnings encountered during the last execution of ms3 review
 ============================================================
 
-WRONGLY_ENCODED_POSITION_WARNING (28,) ms3.Parse.cpe_bach_keyboard.wq57n01 --
-	In the following instances the second event occurs before the first one: 
-	               mc  mn mc_onset mn_onset timesig  staff  voice  label alt_label globalkey localkey pedal
-	problem index                                                                                          
-	0       525    91  90     11/4     11/4     4/4      2      1  V|HC}      <NA>         E        I   NaN
-	        526    92  91        0        0     4/4      2      1     I{      <NA>         E        I   NaN
-	Each second row will not have a 'duration_qb' value.
-ERROR    ms3.Parse.cpe_bach_keyboard.wq57n01 --
-	Breaks are not sorted: [(399.0, 394.0)]
-WARNING  ms3.Parse.cpe_bach_keyboard.wq57n01 --
-	Error while creating durations from quarterbeats column. Error:
-	left side of interval must be <= right side
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 90) ms3.Parse.cpe_bach_keyboard.wq57n01 --
+	The incomplete MC 90 (timesig 1, act_dur 3/4) is completed by 1 incorrect duration (expected: 1/4):
+	{91: Fraction(13, 4)}
