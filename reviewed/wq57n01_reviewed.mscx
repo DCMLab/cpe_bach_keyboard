@@ -20626,13 +20626,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio64</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
             <name>IV-viio64</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Rest>
             <visible>0</visible>
@@ -22591,13 +22585,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
             <name>#viio43</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -24524,7 +24512,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>IV6</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -25491,13 +25478,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>{</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
             <name>I(9){</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Rest>
             <visible>0</visible>
@@ -33045,21 +33026,9 @@
               <tpc>19</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>
