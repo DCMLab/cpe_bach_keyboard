@@ -20506,7 +20506,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio64</name>
+            <name>IV-viio64</name>
             </Harmony>
           <Rest>
             <visible>0</visible>
@@ -22456,7 +22456,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2</name>
+            <name>#viio43</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -24367,6 +24367,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V2/IV</name>
+            <offset x="0.631662" y="3.5"/>
             </Harmony>
           <Rest>
             <visible>0</visible>
@@ -24374,7 +24375,14 @@
             <duration>1/1</duration>
             </Rest>
           <location>
-            <fractions>-3/4</fractions>
+            <fractions>-7/8</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>IV6</name>
+            </Harmony>
+          <location>
+            <fractions>1/8</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -25325,7 +25333,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>{</name>
+            <name>I(9){</name>
             </Harmony>
           <Rest>
             <visible>0</visible>
