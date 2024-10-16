@@ -2930,7 +2930,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii</name>
+            <name>iio6</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -3067,7 +3067,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V43/iv</name>
+            <name>V64/iv</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -3117,7 +3117,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv</name>
+            <name>iv6</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
