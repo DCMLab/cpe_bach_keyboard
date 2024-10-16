@@ -20490,14 +20490,14 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii(64)</name>
+            <name>vi(64)</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii</name>
+            <name>vi</name>
             </Harmony>
           </voice>
         </Measure>
@@ -23044,7 +23044,7 @@
           <endTuplet/>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio</name>
+            <name>#viio/iv</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -28355,7 +28355,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio6</name>
+            <name>viio6/V</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -29239,7 +29239,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI/vi</name>
+            <name>V/vi</name>
             </Harmony>
           </voice>
         </Measure>
@@ -29291,7 +29291,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio6</name>
+            <name>#viio6/vi</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -29306,7 +29306,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i</name>
+            <name>vi</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -29321,7 +29321,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6</name>
+            <name>V6/vi</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -32947,7 +32947,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii%/V</name>
+            <name>vii%7/V</name>
             </Harmony>
           <location>
             <fractions>1/2</fractions>
@@ -33390,7 +33390,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I(4)}</name>
+            <name>I(9)}</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
