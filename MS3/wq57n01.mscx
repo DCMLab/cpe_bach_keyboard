@@ -18716,9 +18716,6 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>1/2</fractions>
-            </location>
           </voice>
         </Measure>
       <Measure>
@@ -20395,7 +20392,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV-viio64</name>
+            <name>IV</name>
             </Harmony>
           <Rest>
             <visible>0</visible>
@@ -20403,7 +20400,14 @@
             <duration>1/1</duration>
             </Rest>
           <location>
-            <fractions>-3/4</fractions>
+            <fractions>-7/8</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>viio64</name>
+            </Harmony>
+          <location>
+            <fractions>1/8</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
