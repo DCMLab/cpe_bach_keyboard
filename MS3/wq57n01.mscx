@@ -8247,8 +8247,8 @@
               <tpc>19</tpc>
               </Note>
             <Note>
-              <pitch>78</pitch>
-              <tpc>20</tpc>
+              <pitch>80</pitch>
+              <tpc>22</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -25226,7 +25226,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I(9){</name>
+            <name>{</name>
             </Harmony>
           <Rest>
             <visible>0</visible>
