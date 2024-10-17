@@ -5919,7 +5919,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>F.v</name>
+            <name>F.v{</name>
             </Harmony>
           <Rest>
             <visible>0</visible>
@@ -6356,7 +6356,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I]</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -7149,7 +7149,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv.i6{</name>
+            <name>ii.i6{</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -7565,7 +7565,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i64</name>
+            <name>i64{</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
