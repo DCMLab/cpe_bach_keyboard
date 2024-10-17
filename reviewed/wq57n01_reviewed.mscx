@@ -2322,12 +2322,10 @@
               <subtype>articStaccatissimoAbove</subtype>
               </Articulation>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>73</pitch>
               <tpc>21</tpc>
               </Note>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
                 </Accidental>
@@ -8344,8 +8342,8 @@
               <tpc>19</tpc>
               </Note>
             <Note>
-              <pitch>78</pitch>
-              <tpc>20</tpc>
+              <pitch>80</pitch>
+              <tpc>22</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -18932,9 +18930,6 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>1/2</fractions>
-            </location>
           </voice>
         </Measure>
       <Measure>
@@ -20627,6 +20622,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>IV-viio64</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>IV</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Rest>
             <visible>0</visible>
@@ -20634,7 +20635,15 @@
             <duration>1/1</duration>
             </Rest>
           <location>
-            <fractions>-3/4</fractions>
+            <fractions>-7/8</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>viio64</name>
+            <color r="0" g="85" b="0" a="255"/>
+            </Harmony>
+          <location>
+            <fractions>1/8</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -25479,6 +25488,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I(9){</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Rest>
             <visible>0</visible>
