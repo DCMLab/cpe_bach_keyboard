@@ -4120,7 +4120,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio6/ii{</name>
+            <name>#viio6/ii{</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -4446,7 +4446,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2</name>
+            <name>V2/IV</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -4476,7 +4476,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I6</name>
+            <name>IV6</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -5257,7 +5257,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I6</name>
+            <name>I6{</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
