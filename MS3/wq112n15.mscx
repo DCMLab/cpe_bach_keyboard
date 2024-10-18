@@ -199,6 +199,7 @@
               </Note>
             </Chord>
           <BarLine>
+            <visible>0</visible>
             </BarLine>
           </voice>
         <voice>
@@ -1354,10 +1355,6 @@
             <span>1</span>
             <visible>0</visible>
             </BarLine>
-          <Clef>
-            <concertClefType>F</concertClefType>
-            <transposingClefType>F</transposingClefType>
-            </Clef>
           <KeySig>
             <accidental>-1</accidental>
             </KeySig>
@@ -1366,6 +1363,10 @@
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
+          <Clef>
+            <concertClefType>F</concertClefType>
+            <transposingClefType>F</transposingClefType>
+            </Clef>
           <StaffText>
             <placement>below</placement>
             <text>arpeggio</text>
@@ -1395,6 +1396,7 @@
               </Note>
             </Chord>
           <BarLine>
+            <visible>0</visible>
             </BarLine>
           </voice>
         <voice>
