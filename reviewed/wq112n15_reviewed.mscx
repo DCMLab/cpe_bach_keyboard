@@ -200,6 +200,7 @@
               </Note>
             </Chord>
           <BarLine>
+            <visible>0</visible>
             </BarLine>
           </voice>
         <voice>
@@ -1366,10 +1367,6 @@
             <span>1</span>
             <visible>0</visible>
             </BarLine>
-          <Clef>
-            <concertClefType>F</concertClefType>
-            <transposingClefType>F</transposingClefType>
-            </Clef>
           <KeySig>
             <accidental>-1</accidental>
             </KeySig>
@@ -1378,6 +1375,10 @@
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
+          <Clef>
+            <concertClefType>F</concertClefType>
+            <transposingClefType>F</transposingClefType>
+            </Clef>
           <StaffText>
             <placement>below</placement>
             <text>arpeggio</text>
@@ -1407,6 +1408,7 @@
               </Note>
             </Chord>
           <BarLine>
+            <visible>0</visible>
             </BarLine>
           </voice>
         <voice>
@@ -1563,13 +1565,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio6/ii</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
             <name>#viio6/vi</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
