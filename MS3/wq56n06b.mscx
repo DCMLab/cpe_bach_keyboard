@@ -6343,7 +6343,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio6/ii</name>
+            <name>#viio6/ii</name>
             </Harmony>
           <Rest>
             <visible>0</visible>
@@ -6460,7 +6460,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I6-iii{</name>
+            <name>I6{-iii{</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -7822,7 +7822,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I6-iii{</name>
+            <name>I6{-iii{</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
