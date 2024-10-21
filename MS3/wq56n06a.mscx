@@ -7530,6 +7530,10 @@
           <StaffText>
             <text>ten.</text>
             </StaffText>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I</name>
+            </Harmony>
           <Rest>
             <visible>0</visible>
             <durationType>quarter</durationType>
