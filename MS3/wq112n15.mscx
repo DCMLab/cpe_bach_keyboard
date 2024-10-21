@@ -1608,7 +1608,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii64</name>
+            <name>vi(64)-ii64</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
