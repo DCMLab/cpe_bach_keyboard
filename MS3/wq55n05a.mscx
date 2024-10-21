@@ -7936,7 +7936,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7}</name>
+            <name>V(64)}</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -7968,7 +7968,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>|HC</name>
+            <name>V|HC</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
