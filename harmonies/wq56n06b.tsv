@@ -4,7 +4,7 @@ mc	mn	quarterbeats	duration_qb	mc_onset	mn_onset	timesig	staff	voice	label	alt_l
 3	3	4	2.0	0	0	2/4	2	1	#viio6/ii		A	I		#viio6/ii	#vii	o	6		ii			o	0	0	4, 1, 7		7	4
 4	4	6	3.0	0	0	2/4	2	1	ii6		A	I		ii6	ii		6					m	0	0	-1, 3, 2		2	-1
 5	5	9	1.0	1/4	1/4	2/4	2	1	V65/V		A	I		V65/V	V		65		V			Mm7	0	0	6, 3, 0, 2		2	6
-6	6	10	2.0	0	0	2/4	2	1	V2		A	I		V2	V		2					Mm7	0	0	-1, 1, 5, 2		1	-1
+6	6	10	2.0	0	0	2/4	2	1	V7	V2	A	I		V7	V		7					Mm7	0	0	1, 5, 2, -1		1	1
 7	7	12	1.0	0	0	2/4	2	1	I6		A	I		I6	I		6					M	0	0	4, 1, 0		0	4
 7	7	13	0.5	1/4	1/4	2/4	2	1	viio6		A	I		viio6	vii	o	6					o	0	0	2, -1, 5		5	2
 7	7	27/2	0.5	3/8	3/8	2/4	2	1	I		A	I		I	I							M	0	0	0, 4, 1		0	0
@@ -29,7 +29,8 @@ mc	mn	quarterbeats	duration_qb	mc_onset	mn_onset	timesig	staff	voice	label	alt_l
 17	17	32	1.0	0	0	2/4	2	1	bII6		A	ii		bII6	bII		6					M	0	1	-1, -4, -5		-5	-1
 17	17	33	1.0	1/4	1/4	2/4	2	1	VI64		A	ii		VI64	VI		64					M	0	1	-3, -4, 0		-4	-3
 18	18	34	2.0	0	0	2/4	2	1	#viio65		A	ii		#viio65	#vii	o	65					o7	0	1	2, -1, -4, 5		5	2
-19	19	36	1.0	0	0	2/4	2	1	i		A	ii		i	i							m	0	1	0, -3, 1		0	0
+19	19	36	0.5	0	0	2/4	2	1	i		A	ii		i	i							m	0	1	0, -3, 1		0	0
+19	19	73/2	0.5	1/8	1/8	2/4	2	1	i6		A	ii		i6	i		6					m	0	1	-3, 1, 0		0	-3
 19	19	37	0.5	1/4	1/4	2/4	2	1	ii6		A	ii		ii6	ii		6					m	0	1	-1, 3, 2		2	-1
 19	19	75/2	0.5	3/8	3/8	2/4	2	1	V		A	ii		V	V							M	0	1	1, 5, 2		1	1
 20	20	38	0.5	0	0	2/4	2	1	VI(#2)		A	ii		VI(#2)	VI			#2				M	0	1	-4, 5, -3		-4	-4
