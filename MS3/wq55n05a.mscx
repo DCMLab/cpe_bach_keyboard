@@ -6871,7 +6871,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I6-V7/vi</name>
+            <name>I+6-V7/vi</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -7006,7 +7006,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I6-V7/vi</name>
+            <name>I+6-V7/vi</name>
             </Harmony>
           </voice>
         <voice>
@@ -8210,7 +8210,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I6-V7/vi</name>
+            <name>I+6-V7/vi</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -8347,7 +8347,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I6-V7/vi</name>
+            <name>I+6-V7/vi</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
