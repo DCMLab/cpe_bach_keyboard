@@ -8183,7 +8183,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I}</name>
+            <name>I(4)}</name>
             </Harmony>
           <Fermata>
             <subtype>fermataAbove</subtype>
@@ -8212,7 +8212,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>|IAC</name>
+            <name>I|IAC</name>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
