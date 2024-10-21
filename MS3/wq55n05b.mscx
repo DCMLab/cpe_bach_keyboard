@@ -3659,7 +3659,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii(64)-iv64/ii</name>
+            <name>ii(b64)-iv64/ii</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -3988,10 +3988,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>viio64</name>
-            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
