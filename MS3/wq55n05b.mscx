@@ -4898,7 +4898,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V65(b10b9)/iv</name>
+            <name>#viio7/iv</name>
             </Harmony>
           <Rest>
             <visible>0</visible>
@@ -4908,6 +4908,10 @@
             <offset x="0" y="-1"/>
             <durationType>eighth</durationType>
             </Rest>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V65/iv</name>
+            </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
