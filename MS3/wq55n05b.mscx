@@ -3659,7 +3659,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv64/ii</name>
+            <name>ii(64)-iv64/ii</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
