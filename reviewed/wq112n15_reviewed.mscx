@@ -620,9 +620,6 @@
       <Measure>
         <measureNumberMode>2</measureNumberMode>
         <voice>
-          <BarLine>
-            <visible>0</visible>
-            </BarLine>
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
@@ -1623,13 +1620,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii64</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
             <name>vi(64)-ii64</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -1884,10 +1875,6 @@
         </Measure>
       <Measure>
         <voice>
-          <BarLine>
-            <span>1</span>
-            <visible>0</visible>
-            </BarLine>
           <Chord>
             <durationType>half</durationType>
             <StemDirection>up</StemDirection>
