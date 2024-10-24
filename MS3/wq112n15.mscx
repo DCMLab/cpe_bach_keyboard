@@ -619,9 +619,6 @@
       <Measure>
         <measureNumberMode>2</measureNumberMode>
         <voice>
-          <BarLine>
-            <visible>0</visible>
-            </BarLine>
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
@@ -1863,10 +1860,6 @@
         </Measure>
       <Measure>
         <voice>
-          <BarLine>
-            <span>1</span>
-            <visible>0</visible>
-            </BarLine>
           <Chord>
             <durationType>half</durationType>
             <StemDirection>up</StemDirection>
