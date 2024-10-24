@@ -22,7 +22,7 @@
         "name": "Johannes Hentschel",
         "@id": "https://orcid.org/0000-0002-1986-9545"
       },
-      "softwareVersion": "1.2.12.post0.dev1+gb8c65dc"
+      "softwareVersion": "1.2.12"
     }
   ],
   "tables": [
