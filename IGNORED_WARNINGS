@@ -15,3 +15,11 @@ DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 125, '1/8', 'viio6/III') ms3.P
 DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 125, '1/4', 'III6') ms3.Parse.cpe_bach_keyboard.wq56n05
 	The label 'III6' in m. 125, onset 1/4 (MC 125, onset 1/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
     Out-of-label C-sharp is a passing tone.
+
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 20, '1/8', 'VI') ms3.Parse.cpe_bach_keyboard.wq56n06b
+	The label 'VI' in m. 20, onset 1/8 (MC 20, onset 1/8) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+    Out-of-label note onsets are chromatic passing and neighbour tones.
+
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 90) ms3.Parse.cpe_bach_keyboard.wq57n01
+    The incomplete MC 90 (timesig 1, act_dur 3/4) is completed by 1 incorrect duration (expected: 1/4): {91: Fraction(13, 4)}
+    That's OK because MC 90 and MC 91 (no MN, mm. 90b in the PDF) together constitute one cadenza.
