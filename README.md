@@ -10,7 +10,7 @@ Please note that the `meta_ corpora` branch should be used with collections of c
 |---------|-------:|-----:|--------|-------------|------------|
 |wq112n02 |      19|    38|2.3.0   |Amelia Brey  |DK          |
 |wq112n08 |      12|    56|2.3.0   |Amelia Brey  |DK          |
-|wq112n15 |       3|     0|        |             |            |
+|wq112n15 |      13|    28|        |Amelia Brey  |DK          |
 |wq113n03 |       7|    29|2.3.0   |Amelia Brey  |DK          |
 |wq114n07 |       4|     0|        |             |            |
 |wq117n11 |      14|    35|2.3.0   |Amelia Brey  |DK          |
@@ -60,11 +60,11 @@ Please note that the `meta_ corpora` branch should be used with collections of c
 |wq56n04a |      47|   161|2.3.0   |Davor Krkljus|AB          |
 |wq56n04b |      73|   101|2.3.0   |Davor Krkljus|AB          |
 |wq56n05  |     172|   308|2.3.0   |Davor Krkljus|AB          |
-|wq56n06a |      41|    83|2.3.0   |Amelia Brey  |DK          |
-|wq56n06b |      52|     0|        |             |            |
+|wq56n06a |      41|     0|        |             |            |
+|wq56n06b |      52|    90|2.3.0   |Amelia Brey  |DK          |
 |wq57n01  |      94|   557|2.3.0   |Davor Krkljus|AB          |
-|wq57n02a |      41|     0|        |             |            |
-|wq57n02b |      32|     0|        |             |            |
+|wq57n02a |      41|   116|2.3.0   |Amelia Brey  |DK          |
+|wq57n02b |      32|    68|2.3.0   |Amelia Brey  |DK          |
 |wq57n02c |      58|     0|        |             |            |
 |wq57n03  |     141|   283|2.3.0   |             |AB          |
 |wq57n04a |      81|   175|2.3.0   |Davor Krkljus|AB          |
