@@ -10834,7 +10834,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III(^9)</name>
+            <name>III(^2)</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -14339,7 +14339,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III(^9)</name>
+            <name>III(^2)</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -14917,7 +14917,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V]|HC</name>
+            <name>V]|HC}</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
