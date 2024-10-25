@@ -9156,7 +9156,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2/ii</name>
+            <name>V2/v</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -9872,23 +9872,40 @@
             <name>IV</name>
             </Harmony>
           <Chord>
-            <durationType>half</durationType>
+            <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
+              <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <fractions>1/4</fractions>
+                    </location>
+                  </next>
+                </Spanner>
               <pitch>58</pitch>
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/4</fractions>
-            </location>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>ii6</name>
             </Harmony>
-          <location>
-            <fractions>1/4</fractions>
-            </location>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <fractions>-1/4</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
+              </Note>
+            </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>#viio6(2)/ii</name>
