@@ -27,3 +27,23 @@ INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 90) ms3.Parse.cpe_bach_keyboard.wq57
 DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 11, '0', 'IV') ms3.Parse.cpe_bach_keyboard.wq55n05b 
     The label 'IV' in m. 11, onset 0 (MC 11, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
     Out-of-label note onsets constitute a chromatic embellishing run.
+
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 2) ms3.Parse.cpe_bach_keyboard.wq117n14
+    The incomplete MC 2 (timesig 1, act_dur 1/2) is completed by 1 incorrect duration (expected: 1/2): {3: Fraction(11, 32)}
+    This and other warnings regarding this piece result from encoding a metered (but unmeasured) Fantasia according to cadenza conventions.
+
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 8) ms3.Parse.cpe_bach_keyboard.wq117n14
+    The incomplete MC 8 (timesig 1, act_dur 1/2) is completed by 1 incorrect duration (expected: 1/2): {9: Fraction(1, 1)}
+    See above.
+
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 17) ms3.Parse.cpe_bach_keyboard.wq117n14
+    The incomplete MC 17 (timesig 1, act_dur 21/32) is completed by 1 incorrect duration (expected: 11/32): {18: Fraction(1, 1)}
+    See above.
+
+INCOMPLETE_MC_WRONGLY_COMPLETED_WARNING (3, 22) ms3.Parse.cpe_bach_keyboard.wq117n14
+    The incomplete MC 22 (timesig 1, act_dur 1/2) is completed by 1 incorrect duration (expected: 1/2): {23: Fraction(1, 1)}
+    See above.
+
+MCS_NOT_EXCLUDED_FROM_BARCOUNT_WARNING (1, 3) ms3.Parse.cpe_bach_keyboard.wq117n14
+    MC 3 seems to be offset from the MN's beginning but has not been excluded from barcount.
+    See above.
