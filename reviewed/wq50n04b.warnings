@@ -3,28 +3,14 @@ Warnings encountered during the last execution of ms3 review
 
 DCML_HARMONY_SYNTAX_WARNING (15,) ms3.Parse.cpe_bach_keyboard.wq50n04b --
 	Score contains 1 labels that don't (and 81 that do) match the DCML standard:
-	    mc  mn        label harmony_layer
-	45  12  12  {V2(7b3)/ii             1
-DCML_PHRASE_INCONGRUENCY_WARNING (16,) ms3.Parse.cpe_bach_keyboard.wq50n04b --
-	Phrase beginning and endings don't match:
-	mn_playthrough phraseend mn_playthrough phraseend
-	            1a         {             7a         }
-	            7a         {            11a         }
-	           15a        }{            15a        }{
-	           16a         {            16a         }
-	           NaN       NaN            17a         }
-DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 5, '0', 'viio7/V') ms3.Parse.cpe_bach_keyboard.wq50n04b --
-	The label 'viio7/V' in m. 5, onset 0 (MC 5, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
-	In the context of D.I, it expresses the scale degrees ('#4', '6', '1', 'b3') [('G#', 'B', 'D', 'F')].
+	    mc  mn      label harmony_layer
+	48  12  12  V2/ii(#8)             1
+DCML_SEVENTH_CORD_WITH_ALTERED_SEVENTH_WARNING (18,) ms3.Parse.cpe_bach_keyboard.wq50n04b --
+	MC 12: In seventh chords, such as V2(7b3), it is not clear whether the 7 alters the 7 or replaces the 8 and should not be used.
+DCML_SEVENTH_CORD_WITH_ALTERED_SEVENTH_WARNING (18,) ms3.Parse.cpe_bach_keyboard.wq50n04b --
+	MC 12: In seventh chords, such as V2(7b3), it is not clear whether the 7 alters the 7 or replaces the 8 and should not be used.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 5, '0', 'viio7/ii') ms3.Parse.cpe_bach_keyboard.wq50n04b --
+	The label 'viio7/ii' in m. 5, onset 0 (MC 5, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of D.I, it expresses the scale degrees ('1', 'b3', 'b5', 'bb7') [('D', 'F', 'Ab', 'Cb')].
 	The corresponding score segment has 0 within-label and 8 out-of-label note onsets, a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
-	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed by a free-text comment in subsequent lines starting with a space or tab.
-DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 5, '1/4', 'V7/V') ms3.Parse.cpe_bach_keyboard.wq50n04b --
-	The label 'V7/V' in m. 5, onset 1/4 (MC 5, onset 1/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
-	In the context of D.I, it expresses the scale degrees ('2', '#4', '6', '1') [('E', 'G#', 'B', 'D')].
-	The corresponding score segment has 1 within-label and 2 out-of-label note onsets, a ratio of 0.6666666666666666 > 0.6 (the current, arbitrary, threshold).
-	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed by a free-text comment in subsequent lines starting with a space or tab.
-DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 12, '3/16', 'V2(#8)') ms3.Parse.cpe_bach_keyboard.wq50n04b --
-	The label 'V2(#8)' in m. 12, onset 3/16 (MC 12, onset 3/16) seems not to correspond well to the score (which does not necessarily mean it is wrong).
-	In the context of D.I, it expresses the scale degrees ('4', '5', '7', '2') [('G', 'A', 'C#', 'E')].
-	The corresponding score segment has 0 within-label and 1 out-of-label note onsets, a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
 	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed by a free-text comment in subsequent lines starting with a space or tab.
