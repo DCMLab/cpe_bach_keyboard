@@ -4247,7 +4247,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>{V2(7b3)/ii</name>
+            <name>V2(7b3)/ii{</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
