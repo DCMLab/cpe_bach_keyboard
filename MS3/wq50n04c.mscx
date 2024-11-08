@@ -14548,7 +14548,7 @@
             </TimeSig>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>d.i</name>
+            <name>d.i{</name>
             </Harmony>
           <Rest>
             <visible>0</visible>
@@ -21650,7 +21650,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio7</name>
+            <name>#viio7{</name>
             </Harmony>
           </voice>
         </Measure>
