@@ -515,8 +515,8 @@
             <dots>1</dots>
             <durationType>16th</durationType>
             <Note>
-              <pitch>79</pitch>
-              <tpc>15</tpc>
+              <pitch>78</pitch>
+              <tpc>20</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -3542,7 +3542,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V65</name>
+            <name>V65(+6)</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
