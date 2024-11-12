@@ -1,14 +1,6 @@
 Warnings encountered during the last execution of ms3 review
 ============================================================
 
-DCML_HARMONY_SYNTAX_WARNING (15,) ms3.Parse.cpe_bach_keyboard.wq50n04b --
-	Score contains 1 labels that don't (and 81 that do) match the DCML standard:
-	    mc  mn      label harmony_layer
-	48  12  12  V2/ii(#8)             1
-DCML_SEVENTH_CORD_WITH_ALTERED_SEVENTH_WARNING (18,) ms3.Parse.cpe_bach_keyboard.wq50n04b --
-	MC 12: In seventh chords, such as V2(7b3), it is not clear whether the 7 alters the 7 or replaces the 8 and should not be used.
-DCML_SEVENTH_CORD_WITH_ALTERED_SEVENTH_WARNING (18,) ms3.Parse.cpe_bach_keyboard.wq50n04b --
-	MC 12: In seventh chords, such as V2(7b3), it is not clear whether the 7 alters the 7 or replaces the 8 and should not be used.
 DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 5, '0', 'viio7/ii') ms3.Parse.cpe_bach_keyboard.wq50n04b --
 	The label 'viio7/ii' in m. 5, onset 0 (MC 5, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
 	In the context of D.I, it expresses the scale degrees ('1', 'b3', 'b5', 'bb7') [('D', 'F', 'Ab', 'Cb')].
