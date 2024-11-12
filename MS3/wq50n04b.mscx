@@ -3649,7 +3649,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio7/ii</name>
+            <name>#viio2/ii</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
