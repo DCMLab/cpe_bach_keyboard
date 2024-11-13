@@ -10589,7 +10589,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio/V</name>
+            <name>viio43/V</name>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
@@ -10604,7 +10604,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(64)}</name>
+            <name>V(b64)}</name>
             </Harmony>
           <Chord>
             <durationType>32nd</durationType>
