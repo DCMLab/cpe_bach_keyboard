@@ -211,7 +211,7 @@
             <visible>0</visible>
             <minDistance>0.301685</minDistance>
             <offset x="2.18146" y="-4.08818"/>
-            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 72</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 72</b></text>
             </Tempo>
           <Chord>
             <durationType>half</durationType>
@@ -7510,7 +7510,14 @@
             <duration>1/1</duration>
             </Rest>
           <location>
-            <fractions>-3/4</fractions>
+            <fractions>-25/32</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>ii</name>
+            </Harmony>
+          <location>
+            <fractions>1/32</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
