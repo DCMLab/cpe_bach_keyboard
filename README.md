@@ -16,7 +16,7 @@ Please note that the `meta_ corpora` branch should be used with collections of c
 |wq117n11 |      14|    35|2.3.0   |Amelia Brey  |DK          |
 |wq117n12 |      14|    21|2.3.0   |Amelia Brey  |DK          |
 |wq117n13 |       8|     0|        |             |            |
-|wq117n14 |      18|     0|        |             |            |
+|wq117n14 |      26|    36|2.3.0   |Davor Krkljus|AB          |
 |wq119n07 |     123|   340|2.3.0   |Amelia Brey  |DK          |
 |wq50n01a |      48|   216|2.3.0   |Davor Krkljus|Victor Zheng|
 |wq50n01b |      25|    42|2.3.0   |Davor Krkljus|Victor Zheng|
@@ -71,8 +71,8 @@ Please note that the `meta_ corpora` branch should be used with collections of c
 |wq57n04b |      73|   166|2.3.0   |Davor Krkljus|AB          |
 |wq57n04c |      52|    98|2.3.0   |Davor Krkljus|AB          |
 |wq57n05  |     224|   366|2.3.0   |Davor Krkljus|AB          |
-|wq57n06a |      90|     0|        |             |            |
-|wq57n06b |      44|   106|2.3.0   |Davor Krkljus|            |
+|wq57n06a |      90|   161|2.3.0   |Davor Krkljus|            |
+|wq57n06b |      44|     0|        |             |            |
 |wq57n06c |      70|     0|        |             |            |
 
 
