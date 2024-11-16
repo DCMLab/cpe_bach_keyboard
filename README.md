@@ -73,7 +73,7 @@ Please note that the `meta_ corpora` branch should be used with collections of c
 |wq57n05  |     224|   366|2.3.0   |Davor Krkljus|AB          |
 |wq57n06a |      90|     0|        |             |            |
 |wq57n06b |      44|     0|        |             |            |
-|wq57n06c |      70|   135|2.3.0   |Davor Krkljus|            |
+|wq57n06c |      70|   136|2.3.0   |Davor Krkljus|Victor Zheng|
 
 
 *Overview table automatically updated using [ms3](https://johentsch.github.io/ms3/).*
