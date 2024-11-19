@@ -55,7 +55,7 @@ Please note that the `meta_ corpora` branch should be used with collections of c
 |wq56n01  |     176|     0|        |             |            |
 |wq56n02a |      71|     0|        |             |            |
 |wq56n02b |      24|     0|        |             |            |
-|wq56n02c |      48|   117|2.3.0   |Davor Krkljus|Victor Zheng|
+|wq56n02c |      48|   115|2.3.0   |Davor Krkljus|Victor Zheng|
 |wq56n03  |     149|     0|        |             |            |
 |wq56n04a |      47|     0|        |             |            |
 |wq56n04b |      73|     0|        |             |            |
