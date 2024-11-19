@@ -7952,7 +7952,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i/v</name>
+            <name>i/v|IAC}</name>
             </Harmony>
           <Rest>
             <visible>0</visible>
@@ -9447,7 +9447,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i|PAC}</name>
+            <name>i|IAC}</name>
             </Harmony>
           <Rest>
             <visible>0</visible>
