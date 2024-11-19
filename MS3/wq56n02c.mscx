@@ -7952,7 +7952,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i/v|PAC}</name>
+            <name>i/v</name>
             </Harmony>
           <Rest>
             <visible>0</visible>
