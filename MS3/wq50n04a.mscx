@@ -21933,13 +21933,6 @@
             <durationType>measure</durationType>
             <duration>1/2</duration>
             </Rest>
-          <location>
-            <fractions>-3/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name></name>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
