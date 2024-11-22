@@ -910,7 +910,6 @@
               </Spanner>
             <StemDirection>down</StemDirection>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <role>1</role>
                 <subtype>accidentalNatural</subtype>
@@ -8459,13 +8458,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III.V7/V</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
             <name>III.V7/V{</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -8553,7 +8546,7 @@
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V/IV(4)</name>
+            <name>V(4)/IV</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Rest>
@@ -8567,7 +8560,6 @@
             <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>48</pitch>
               <tpc>14</tpc>
               </Note>

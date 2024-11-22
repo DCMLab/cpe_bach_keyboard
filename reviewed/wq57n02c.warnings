@@ -1,7 +1,0 @@
-Warnings encountered during the last execution of ms3 review
-============================================================
-
-DCML_HARMONY_SYNTAX_WARNING (15,) ms3.Parse.cpe_bach_keyboard.wq57n02c --
-	Score contains 1 labels that don't (and 126 that do) match the DCML standard:
-	    mc  mn    label harmony_layer
-	16   8   7  V/IV(4)             1
