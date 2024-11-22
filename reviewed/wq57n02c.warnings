@@ -5,18 +5,3 @@ DCML_HARMONY_SYNTAX_WARNING (15,) ms3.Parse.cpe_bach_keyboard.wq57n02c --
 	Score contains 1 labels that don't (and 126 that do) match the DCML standard:
 	    mc  mn    label harmony_layer
 	16   8   7  V/IV(4)             1
-DCML_PHRASE_INCONGRUENCY_WARNING (16,) ms3.Parse.cpe_bach_keyboard.wq57n02c --
-	Phrase beginning and endings don't match:
-	mn_playthrough phraseend mn_playthrough phraseend
-	            0a         {             4a         }
-	           22a         {            21a         }
-	           26a         {            26a         }
-	           22b         {             4b         }
-	           26b         {            21b         }
-	           31a         {            26b         }
-	           54a         {            30a         }
-	           58a         {            53a         }
-	           31b         {            58a         }
-	           54b         {            30b         }
-	           NaN       NaN            53b         }
-	           NaN       NaN            58b         }
