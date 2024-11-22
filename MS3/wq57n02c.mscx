@@ -9207,7 +9207,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v.V65</name>
+            <name>v.V65{</name>
             </Harmony>
           <Rest>
             <visible>0</visible>
@@ -9634,7 +9634,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i.V/iv</name>
+            <name>i.V/iv{</name>
             </Harmony>
           <Rest>
             <offset x="0.132606" y="-1.85648"/>
