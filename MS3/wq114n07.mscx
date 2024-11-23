@@ -968,7 +968,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio6/V</name>
+            <name>viio6/V</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -1600,7 +1600,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio7</name>
+            <name>#viio7/V</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -2409,7 +2409,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Ger6</name>
+            <name>Ger6/iv</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -2468,7 +2468,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V[#viio43]</name>
+            <name>V[viio43/V]</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
