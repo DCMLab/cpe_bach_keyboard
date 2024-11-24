@@ -1,8 +1,6 @@
 Warnings encountered during the last execution of ms3 review
 ============================================================
 
-DCML_DEFAULT_CORRECTION_WARNING (27, 'MC 3: ') ms3.Parse.cpe_bach_keyboard.wq114n07 --
-	MC 3: #vii in major context corrected to vii.
 WRONGLY_ENCODED_POSITION_WARNING (28,) ms3.Parse.cpe_bach_keyboard.wq114n07 --
 	In the following instances the second event occurs before the first one: 
 	               mc  mn mc_onset mn_onset timesig  staff  voice   label globalkey localkey pedal   chord
@@ -15,5 +13,3 @@ ERROR    ms3.Parse.cpe_bach_keyboard.wq114n07 --
 WARNING  ms3.Parse.cpe_bach_keyboard.wq114n07 --
 	Error while creating durations from quarterbeats column. Error:
 	left side of interval must be <= right side
-DCML_DEFAULT_CORRECTION_WARNING (27, 'MC 3: ') ms3.Parse.cpe_bach_keyboard.wq114n07 --
-	MC 3: #vii in major context corrected to vii.
