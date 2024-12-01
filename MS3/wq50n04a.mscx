@@ -20487,7 +20487,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI</name>
+            <name>VI|DC</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -22957,7 +22957,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI</name>
+            <name>VI|DC</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
