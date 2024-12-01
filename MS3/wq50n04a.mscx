@@ -22782,7 +22782,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio2</name>
+            <name>VI(6#2)</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -22853,13 +22853,13 @@
         </Measure>
       <Measure>
         <voice>
-          <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>#viio64</name>
             </Harmony>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
@@ -22880,10 +22880,6 @@
               <tpc>21</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>#viio43</name>
-            </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
