@@ -9610,7 +9610,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i|PAC}</name>
+            <name>i|IAC}</name>
             </Harmony>
           <Rest>
             <dots>1</dots>
@@ -9656,6 +9656,10 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
@@ -9672,7 +9676,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i.V/iv{</name>
+            <name>i.V7/iv</name>
             </Harmony>
           <Rest>
             <offset x="0.132606" y="-1.85648"/>
@@ -9757,7 +9761,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio7/V/III</name>
+            <name>viio7/VII</name>
             </Harmony>
           </voice>
         </Measure>
@@ -9816,7 +9820,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V/III</name>
+            <name>VII</name>
             </Harmony>
           <location>
             <fractions>3/4</fractions>
