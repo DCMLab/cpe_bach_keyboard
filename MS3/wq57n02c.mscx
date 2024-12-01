@@ -8359,6 +8359,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V(4)</name>
+            </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
