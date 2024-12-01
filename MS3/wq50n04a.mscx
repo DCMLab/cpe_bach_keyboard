@@ -152,6 +152,12 @@
             <followText>1</followText>
             <text><font size="12"></font><b>Allegretto grazioso</b></text>
             </Tempo>
+          <Tempo>
+            <tempo>1.4166666666666667</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 85</b></text>
+            </Tempo>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
