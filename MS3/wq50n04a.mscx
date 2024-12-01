@@ -19178,10 +19178,6 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name></name>
-            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             <Fragment>
