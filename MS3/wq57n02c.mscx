@@ -8872,7 +8872,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7|HC}</name>
+            <name>V7</name>
             </Harmony>
           <Rest>
             <offset x="0" y="1.12169"/>
@@ -8937,7 +8937,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I{</name>
+            <name>I|PAC}</name>
             </Harmony>
           <Rest>
             <visible>0</visible>
@@ -8949,7 +8949,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V65/ii</name>
+            <name>V65/ii{</name>
             </Harmony>
           </voice>
         </Measure>
