@@ -22146,7 +22146,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V65/V/V/V/VI</name>
+            <name>V65/iv</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -22164,7 +22164,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2/V/V/VI</name>
+            <name>V2/VII</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -22211,7 +22211,7 @@
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V65/V/VI</name>
+            <name>V65/III</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -22328,7 +22328,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i(2)</name>
+            <name>ii%2</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
