@@ -209,6 +209,7 @@
           <Tempo>
             <tempo>2.5</tempo>
             <followText>1</followText>
+            <visible>0</visible>
             <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 150</b></text>
             </Tempo>
           <Tuplet>
@@ -8276,7 +8277,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i|PAC}</name>
+            <name>i|IAC}</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
