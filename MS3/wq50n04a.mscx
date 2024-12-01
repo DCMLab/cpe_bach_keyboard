@@ -22403,7 +22403,14 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7</name>
+            <name>V|HC}</name>
+            </Harmony>
+          <location>
+            <fractions>1/8</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
             </Harmony>
           </voice>
         </Measure>
@@ -22464,7 +22471,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7</name>
+            <name>V</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -22620,7 +22627,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(^7)}</name>
+            <name>V(#7)}</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
