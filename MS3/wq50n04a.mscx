@@ -19923,7 +19923,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii%2/III</name>
+            <name>ii%2</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -20161,7 +20161,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V|HC}</name>
+            <name>V(#7)}</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -20171,6 +20171,13 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-1/4</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V|HC</name>
+            </Harmony>
           </voice>
         </Measure>
       <Measure>
