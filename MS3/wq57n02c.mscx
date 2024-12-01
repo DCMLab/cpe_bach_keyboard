@@ -8324,6 +8324,10 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
@@ -8333,7 +8337,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III.V7/V{</name>
+            <name>III.V7/V</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
