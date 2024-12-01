@@ -21867,7 +21867,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio6|HC}</name>
+            <name>#viio6</name>
             </Harmony>
           </voice>
         </Measure>
@@ -21875,7 +21875,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i6{</name>
+            <name>i6}{</name>
             </Harmony>
           <Rest>
             <visible>0</visible>
