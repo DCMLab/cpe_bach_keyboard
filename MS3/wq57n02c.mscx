@@ -210,7 +210,7 @@
             <tempo>2.5</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 150</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 150</b></text>
             </Tempo>
           <Tuplet>
             <normalNotes>4</normalNotes>
@@ -9562,7 +9562,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio/V</name>
+            <name>V65/V</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
