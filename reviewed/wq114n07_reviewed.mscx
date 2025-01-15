@@ -511,11 +511,6 @@
           <BarLine>
             <visible>0</visible>
             </BarLine>
-          <TimeSig>
-            <visible>0</visible>
-            <sigN>7</sigN>
-            <sigD>8</sigD>
-            </TimeSig>
           </voice>
         <voice>
           <Chord>
@@ -704,18 +699,12 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="7/8">
         <MeasureNumber>
           <visible>0</visible>
           <text>2</text>
           </MeasureNumber>
         <voice>
-          <TimeSig>
-            <offset x="-2.55654" y="0"/>
-            <visible>0</visible>
-            <sigN>7</sigN>
-            <sigD>8</sigD>
-            </TimeSig>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
@@ -1237,30 +1226,14 @@
           <BarLine>
             <visible>0</visible>
             </BarLine>
-          <TimeSig>
-            <visible>0</visible>
-            <sigN>5</sigN>
-            <sigD>8</sigD>
-            </TimeSig>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="5/8">
         <MeasureNumber>
           <visible>0</visible>
           <text>3</text>
           </MeasureNumber>
         <voice>
-          <TimeSig>
-            <visible>0</visible>
-            <sigN>5</sigN>
-            <sigD>8</sigD>
-            <Groups>
-              <Node pos="4" action="512"/>
-              <Node pos="8" action="512"/>
-              <Node pos="12" action="273"/>
-              <Node pos="16" action="512"/>
-              </Groups>
-            </TimeSig>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>iv64</name>
@@ -1653,24 +1626,14 @@
           <BarLine>
             <visible>0</visible>
             </BarLine>
-          <TimeSig>
-            <visible>0</visible>
-            <sigN>6</sigN>
-            <sigD>2</sigD>
-            </TimeSig>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="6/2">
         <MeasureNumber>
           <visible>0</visible>
           <text>4</text>
           </MeasureNumber>
         <voice>
-          <TimeSig>
-            <visible>0</visible>
-            <sigN>6</sigN>
-            <sigD>2</sigD>
-            </TimeSig>
           <StaffText>
             <placement>below</placement>
             <text>arpeggio</text>
@@ -2246,11 +2209,6 @@
           <BarLine>
             <visible>0</visible>
             </BarLine>
-          <TimeSig>
-            <visible>0</visible>
-            <sigN>7</sigN>
-            <sigD>8</sigD>
-            </TimeSig>
           </voice>
         <voice>
           <Harmony>
@@ -2505,14 +2463,8 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="7/8">
         <voice>
-          <TimeSig>
-            <offset x="-2.55654" y="0"/>
-            <visible>0</visible>
-            <sigN>7</sigN>
-            <sigD>8</sigD>
-            </TimeSig>
           <Rest>
             <visible>0</visible>
             <durationType>measure</durationType>
@@ -2521,26 +2473,10 @@
           <BarLine>
             <visible>0</visible>
             </BarLine>
-          <TimeSig>
-            <visible>0</visible>
-            <sigN>5</sigN>
-            <sigD>8</sigD>
-            </TimeSig>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="5/8">
         <voice>
-          <TimeSig>
-            <visible>0</visible>
-            <sigN>5</sigN>
-            <sigD>8</sigD>
-            <Groups>
-              <Node pos="4" action="512"/>
-              <Node pos="8" action="512"/>
-              <Node pos="12" action="273"/>
-              <Node pos="16" action="512"/>
-              </Groups>
-            </TimeSig>
           <Rest>
             <visible>0</visible>
             <durationType>measure</durationType>
@@ -2549,20 +2485,10 @@
           <BarLine>
             <visible>0</visible>
             </BarLine>
-          <TimeSig>
-            <visible>0</visible>
-            <sigN>6</sigN>
-            <sigD>2</sigD>
-            </TimeSig>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="6/2">
         <voice>
-          <TimeSig>
-            <visible>0</visible>
-            <sigN>6</sigN>
-            <sigD>2</sigD>
-            </TimeSig>
           <Chord>
             <durationType>half</durationType>
             <StemDirection>up</StemDirection>
