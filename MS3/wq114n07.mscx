@@ -698,10 +698,6 @@
           </voice>
         </Measure>
       <Measure len="7/8">
-        <MeasureNumber>
-          <visible>0</visible>
-          <text>2</text>
-          </MeasureNumber>
         <voice>
           <Rest>
             <durationType>eighth</durationType>
@@ -1222,10 +1218,6 @@
           </voice>
         </Measure>
       <Measure len="5/8">
-        <MeasureNumber>
-          <visible>0</visible>
-          <text>3</text>
-          </MeasureNumber>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -1622,10 +1614,6 @@
           </voice>
         </Measure>
       <Measure len="6/2">
-        <MeasureNumber>
-          <visible>0</visible>
-          <text>4</text>
-          </MeasureNumber>
         <voice>
           <StaffText>
             <placement>below</placement>
@@ -2426,7 +2414,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V[viio43/V]</name>
+            <name>V(#9#764)</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
