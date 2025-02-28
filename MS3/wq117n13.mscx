@@ -4596,7 +4596,7 @@
             </BarLine>
           <TimeSig>
             <visible>0</visible>
-            <sigN>3</sigN>
+            <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
           </voice>
@@ -4659,7 +4659,7 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/4">
         <MeasureNumber>
           <visible>0</visible>
           <text>5</text>
@@ -4667,7 +4667,7 @@
         <voice>
           <TimeSig>
             <visible>0</visible>
-            <sigN>3</sigN>
+            <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
           <RehearsalMark>
@@ -4854,30 +4854,14 @@
             <visible>0</visible>
             <durationType>16th</durationType>
             </Rest>
-          <BarLine>
-            <visible>0</visible>
-            </BarLine>
-          <TimeSig>
-            <visible>0</visible>
-            <sigN>20</sigN>
-            <sigD>4</sigD>
-            </TimeSig>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="20/4">
         <MeasureNumber>
           <visible>0</visible>
           <text>6</text>
           </MeasureNumber>
         <voice>
-          <TimeSig>
-            <visible>0</visible>
-            <sigN>20</sigN>
-            <sigD>4</sigD>
-            </TimeSig>
-          <RehearsalMark>
-            <text><font size="10.7"></font><b>3f</b></text>
-            </RehearsalMark>
           <Chord>
             <durationType>half</durationType>
             <StemDirection>up</StemDirection>
@@ -5016,14 +5000,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <BarLine>
-            <visible>0</visible>
-            </BarLine>
-          <TimeSig>
-            <visible>0</visible>
-            <sigN>6</sigN>
-            <sigD>4</sigD>
-            </TimeSig>
           </voice>
         <voice>
           <location>
@@ -5246,17 +5222,8 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure>
-        <MeasureNumber>
-          <visible>0</visible>
-          <text>7</text>
-          </MeasureNumber>
+      <Measure len="6/4">
         <voice>
-          <TimeSig>
-            <visible>0</visible>
-            <sigN>6</sigN>
-            <sigD>4</sigD>
-            </TimeSig>
           <Rest>
             <visible>0</visible>
             <durationType>half</durationType>
@@ -5546,27 +5513,10 @@
             <visible>0</visible>
             <durationType>64th</durationType>
             </Rest>
-          <BarLine>
-            <visible>0</visible>
-            </BarLine>
-          <TimeSig>
-            <visible>0</visible>
-            <sigN>5</sigN>
-            <sigD>4</sigD>
-            </TimeSig>
           </voice>
         </Measure>
-      <Measure>
-        <MeasureNumber>
-          <visible>0</visible>
-          <text>8</text>
-          </MeasureNumber>
+      <Measure len="5/4">
         <voice>
-          <TimeSig>
-            <visible>0</visible>
-            <sigN>5</sigN>
-            <sigD>4</sigD>
-            </TimeSig>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
@@ -6674,7 +6624,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv.#viio65/V</name>
+            <name>iv.viio65/V</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -7434,7 +7384,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#vii%/VII</name>
+            <name>vii%65/VII</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -8261,16 +8211,16 @@
             </BarLine>
           <TimeSig>
             <visible>0</visible>
-            <sigN>3</sigN>
+            <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="3/4">
         <voice>
           <TimeSig>
             <visible>0</visible>
-            <sigN>3</sigN>
+            <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
           <Harmony>
@@ -8320,23 +8270,10 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <BarLine>
-            <visible>0</visible>
-            </BarLine>
-          <TimeSig>
-            <visible>0</visible>
-            <sigN>20</sigN>
-            <sigD>4</sigD>
-            </TimeSig>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="20/4">
         <voice>
-          <TimeSig>
-            <visible>0</visible>
-            <sigN>20</sigN>
-            <sigD>4</sigD>
-            </TimeSig>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>{</name>
@@ -8391,7 +8328,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio7/V</name>
+            <name>viio7/V</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -8663,7 +8600,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio7/V</name>
+            <name>viio7/V</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -8717,20 +8654,10 @@
             <visible>0</visible>
             <durationType>quarter</durationType>
             </Rest>
-          <TimeSig>
-            <visible>0</visible>
-            <sigN>6</sigN>
-            <sigD>4</sigD>
-            </TimeSig>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="6/4">
         <voice>
-          <TimeSig>
-            <visible>0</visible>
-            <sigN>6</sigN>
-            <sigD>4</sigD>
-            </TimeSig>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V(64)</name>
@@ -8807,23 +8734,10 @@
             <visible>0</visible>
             <durationType>16th</durationType>
             </Rest>
-          <BarLine>
-            <visible>0</visible>
-            </BarLine>
-          <TimeSig>
-            <visible>0</visible>
-            <sigN>5</sigN>
-            <sigD>4</sigD>
-            </TimeSig>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="5/4">
         <voice>
-          <TimeSig>
-            <visible>0</visible>
-            <sigN>5</sigN>
-            <sigD>4</sigD>
-            </TimeSig>
           <Rest>
             <offset x="0" y="-3"/>
             <visible>0</visible>
