@@ -412,7 +412,6 @@
             <durationType>half</durationType>
             <StemDirection>up</StemDirection>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>69</pitch>
               <tpc>17</tpc>
               </Note>
@@ -445,7 +444,6 @@
               <tpc>18</tpc>
               </Note>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>79</pitch>
               <tpc>15</tpc>
               </Note>
@@ -700,10 +698,6 @@
           </voice>
         </Measure>
       <Measure len="7/8">
-        <MeasureNumber>
-          <visible>0</visible>
-          <text>2</text>
-          </MeasureNumber>
         <voice>
           <Rest>
             <durationType>eighth</durationType>
@@ -960,13 +954,18 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>viio6/V</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>It6</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>64th</durationType>
             <StemDirection>down</StemDirection>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>70</pitch>
               <tpc>12</tpc>
               </Note>
@@ -1047,6 +1046,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V43/III</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>#viio43</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -1064,7 +1069,6 @@
             <BeamMode>begin</BeamMode>
             <durationType>64th</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>73</pitch>
               <tpc>21</tpc>
               </Note>
@@ -1081,7 +1085,6 @@
             <BeamMode>mid</BeamMode>
             <durationType>64th</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>73</pitch>
               <tpc>21</tpc>
               </Note>
@@ -1166,9 +1169,11 @@
             <BeamMode>mid</BeamMode>
             <durationType>64th</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
-              <pitch>80</pitch>
-              <tpc>22</tpc>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
+              <pitch>79</pitch>
+              <tpc>15</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1210,9 +1215,8 @@
             <BeamMode>mid</BeamMode>
             <durationType>64th</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
-              <pitch>80</pitch>
-              <tpc>22</tpc>
+              <pitch>79</pitch>
+              <tpc>15</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1229,10 +1233,6 @@
           </voice>
         </Measure>
       <Measure len="5/8">
-        <MeasureNumber>
-          <visible>0</visible>
-          <text>3</text>
-          </MeasureNumber>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -1629,10 +1629,6 @@
           </voice>
         </Measure>
       <Measure len="6/2">
-        <MeasureNumber>
-          <visible>0</visible>
-          <text>4</text>
-          </MeasureNumber>
         <voice>
           <StaffText>
             <placement>below</placement>
@@ -1684,6 +1680,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7/iv</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V7/iv|EC}</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -1710,6 +1712,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i[IV</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i(#64)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -1742,6 +1750,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>#viio43</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i(9#764)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -1765,6 +1779,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i]|IAC}</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -1894,7 +1914,6 @@
               <tpc>15</tpc>
               </Note>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>58</pitch>
               <tpc>12</tpc>
               </Note>
@@ -2239,6 +2258,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V2(b9)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V2(9)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -2349,12 +2374,17 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i65</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V65/iv</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
                 </Accidental>
@@ -2395,6 +2425,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>#viio6</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V43</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -2415,6 +2451,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V7</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -2439,12 +2481,17 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V[viio43/V]</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V(#9#764)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>45</pitch>
               <tpc>17</tpc>
               </Note>
@@ -2655,7 +2702,6 @@
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>38</pitch>
               <tpc>16</tpc>
               </Note>
