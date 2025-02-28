@@ -7,7 +7,8 @@
     <currentLayer>0</currentLayer>
     <Division>480</Division>
     <Style>
-      <Spatium>1.74978</Spatium>
+      <enableIndentationOnFirstSystem>0</enableIndentationOnFirstSystem>
+      <Spatium>1.55</Spatium>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
