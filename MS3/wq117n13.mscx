@@ -1649,7 +1649,10 @@
           </voice>
         </Measure>
       <Measure len="9/4">
-        <irregular>1</irregular>
+        <MeasureNumber>
+          <visible>0</visible>
+          <text>2</text>
+          </MeasureNumber>
         <LayoutBreak>
           <subtype>page</subtype>
           </LayoutBreak>
@@ -2020,6 +2023,7 @@
           </voice>
         </Measure>
       <Measure len="25/4">
+        <irregular>1</irregular>
         <measureNumberMode>2</measureNumberMode>
         <vspacerDown>9.96356</vspacerDown>
         <LayoutBreak>
@@ -2942,8 +2946,11 @@
           </voice>
         </Measure>
       <Measure len="6/4">
-        <irregular>1</irregular>
         <stretch>0.9</stretch>
+        <MeasureNumber>
+          <visible>0</visible>
+          <text>3</text>
+          </MeasureNumber>
         <voice>
           <KeySig>
             <accidental>-2</accidental>
@@ -3080,6 +3087,7 @@
           </voice>
         </Measure>
       <Measure len="18/4">
+        <irregular>1</irregular>
         <measureNumberMode>2</measureNumberMode>
         <vspacerDown>8.527</vspacerDown>
         <LayoutBreak>
@@ -3574,6 +3582,7 @@
           </voice>
         </Measure>
       <Measure len="20/4">
+        <irregular>1</irregular>
         <measureNumberMode>2</measureNumberMode>
         <vspacerDown>8.30599</vspacerDown>
         <voice>
@@ -4227,6 +4236,9 @@
           <subtype>line</subtype>
           </LayoutBreak>
         <voice>
+          <RehearsalMark>
+            <text><font size="10.7"/>3d</text>
+            </RehearsalMark>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -4660,10 +4672,8 @@
           </voice>
         </Measure>
       <Measure len="3/4">
-        <MeasureNumber>
-          <visible>0</visible>
-          <text>5</text>
-          </MeasureNumber>
+        <irregular>1</irregular>
+        <measureNumberMode>2</measureNumberMode>
         <voice>
           <TimeSig>
             <visible>0</visible>
@@ -4857,10 +4867,7 @@
           </voice>
         </Measure>
       <Measure len="20/4">
-        <MeasureNumber>
-          <visible>0</visible>
-          <text>6</text>
-          </MeasureNumber>
+        <irregular>1</irregular>
         <voice>
           <Chord>
             <durationType>half</durationType>
@@ -5223,6 +5230,7 @@
           </voice>
         </Measure>
       <Measure len="6/4">
+        <irregular>1</irregular>
         <voice>
           <Rest>
             <visible>0</visible>
@@ -5516,6 +5524,7 @@
           </voice>
         </Measure>
       <Measure len="5/4">
+        <irregular>1</irregular>
         <voice>
           <Rest>
             <durationType>quarter</durationType>
