@@ -7006,8 +7006,11 @@
               <tpc>17</tpc>
               </Note>
             <Note>
-              <pitch>59</pitch>
-              <tpc>7</tpc>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Rest>
