@@ -7860,7 +7860,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III64</name>
+            <name>iii.V64/VII</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -7876,7 +7876,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iii.#viio(94)</name>
+            <name>V65/VII</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
