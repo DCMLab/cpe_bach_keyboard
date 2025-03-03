@@ -8456,7 +8456,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv6</name>
+            <name>iv6/iv</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -8493,7 +8493,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V[iv</name>
+            <name>i[V(64)/iv</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -8533,7 +8533,7 @@
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio43</name>
+            <name>#viio43-V(#9#764)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
