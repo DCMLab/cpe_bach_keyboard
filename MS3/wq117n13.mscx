@@ -7650,7 +7650,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7</name>
+            <name>V7|HC}</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -7766,7 +7766,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7|HC}</name>
+            <name>V7}</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -7810,6 +7810,15 @@
           <BarLine>
             <visible>0</visible>
             </BarLine>
+          </voice>
+        <voice>
+          <location>
+            <fractions>1/8</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           </voice>
         </Measure>
       <Measure len="20/4">
