@@ -6236,7 +6236,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(b9)|HC}</name>
+            <name>V7(b9)</name>
             </Harmony>
           <location>
             <fractions>1/2</fractions>
@@ -6255,7 +6255,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i{</name>
+            <name>i|PAC}</name>
             </Harmony>
           <Rest>
             <visible>0</visible>
@@ -6282,7 +6282,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2/iv</name>
+            <name>V2/iv{</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
