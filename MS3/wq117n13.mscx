@@ -4015,9 +4015,6 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <StaffText>
-            <text>(C♮?)</text>
-            </StaffText>
           <Chord>
             <durationType>half</durationType>
             <StemDirection>down</StemDirection>
@@ -7942,7 +7939,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7</name>
+            <name>V7|HC}</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -7967,6 +7964,16 @@
             <visible>0</visible>
             <durationType>quarter</durationType>
             </Rest>
+          <location>
+            <fractions>-3/16</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
+          <location>
+            <fractions>3/16</fractions>
+            </location>
           <Rest>
             <visible>0</visible>
             <durationType>half</durationType>
@@ -7997,7 +8004,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio7|HC}</name>
+            <name>#viio7}</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
