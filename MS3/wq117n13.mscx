@@ -214,7 +214,7 @@
             <tempo>1.2</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 72</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 72</b></text>
             </Tempo>
           <Rest>
             <visible>0</visible>
@@ -4237,7 +4237,7 @@
           </LayoutBreak>
         <voice>
           <RehearsalMark>
-            <text><font size="10.7"/>3d</text>
+            <text><font size="10.7"></font>3d</text>
             </RehearsalMark>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -6154,7 +6154,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV6</name>
+            <name>IV6(2)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
