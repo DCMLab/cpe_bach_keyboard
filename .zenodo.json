@@ -13,14 +13,14 @@
             "name": "Davor Krkljus"
         },
         {
-            "orcid": "0009-0005-5468-5871",
+            "orcid": "0000-0001-6254-2604",
             "type": "DataCollector",
-            "name": "Ehsan Mohagheghi Fard"
+            "name": "Sylvie Tran"
         },
         {
-            "orcid": "0000-0002-2105-525X",
+            "orcid": "0009-0001-0954-4448",
             "type": "DataCollector",
-            "name": "Hanné Becker"
+            "name": "Victor Zheng"
         }
     ],
     "title": "Carl Philipp Emanuel Bach – Works for Keyboard",
@@ -55,21 +55,26 @@
             "identifier": "epfl"
         }
     ],
-    "publication_date": "2024-09-10",
+    "publication_date": "2025-03-03",
     "creators": [
         {
             "orcid": "0000-0002-1986-9545",
-            "affiliation": "\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne",
+            "affiliation": "Anton Bruckner University Linz",
             "name": "Johannes Hentschel"
         },
         {
             "orcid": "0000-0003-1455-5990",
-            "affiliation": "\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne",
+            "affiliation": "École Polytechnique Fédérale de Lausanne",
             "name": "Yannis Rammos"
         },
         {
+            "orcid": "0000-0003-1990-052X",
+            "affiliation": "Anton Bruckner University Linz",
+            "name": "Markus Neuwirth"
+        },
+        {
             "orcid": "0000-0002-4323-7257",
-            "affiliation": "\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne",
+            "affiliation": "École Polytechnique Fédérale de Lausanne",
             "name": "Martin Rohrmeier"
         }
     ],
@@ -77,7 +82,7 @@
     "related_identifiers": [
         {
             "scheme": "url",
-            "identifier": "https://github.com/DCMLab/cpe_bach_keyboard/tree/",
+            "identifier": "https://github.com/DCMLab/cpe_bach_keyboard/tree/v1.0",
             "relation": "references"
         },
         {
