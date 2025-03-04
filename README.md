@@ -105,4 +105,4 @@ Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License 
 |wq57n06c |      70|   135|2.3.0   |Davor Krkljus|Victor Zheng      |
 
 
-*Overview table automatically updated using [ms3](https://johentsch.github.io/ms3/).*
+*Overview table automatically updated using [ms3](https://ms3.readthedocs.io/).*
