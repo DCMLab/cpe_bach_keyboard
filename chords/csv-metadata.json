@@ -5,11 +5,10 @@
       "@language": "en "
     }
   ],
-  "dc:title": "Measure tables for cpe_bach_keyboard",
+  "dc:title": "chords for cpe_bach_keyboard",
   "dialect": {
     "delimiter": "\t"
   },
-  "dc:description": "One feature matrix per score, containing one line per stack of <Measure> tags in the score's XML tree. They are counted in the column 'mc' starting from 1, whereas the conventional measure numbers are shown in the column 'mn'. One MN is frequently composed in two (or more) MCs. Furthermore, these tables include special bar lines, repeat signs, first and second endings, irregular measure lengths, as well as the column 'next' which contains follow-up MCs for unfolding a score's repeat structure. For more information, please refer to the docs at https://johentsch.github.io/ms3/columns",
   "dc:created": "2025-03-04T11:02:25",
   "dc:creator": [
     {
@@ -249,65 +248,90 @@
         "datatype": "float"
       },
       {
-        "titles": "keysig",
+        "titles": "volta",
         "datatype": "integer"
+      },
+      {
+        "titles": "mc_onset",
+        "datatype": {
+          "base": "string",
+          "format": "-?\\d+(?:\\/\\d+)?"
+        },
+        "dc:description": "An event's distance (fraction of a whole note) from the beginning of the MC."
+      },
+      {
+        "titles": "mn_onset",
+        "datatype": {
+          "base": "string",
+          "format": "-?\\d+(?:\\/\\d+)?"
+        },
+        "dc:description": "An event's distance (fraction of a whole note) from the beginning of the MN."
+      },
+      {
+        "titles": "event"
       },
       {
         "titles": "timesig",
         "datatype": "string"
       },
       {
-        "titles": "act_dur",
+        "titles": "staff",
+        "datatype": "integer"
+      },
+      {
+        "titles": "voice",
+        "datatype": "integer"
+      },
+      {
+        "titles": "duration",
         "datatype": {
           "base": "string",
           "format": "-?\\d+(?:\\/\\d+)?"
         }
       },
       {
-        "titles": "mc_offset",
+        "titles": "gracenote",
+        "datatype": "string"
+      },
+      {
+        "titles": "tremolo"
+      },
+      {
+        "titles": "nominal_duration",
         "datatype": {
           "base": "string",
           "format": "-?\\d+(?:\\/\\d+)?"
         }
       },
       {
-        "titles": "numbering_offset",
-        "datatype": "integer"
-      },
-      {
-        "titles": "dont_count",
-        "datatype": "integer"
-      },
-      {
-        "titles": "barline",
-        "datatype": "string"
-      },
-      {
-        "titles": "breaks",
-        "datatype": "string"
-      },
-      {
-        "titles": "repeats",
-        "datatype": "string"
-      },
-      {
-        "titles": "markers"
-      },
-      {
-        "titles": "jump_bwd"
-      },
-      {
-        "titles": "jump_fwd"
-      },
-      {
-        "titles": "play_until"
-      },
-      {
-        "titles": "next",
+        "titles": "scalar",
         "datatype": {
           "base": "string",
-          "format": "\\(-?\\d+, ?-?\\d+\\)"
+          "format": "-?\\d+(?:\\/\\d+)?"
         }
+      },
+      {
+        "titles": "chord_id",
+        "datatype": "integer"
+      },
+      {
+        "titles": "dynamics"
+      },
+      {
+        "titles": "articulation"
+      },
+      {
+        "titles": "staff_text"
+      },
+      {
+        "titles": "tempo"
+      },
+      {
+        "titles": "qpm"
+      },
+      {
+        "titles": "slur",
+        "datatype": "string"
       }
     ]
   }
