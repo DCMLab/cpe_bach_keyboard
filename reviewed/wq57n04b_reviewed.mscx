@@ -70,6 +70,7 @@
     <showMargins>1</showMargins>
     <metaTag name="annotators">Davor Krkljus</metaTag>
     <metaTag name="arranger"></metaTag>
+    <metaTag name="compared_against">LATEST_VERSION</metaTag>
     <metaTag name="composed_end">1766</metaTag>
     <metaTag name="composed_source">Packard Humanities Institute (cpebach.org)</metaTag>
     <metaTag name="composed_start">1766</metaTag>
