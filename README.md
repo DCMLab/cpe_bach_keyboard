@@ -18,11 +18,25 @@ This corpus of annotated [MuseScore](https://musescore.org) files has been creat
 the [DCML corpus initiative](https://github.com/DCMLab/dcml_corpora) and employs
 the [DCML harmony annotation standard](https://github.com/DCMLab/standards).
 
-The second surviving son of Johann Sebastian Bach, Carl Philipp Emanuel Bach charted his own course\r as an innovative composer in the "Empfindsamer Stil" (Sentimental Style) on the cusp of Baroque and\r Classical practice, and for a time, his fame surpassed his father's. Emanuel Bach's style is\r characterized by rapid, urgent, and often shocking juxtapositions of mood within a single movement;\r it is not hard to see why this music held a particular influence on a young Ludwig van Beethoven.\r This repository reflects a selection both of longer sonatas and rondos (including both single-movement\r and multi-movement sonatas) and of freeform Fantasias in order to reflect a cross-section\r of this composer's unique practice.\r 
-\r
-Wq. 50 is a didactic group of "Sonaten mit veränderten Reprisen" (Sonatas with Varied Reprises)\r intended to instruct the performer in the proper method of ornamenting a repeated section. Wq. 55\r through 57 come from Bach's "Kenner und Liebhaber" (Connoisseurs and Amateurs) series, whose wide\r circulation Bach supervised himself, and whose title is somewhat ironic given the virtuosity on\r showcase in these works. The remaining pieces in this repository are a selection of Free Fantasias,\r all of which are found in volumes that combine keyboard works in a variety of genres, such as Wq.\r 112, "Clavierstücke verschiedener Art" (Piano Pieces of Various Kinds). These Fantasias -- which, as\r their name implies, are not bound by formal conventions -- are themselves divided between\r concise etude-like miniatures like Wq. 113/3 and extended unmeasured soliloquies like Wq. 117/13.\r
-\r
-These scores were typeset especially for this project by Anna Yuferova following the critical\r editions from the Packard Institute, with the exception of Wq. 117/12 and 55/4, which were downloaded\r from the MuseScore catalogue.
+The second surviving son of Johann Sebastian Bach, Carl Philipp Emanuel Bach charted his own course as an innovative
+composer in the "Empfindsamer Stil" (Sentimental Style) on the cusp of Baroque and Classical practice, and for a time,
+his fame surpassed his father's. Emanuel Bach's style is characterized by rapid, urgent, and often shocking
+juxtapositions of mood within a single movement; it is not hard to see why this music held a particular influence on a
+young Ludwig van Beethoven. This repository reflects a selection both of longer sonatas and rondos (including both
+single-movement and multi-movement sonatas) and of freeform Fantasias in order to reflect a cross-section of this
+composer's unique practice. 
+ 
+Wq. 50 is a didactic group of "Sonaten mit veränderten Reprisen" (Sonatas with Varied Reprises) intended to instruct
+the performer in the proper method of ornamenting a repeated section. Wq. 55 through 57 come from Bach's "Kenner und
+Liebhaber" (Connoisseurs and Amateurs) series, whose wide circulation Bach supervised himself, and whose title is
+somewhat ironic given the virtuosity on showcase in these works. The remaining pieces in this repository are a
+selection of Free Fantasias, all of which are found in volumes that combine keyboard works in a variety of genres,
+such as Wq. 112, "Clavierstücke verschiedener Art" (Piano Pieces of Various Kinds). These Fantasias -- which, as 
+their name implies, are not bound by formal conventions -- are themselves divided between concise etude-like
+miniatures like Wq. 113/3 and extended unmeasured soliloquies like Wq. 117/13. 
+ 
+These scores were typeset especially for this project by Anna Yuferova following the critical editions from the
+Packard Institute, with the exception of Wq. 117/12 and 55/4, which were downloaded from the MuseScore catalogue.
 
 ## Cite as
 
