@@ -13,6 +13,7 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>1</showMargins>
+    <metaTag name="P86 (composer)">Q76447</metaTag>
     <metaTag name="annotators">Victor Zheng</metaTag>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1759</metaTag>
@@ -156,7 +157,7 @@
             <tempo>1.4166666666666667</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 85</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 85</b></text>
             </Tempo>
           <Chord>
             <durationType>quarter</durationType>
