@@ -1,5 +1,5 @@
 ![Version](https://img.shields.io/github/v/release/DCMLab/cpe_bach_keyboard?display_name=tag)
-[![DOI](https://zenodo.org/badge/{{ zenodo_badge_id }}.svg)](https://zenodo.org/badge/latestdoi/{{ zenodo_badge_id }})
+[![DOI](https://zenodo.org/badge/{{ zenodo_badge_id }}.svg)](https://doi.org/{{ concept_doi }})
 ![GitHub repo size](https://img.shields.io/github/repo-size/DCMLab/cpe_bach_keyboard)
 ![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-9cf)
 
@@ -12,7 +12,8 @@ and serves as welcome page for both
 
 For information on how to obtain and use the dataset, please refer to [this documentation page](https://dcmlab.github.io/cpe_bach_keyboard/introduction).
 
-# Carl Philipp Emanuel Bach – Works for Keyboard
+# Carl Philipp Emanuel Bach – Works for Keyboard (A corpus of annotated scores)
+
 
 This corpus of annotated [MuseScore](https://musescore.org) files has been created within
 the [DCML corpus initiative](https://github.com/DCMLab/dcml_corpora) and employs
@@ -38,7 +39,61 @@ miniatures like Wq. 113/3 and extended unmeasured soliloquies like Wq. 117/13.
 These scores were typeset especially for this project by Anna Yuferova following the critical editions from the
 Packard Institute, with the exception of Wq. 117/12 and 55/4, which were downloaded from the MuseScore catalogue.
 
-## Cite as
+
+## Getting the data
+
+* download repository as a [ZIP file](https://github.com/DCMLab/cpe_bach_keyboard/archive/main.zip)
+* download a [Frictionless Datapackage](https://specs.frictionlessdata.io/data-package/) that includes concatenations
+  of the TSV files in the four folders (`measures`, `notes`, `chords`, and `harmonies`) and a JSON descriptor:
+  * [cpe_bach_keyboard.zip](https://github.com/DCMLab/cpe_bach_keyboard/releases/latest/download/cpe_bach_keyboard.zip)
+  * [cpe_bach_keyboard.datapackage.json](https://github.com/DCMLab/cpe_bach_keyboard/releases/latest/download/cpe_bach_keyboard.datapackage.json)
+* clone the repo: `git clone https://github.com/DCMLab/cpe_bach_keyboard.git` 
+
+
+## Data Formats
+
+Each piece in this corpus is represented by five files with identical name prefixes, each in its own folder. 
+For example, the first movement of the *Sonata in F Major*, Wq.50/1, has the following files:
+
+* `MS3/wq50n01a.mscx`: Uncompressed MuseScore 3.6.2 file including the music and annotation labels.
+* `notes/wq50n01a.notes.tsv`: A table of all note heads contained in the score and their relevant features (not each of them represents an onset, some are tied together)
+* `measures/wq50n01a.measures.tsv`: A table with relevant information about the measures in the score.
+* `chords/wq50n01a.chords.tsv`: A table containing layer-wise unique onset positions with the musical markup (such as dynamics, articulation, lyrics, figured bass, etc.).
+* `harmonies/wq50n01a.harmonies.tsv`: A table of the included harmony labels (including cadences and phrases) with their positions in the score.
+
+Each TSV file comes with its own JSON descriptor that describes the meanings and datatypes of the columns ("fields") it contains,
+follows the [Frictionless specification](https://specs.frictionlessdata.io/tabular-data-resource/),
+and can be used to validate and correctly load the described file. 
+
+### Opening Scores
+
+After navigating to your local copy, you can open the scores in the folder `MS3` with the free and open source score
+editor [MuseScore](https://musescore.org). Please note that the scores have been edited, annotated and tested with
+[MuseScore 3.6.2](https://github.com/musescore/MuseScore/releases/tag/v3.6.2). 
+MuseScore 4 has since been released which renders them correctly but cannot store them back in the same format.
+
+### Opening TSV files in a spreadsheet
+
+Tab-separated value (TSV) files are like Comma-separated value (CSV) files and can be opened with most modern text
+editors. However, for correctly displaying the columns, you might want to use a spreadsheet or an addon for your
+favourite text editor. When you use a spreadsheet such as Excel, it might annoy you by interpreting fractions as
+dates. This can be circumvented by using `Data --> From Text/CSV` or the free alternative
+[LibreOffice Calc](https://www.libreoffice.org/download/download/). Other than that, TSV data can be loaded with
+every modern programming language.
+
+### Loading TSV files in Python
+
+Since the TSV files contain null values, lists, fractions, and numbers that are to be treated as strings, you may want
+to use this code to load any TSV files related to this repository (provided you're doing it in Python). After a quick
+`pip install -U ms3` (requires Python 3.10 or later) you'll be able to load any TSV like this:
+
+```python
+import ms3
+
+labels = ms3.load_tsv("harmonies/wq50n01a.harmonies.tsv")
+notes = ms3.load_tsv("notes/wq50n01a.notes.tsv")
+```
+
 
 ## Version history
 
@@ -48,6 +103,10 @@ See the [GitHub releases](https://github.com/DCMLab/cpe_bach_keyboard/releases).
 
 Please [create an issue](https://github.com/DCMLab/cpe_bach_keyboard/issues) and/or feel free to fork and submit pull requests.
 
+## Cite as
+
+> Johannes Hentschel, Yannis Rammos, Markus Neuwirth, & Martin Rohrmeier. (2025). Carl Philipp Emanuel Bach – Works for Keyboard (A corpus of annotated scores) [Data set]. Zenodo. https://doi.org/{{ concept_doi }}
+
 ## License
 
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)).
@@ -56,8 +115,11 @@ Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License 
 
 ## File naming convention
 
-
-
+```regex
+wq(?<wotquenne>\d{2,3})
+n(?<no>\d{2})
+(?<movement>[a-c])?
+```
 
 ## Overview
 |file_name|measures|labels|standard| annotators  |    reviewers     |
