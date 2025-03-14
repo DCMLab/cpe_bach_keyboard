@@ -20,6 +20,16 @@
             "orcid": "0009-0001-0954-4448",
             "type": "DataCollector",
             "name": "Victor Zheng"
+        },
+        {
+            "orcid": "0000-0002-6329-7492",
+            "type": "DataCurator",
+            "name": "Amelia Brey"
+        },
+        {
+            "orcid": "0000-0002-1986-9545",
+            "type": "DataCurator",
+            "name": "Johannes Hentschel"
         }
     ],
     "title": "Carl Philipp Emanuel Bach – Works for Keyboard (A corpus of annotated scores)",
